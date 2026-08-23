@@ -1,0 +1,9382 @@
+{
+  "coupling": {
+    "corpus_count": 169,
+    "general_freq": 2.95e-06
+  },
+  "lattice": {
+    "corpus_count": 131,
+    "general_freq": 2.29e-06
+  },
+  "spectroscopy": {
+    "corpus_count": 118,
+    "general_freq": 2.04e-06
+  },
+  "microscopic": {
+    "corpus_count": 92,
+    "general_freq": 2.34e-06
+  },
+  "intrinsic": {
+    "corpus_count": 90,
+    "general_freq": 2.95e-06
+  },
+  "microscopy": {
+    "corpus_count": 83,
+    "general_freq": 1.82e-06
+  },
+  "experimentally": {
+    "corpus_count": 83,
+    "general_freq": 1.02e-06
+  },
+  "polarization": {
+    "corpus_count": 82,
+    "general_freq": 1.82e-06
+  },
+  "scattering": {
+    "corpus_count": 80,
+    "general_freq": 2.51e-06
+  },
+  "phonon": {
+    "corpus_count": 78,
+    "general_freq": 1.62e-07
+  },
+  "conductivity": {
+    "corpus_count": 74,
+    "general_freq": 1.38e-06
+  },
+  "diffraction": {
+    "corpus_count": 73,
+    "general_freq": 1.12e-06
+  },
+  "anisotropy": {
+    "corpus_count": 69,
+    "general_freq": 2.34e-07
+  },
+  "topological": {
+    "corpus_count": 66,
+    "general_freq": 8.91e-07
+  },
+  "spectral": {
+    "corpus_count": 65,
+    "general_freq": 2.88e-06
+  },
+  "configurations": {
+    "corpus_count": 64,
+    "general_freq": 2.82e-06
+  },
+  "magnetization": {
+    "corpus_count": 62,
+    "general_freq": 2.75e-07
+  },
+  "establishes": {
+    "corpus_count": 58,
+    "general_freq": 2.95e-06
+  },
+  "interfacial": {
+    "corpus_count": 56,
+    "general_freq": 2.04e-07
+  },
+  "antiferromagnetic": {
+    "corpus_count": 55,
+    "general_freq": 4.57e-08
+  },
+  "topology": {
+    "corpus_count": 54,
+    "general_freq": 1.58e-06
+  },
+  "nonlinear": {
+    "corpus_count": 54,
+    "general_freq": 1.86e-06
+  },
+  "excitation": {
+    "corpus_count": 54,
+    "general_freq": 1.05e-06
+  },
+  "anisotropic": {
+    "corpus_count": 53,
+    "general_freq": 3.02e-07
+  },
+  "fermi": {
+    "corpus_count": 52,
+    "general_freq": 6.76e-07
+  },
+  "ferromagnetic": {
+    "corpus_count": 52,
+    "general_freq": 2e-07
+  },
+  "localized": {
+    "corpus_count": 51,
+    "general_freq": 2.51e-06
+  },
+  "thermodynamic": {
+    "corpus_count": 51,
+    "general_freq": 8.51e-07
+  },
+  "waals": {
+    "corpus_count": 50,
+    "general_freq": 2e-07
+  },
+  "crystalline": {
+    "corpus_count": 50,
+    "general_freq": 1.74e-06
+  },
+  "spectra": {
+    "corpus_count": 50,
+    "general_freq": 1.78e-06
+  },
+  "monolayer": {
+    "corpus_count": 49,
+    "general_freq": 1.45e-07
+  },
+  "potentials": {
+    "corpus_count": 49,
+    "general_freq": 1.23e-06
+  },
+  "interplay": {
+    "corpus_count": 47,
+    "general_freq": 1.41e-06
+  },
+  "initio": {
+    "corpus_count": 47,
+    "general_freq": 1.74e-07
+  },
+  "validated": {
+    "corpus_count": 46,
+    "general_freq": 2.4e-06
+  },
+  "interfaces": {
+    "corpus_count": 46,
+    "general_freq": 2.95e-06
+  },
+  "scalable": {
+    "corpus_count": 46,
+    "general_freq": 8.51e-07
+  },
+  "atomistic": {
+    "corpus_count": 46,
+    "general_freq": 7.08e-08
+  },
+  "interlayer": {
+    "corpus_count": 45,
+    "general_freq": 7.41e-08
+  },
+  "interatomic": {
+    "corpus_count": 45,
+    "general_freq": 4.17e-08
+  },
+  "semiconductors": {
+    "corpus_count": 45,
+    "general_freq": 8.51e-07
+  },
+  "spintronic": {
+    "corpus_count": 44,
+    "general_freq": 1.62e-08
+  },
+  "mathrm": {
+    "corpus_count": 44,
+    "general_freq": 0.0
+  },
+  "macroscopic": {
+    "corpus_count": 44,
+    "general_freq": 4.57e-07
+  },
+  "tunable": {
+    "corpus_count": 43,
+    "general_freq": 2.95e-07
+  },
+  "predictive": {
+    "corpus_count": 43,
+    "general_freq": 2.34e-06
+  },
+  "heterostructures": {
+    "corpus_count": 41,
+    "general_freq": 4.68e-08
+  },
+  "correlations": {
+    "corpus_count": 41,
+    "general_freq": 1.23e-06
+  },
+  "diffusion": {
+    "corpus_count": 41,
+    "general_freq": 2.51e-06
+  },
+  "approximation": {
+    "corpus_count": 41,
+    "general_freq": 2.09e-06
+  },
+  "crystallographic": {
+    "corpus_count": 40,
+    "general_freq": 1.95e-07
+  },
+  "dynamical": {
+    "corpus_count": 40,
+    "general_freq": 8.13e-07
+  },
+  "anomalous": {
+    "corpus_count": 39,
+    "general_freq": 8.71e-07
+  },
+  "bilayer": {
+    "corpus_count": 39,
+    "general_freq": 2e-07
+  },
+  "reproduces": {
+    "corpus_count": 38,
+    "general_freq": 5.13e-07
+  },
+  "doping": {
+    "corpus_count": 37,
+    "general_freq": 2.95e-06
+  },
+  "dielectric": {
+    "corpus_count": 37,
+    "general_freq": 9.77e-07
+  },
+  "ionic": {
+    "corpus_count": 36,
+    "general_freq": 1.62e-06
+  },
+  "altermagnetic": {
+    "corpus_count": 36,
+    "general_freq": 0.0
+  },
+  "alloys": {
+    "corpus_count": 36,
+    "general_freq": 1.58e-06
+  },
+  "electron-phonon": {
+    "corpus_count": 35,
+    "general_freq": 1.58e-07
+  },
+  "deformation": {
+    "corpus_count": 35,
+    "general_freq": 1.45e-06
+  },
+  "optoelectronic": {
+    "corpus_count": 34,
+    "general_freq": 1.41e-07
+  },
+  "stacking": {
+    "corpus_count": 34,
+    "general_freq": 2e-06
+  },
+  "high-throughput": {
+    "corpus_count": 34,
+    "general_freq": 1.51e-06
+  },
+  "raman": {
+    "corpus_count": 34,
+    "general_freq": 1.17e-06
+  },
+  "unexplored": {
+    "corpus_count": 34,
+    "general_freq": 7.59e-07
+  },
+  "tensor": {
+    "corpus_count": 33,
+    "general_freq": 1.07e-06
+  },
+  "hamiltonian": {
+    "corpus_count": 33,
+    "general_freq": 5.62e-07
+  },
+  "hybridization": {
+    "corpus_count": 33,
+    "general_freq": 6.61e-07
+  },
+  "excitations": {
+    "corpus_count": 33,
+    "general_freq": 1.45e-07
+  },
+  "descriptors": {
+    "corpus_count": 33,
+    "general_freq": 5.01e-07
+  },
+  "heterogeneous": {
+    "corpus_count": 33,
+    "general_freq": 1.2e-06
+  },
+  "computationally": {
+    "corpus_count": 32,
+    "general_freq": 3.63e-07
+  },
+  "propagation": {
+    "corpus_count": 32,
+    "general_freq": 2.19e-06
+  },
+  "datasets": {
+    "corpus_count": 31,
+    "general_freq": 6.92e-07
+  },
+  "layered": {
+    "corpus_count": 30,
+    "general_freq": 2.82e-06
+  },
+  "yielding": {
+    "corpus_count": 30,
+    "general_freq": 2.51e-06
+  },
+  "predicts": {
+    "corpus_count": 30,
+    "general_freq": 2.69e-06
+  },
+  "optimized": {
+    "corpus_count": 30,
+    "general_freq": 2.51e-06
+  },
+  "excitonic": {
+    "corpus_count": 30,
+    "general_freq": 1.62e-08
+  },
+  "architectures": {
+    "corpus_count": 30,
+    "general_freq": 1.05e-06
+  },
+  "photoemission": {
+    "corpus_count": 29,
+    "general_freq": 4.68e-08
+  },
+  "ferroelectric": {
+    "corpus_count": 29,
+    "general_freq": 1.2e-07
+  },
+  "suppresses": {
+    "corpus_count": 29,
+    "general_freq": 5.62e-07
+  },
+  "transient": {
+    "corpus_count": 29,
+    "general_freq": 2.34e-06
+  },
+  "governs": {
+    "corpus_count": 29,
+    "general_freq": 1.41e-06
+  },
+  "modulation": {
+    "corpus_count": 29,
+    "general_freq": 1.95e-06
+  },
+  "dispersion": {
+    "corpus_count": 29,
+    "general_freq": 1.51e-06
+  },
+  "constrained": {
+    "corpus_count": 28,
+    "general_freq": 2.57e-06
+  },
+  "substrates": {
+    "corpus_count": 28,
+    "general_freq": 1.62e-06
+  },
+  "monolayers": {
+    "corpus_count": 28,
+    "general_freq": 7.94e-08
+  },
+  "nanoscale": {
+    "corpus_count": 28,
+    "general_freq": 4.47e-07
+  },
+  "curvature": {
+    "corpus_count": 28,
+    "general_freq": 1.66e-06
+  },
+  "vibrational": {
+    "corpus_count": 28,
+    "general_freq": 5.25e-07
+  },
+  "magnets": {
+    "corpus_count": 27,
+    "general_freq": 2.4e-06
+  },
+  "microstructure": {
+    "corpus_count": 27,
+    "general_freq": 3.09e-07
+  },
+  "tensile": {
+    "corpus_count": 27,
+    "general_freq": 9.12e-07
+  },
+  "epitaxial": {
+    "corpus_count": 27,
+    "general_freq": 1.05e-07
+  },
+  "compositional": {
+    "corpus_count": 27,
+    "general_freq": 7.24e-07
+  },
+  "disordered": {
+    "corpus_count": 26,
+    "general_freq": 9.55e-07
+  },
+  "harmonic": {
+    "corpus_count": 26,
+    "general_freq": 2.14e-06
+  },
+  "spatially": {
+    "corpus_count": 26,
+    "general_freq": 5.62e-07
+  },
+  "shear": {
+    "corpus_count": 26,
+    "general_freq": 2.51e-06
+  },
+  "chemically": {
+    "corpus_count": 26,
+    "general_freq": 1.74e-06
+  },
+  "pristine": {
+    "corpus_count": 26,
+    "general_freq": 2.14e-06
+  },
+  "magnetism": {
+    "corpus_count": 26,
+    "general_freq": 1.07e-06
+  },
+  "superconductivity": {
+    "corpus_count": 26,
+    "general_freq": 3.02e-07
+  },
+  "emergent": {
+    "corpus_count": 26,
+    "general_freq": 1.41e-06
+  },
+  "prototypical": {
+    "corpus_count": 25,
+    "general_freq": 3.63e-07
+  },
+  "densities": {
+    "corpus_count": 25,
+    "general_freq": 1.2e-06
+  },
+  "ultrafast": {
+    "corpus_count": 25,
+    "general_freq": 1.82e-07
+  },
+  "workflow": {
+    "corpus_count": 25,
+    "general_freq": 1.45e-06
+  },
+  "localization": {
+    "corpus_count": 25,
+    "general_freq": 1.86e-06
+  },
+  "dataset": {
+    "corpus_count": 25,
+    "general_freq": 1.07e-06
+  },
+  "achieves": {
+    "corpus_count": 25,
+    "general_freq": 2.14e-06
+  },
+  "symmetries": {
+    "corpus_count": 25,
+    "general_freq": 2.88e-07
+  },
+  "induces": {
+    "corpus_count": 25,
+    "general_freq": 1.38e-06
+  },
+  "enhances": {
+    "corpus_count": 24,
+    "general_freq": 2.04e-06
+  },
+  "exhibiting": {
+    "corpus_count": 24,
+    "general_freq": 2.51e-06
+  },
+  "unconventional": {
+    "corpus_count": 24,
+    "general_freq": 2.63e-06
+  },
+  "atomically": {
+    "corpus_count": 24,
+    "general_freq": 9.77e-08
+  },
+  "coherence": {
+    "corpus_count": 24,
+    "general_freq": 1.23e-06
+  },
+  "superconducting": {
+    "corpus_count": 24,
+    "general_freq": 5.13e-07
+  },
+  "kinetic": {
+    "corpus_count": 24,
+    "general_freq": 2.75e-06
+  },
+  "weakly": {
+    "corpus_count": 23,
+    "general_freq": 1.48e-06
+  },
+  "photonic": {
+    "corpus_count": 23,
+    "general_freq": 3.8e-07
+  },
+  "solids": {
+    "corpus_count": 23,
+    "general_freq": 2.14e-06
+  },
+  "annealing": {
+    "corpus_count": 23,
+    "general_freq": 4.07e-07
+  },
+  "neutron": {
+    "corpus_count": 23,
+    "general_freq": 2.75e-06
+  },
+  "resonant": {
+    "corpus_count": 23,
+    "general_freq": 1.35e-06
+  },
+  "stiffness": {
+    "corpus_count": 23,
+    "general_freq": 1.58e-06
+  },
+  "quantitatively": {
+    "corpus_count": 23,
+    "general_freq": 4.27e-07
+  },
+  "susceptibility": {
+    "corpus_count": 23,
+    "general_freq": 1.26e-06
+  },
+  "photoluminescence": {
+    "corpus_count": 23,
+    "general_freq": 8.91e-08
+  },
+  "coefficients": {
+    "corpus_count": 23,
+    "general_freq": 1.66e-06
+  },
+  "perturbation": {
+    "corpus_count": 23,
+    "general_freq": 4.57e-07
+  },
+  "formalism": {
+    "corpus_count": 22,
+    "general_freq": 4.79e-07
+  },
+  "kinetics": {
+    "corpus_count": 22,
+    "general_freq": 8.51e-07
+  },
+  "interpretable": {
+    "corpus_count": 22,
+    "general_freq": 8.71e-08
+  },
+  "thermally": {
+    "corpus_count": 22,
+    "general_freq": 4.79e-07
+  },
+  "uniaxial": {
+    "corpus_count": 22,
+    "general_freq": 7.59e-08
+  },
+  "microstructural": {
+    "corpus_count": 22,
+    "general_freq": 9.33e-08
+  },
+  "frameworks": {
+    "corpus_count": 22,
+    "general_freq": 1.95e-06
+  },
+  "optically": {
+    "corpus_count": 22,
+    "general_freq": 5.25e-07
+  },
+  "chiral": {
+    "corpus_count": 22,
+    "general_freq": 4.68e-07
+  },
+  "fluctuations": {
+    "corpus_count": 22,
+    "general_freq": 2.95e-06
+  },
+  "elemental": {
+    "corpus_count": 22,
+    "general_freq": 2.4e-06
+  },
+  "coefficient": {
+    "corpus_count": 21,
+    "general_freq": 2.45e-06
+  },
+  "insulating": {
+    "corpus_count": 21,
+    "general_freq": 1.05e-06
+  },
+  "functionalities": {
+    "corpus_count": 21,
+    "general_freq": 2.69e-07
+  },
+  "symmetric": {
+    "corpus_count": 21,
+    "general_freq": 1.62e-06
+  },
+  "coexistence": {
+    "corpus_count": 21,
+    "general_freq": 7.94e-07
+  },
+  "adsorption": {
+    "corpus_count": 21,
+    "general_freq": 7.76e-07
+  },
+  "hexagonal": {
+    "corpus_count": 21,
+    "general_freq": 9.12e-07
+  },
+  "altermagnet": {
+    "corpus_count": 21,
+    "general_freq": 0.0
+  },
+  "inverse": {
+    "corpus_count": 20,
+    "general_freq": 2.63e-06
+  },
+  "tunneling": {
+    "corpus_count": 20,
+    "general_freq": 7.94e-07
+  },
+  "modifies": {
+    "corpus_count": 20,
+    "general_freq": 5.62e-07
+  },
+  "probing": {
+    "corpus_count": 20,
+    "general_freq": 1.62e-06
+  },
+  "workflows": {
+    "corpus_count": 20,
+    "general_freq": 2.82e-07
+  },
+  "spin-polarized": {
+    "corpus_count": 20,
+    "general_freq": 1.84e-06
+  },
+  "altermagnets": {
+    "corpus_count": 20,
+    "general_freq": 0.0
+  },
+  "metastable": {
+    "corpus_count": 20,
+    "general_freq": 1.45e-07
+  },
+  "resistivity": {
+    "corpus_count": 20,
+    "general_freq": 2.69e-07
+  },
+  "probes": {
+    "corpus_count": 20,
+    "general_freq": 2.69e-06
+  },
+  "insulator": {
+    "corpus_count": 20,
+    "general_freq": 5.5e-07
+  },
+  "collinear": {
+    "corpus_count": 20,
+    "general_freq": 9.12e-08
+  },
+  "irradiation": {
+    "corpus_count": 20,
+    "general_freq": 1.23e-06
+  },
+  "transverse": {
+    "corpus_count": 20,
+    "general_freq": 1.86e-06
+  },
+  "perovskite": {
+    "corpus_count": 20,
+    "general_freq": 1.58e-07
+  },
+  "exciton": {
+    "corpus_count": 20,
+    "general_freq": 9.33e-08
+  },
+  "valence": {
+    "corpus_count": 20,
+    "general_freq": 7.94e-07
+  },
+  "energetics": {
+    "corpus_count": 20,
+    "general_freq": 1.41e-07
+  },
+  "morphology": {
+    "corpus_count": 20,
+    "general_freq": 2.57e-06
+  },
+  "coulomb": {
+    "corpus_count": 19,
+    "general_freq": 2.45e-07
+  },
+  "geometries": {
+    "corpus_count": 19,
+    "general_freq": 4.57e-07
+  },
+  "functionals": {
+    "corpus_count": 19,
+    "general_freq": 9.12e-08
+  },
+  "spectroscopic": {
+    "corpus_count": 19,
+    "general_freq": 5.62e-07
+  },
+  "sublattice": {
+    "corpus_count": 19,
+    "general_freq": 1.26e-08
+  },
+  "continuum": {
+    "corpus_count": 19,
+    "general_freq": 2.63e-06
+  },
+  "phonons": {
+    "corpus_count": 19,
+    "general_freq": 1.07e-07
+  },
+  "computed": {
+    "corpus_count": 19,
+    "general_freq": 2.04e-06
+  },
+  "generalized": {
+    "corpus_count": 19,
+    "general_freq": 2.69e-06
+  },
+  "amorphous": {
+    "corpus_count": 19,
+    "general_freq": 8.91e-07
+  },
+  "doped": {
+    "corpus_count": 19,
+    "general_freq": 8.71e-07
+  },
+  "hopping": {
+    "corpus_count": 19,
+    "general_freq": 2.69e-06
+  },
+  "preserves": {
+    "corpus_count": 19,
+    "general_freq": 2.29e-06
+  },
+  "redistribution": {
+    "corpus_count": 19,
+    "general_freq": 1.86e-06
+  },
+  "electrostatic": {
+    "corpus_count": 18,
+    "general_freq": 8.71e-07
+  },
+  "reproducing": {
+    "corpus_count": 18,
+    "general_freq": 1.1e-06
+  },
+  "multiscale": {
+    "corpus_count": 18,
+    "general_freq": 1.07e-07
+  },
+  "semiconducting": {
+    "corpus_count": 18,
+    "general_freq": 1.12e-07
+  },
+  "observables": {
+    "corpus_count": 18,
+    "general_freq": 1.29e-07
+  },
+  "mechanically": {
+    "corpus_count": 18,
+    "general_freq": 2.24e-06
+  },
+  "ultrathin": {
+    "corpus_count": 18,
+    "general_freq": 1.55e-07
+  },
+  "magnetoresistance": {
+    "corpus_count": 18,
+    "general_freq": 4.07e-08
+  },
+  "polarized": {
+    "corpus_count": 18,
+    "general_freq": 2e-06
+  },
+  "substitution": {
+    "corpus_count": 18,
+    "general_freq": 2.57e-06
+  },
+  "orbitals": {
+    "corpus_count": 18,
+    "general_freq": 4.37e-07
+  },
+  "conduction": {
+    "corpus_count": 18,
+    "general_freq": 9.55e-07
+  },
+  "structurally": {
+    "corpus_count": 18,
+    "general_freq": 1.55e-06
+  },
+  "synthesized": {
+    "corpus_count": 18,
+    "general_freq": 1.74e-06
+  },
+  "ferroelectrics": {
+    "corpus_count": 17,
+    "general_freq": 2.19e-08
+  },
+  "dirac": {
+    "corpus_count": 17,
+    "general_freq": 3.89e-07
+  },
+  "incorporation": {
+    "corpus_count": 17,
+    "general_freq": 2.51e-06
+  },
+  "modulus": {
+    "corpus_count": 17,
+    "general_freq": 5.62e-07
+  },
+  "magneto-optical": {
+    "corpus_count": 17,
+    "general_freq": 1e-06
+  },
+  "confinement": {
+    "corpus_count": 17,
+    "general_freq": 2.88e-06
+  },
+  "originates": {
+    "corpus_count": 17,
+    "general_freq": 1.55e-06
+  },
+  "ferromagnets": {
+    "corpus_count": 17,
+    "general_freq": 1.82e-08
+  },
+  "microstructures": {
+    "corpus_count": 17,
+    "general_freq": 1.05e-07
+  },
+  "excitons": {
+    "corpus_count": 17,
+    "general_freq": 5.75e-08
+  },
+  "dipole": {
+    "corpus_count": 17,
+    "general_freq": 6.46e-07
+  },
+  "surrogate": {
+    "corpus_count": 17,
+    "general_freq": 2.4e-06
+  },
+  "ferroelectricity": {
+    "corpus_count": 17,
+    "general_freq": 1.48e-08
+  },
+  "descriptor": {
+    "corpus_count": 17,
+    "general_freq": 6.46e-07
+  },
+  "polycrystalline": {
+    "corpus_count": 17,
+    "general_freq": 2.19e-07
+  },
+  "unresolved": {
+    "corpus_count": 17,
+    "general_freq": 2e-06
+  },
+  "characterize": {
+    "corpus_count": 17,
+    "general_freq": 2.09e-06
+  },
+  "hysteresis": {
+    "corpus_count": 17,
+    "general_freq": 2.29e-07
+  },
+  "oxides": {
+    "corpus_count": 17,
+    "general_freq": 8.71e-07
+  },
+  "inversion": {
+    "corpus_count": 17,
+    "general_freq": 1.82e-06
+  },
+  "cryogenic": {
+    "corpus_count": 16,
+    "general_freq": 6.03e-07
+  },
+  "altermagnetism": {
+    "corpus_count": 16,
+    "general_freq": 0.0
+  },
+  "piezoelectric": {
+    "corpus_count": 16,
+    "general_freq": 3.98e-07
+  },
+  "epitaxy": {
+    "corpus_count": 16,
+    "general_freq": 7.24e-08
+  },
+  "validate": {
+    "corpus_count": 16,
+    "general_freq": 2.51e-06
+  },
+  "constants": {
+    "corpus_count": 16,
+    "general_freq": 1.2e-06
+  },
+  "quasiparticle": {
+    "corpus_count": 16,
+    "general_freq": 2.63e-08
+  },
+  "broadening": {
+    "corpus_count": 16,
+    "general_freq": 1.15e-06
+  },
+  "reversible": {
+    "corpus_count": 16,
+    "general_freq": 2.09e-06
+  },
+  "dynamically": {
+    "corpus_count": 16,
+    "general_freq": 1.07e-06
+  },
+  "stabilization": {
+    "corpus_count": 16,
+    "general_freq": 2e-06
+  },
+  "robustness": {
+    "corpus_count": 16,
+    "general_freq": 6.76e-07
+  },
+  "sequential": {
+    "corpus_count": 16,
+    "general_freq": 1.95e-06
+  },
+  "electrochemical": {
+    "corpus_count": 16,
+    "general_freq": 7.59e-07
+  },
+  "stabilize": {
+    "corpus_count": 16,
+    "general_freq": 2.88e-06
+  },
+  "sizable": {
+    "corpus_count": 16,
+    "general_freq": 2.34e-06
+  },
+  "situ": {
+    "corpus_count": 16,
+    "general_freq": 1.91e-06
+  },
+  "benchmarks": {
+    "corpus_count": 16,
+    "general_freq": 1.86e-06
+  },
+  "paramagnetic": {
+    "corpus_count": 16,
+    "general_freq": 1.48e-07
+  },
+  "itinerant": {
+    "corpus_count": 15,
+    "general_freq": 6.61e-07
+  },
+  "criterion": {
+    "corpus_count": 15,
+    "general_freq": 2.88e-06
+  },
+  "textit": {
+    "corpus_count": 15,
+    "general_freq": 0.0
+  },
+  "constitutive": {
+    "corpus_count": 15,
+    "general_freq": 4.57e-07
+  },
+  "thermodynamically": {
+    "corpus_count": 15,
+    "general_freq": 1.05e-07
+  },
+  "selectively": {
+    "corpus_count": 15,
+    "general_freq": 2.09e-06
+  },
+  "accelerating": {
+    "corpus_count": 15,
+    "general_freq": 2.88e-06
+  },
+  "equivariant": {
+    "corpus_count": 15,
+    "general_freq": 3.63e-08
+  },
+  "synchrotron": {
+    "corpus_count": 15,
+    "general_freq": 4.47e-07
+  },
+  "controllable": {
+    "corpus_count": 15,
+    "general_freq": 8.51e-07
+  },
+  "tensors": {
+    "corpus_count": 15,
+    "general_freq": 1.58e-07
+  },
+  "deterministic": {
+    "corpus_count": 15,
+    "general_freq": 8.51e-07
+  },
+  "quantify": {
+    "corpus_count": 15,
+    "general_freq": 1.74e-06
+  },
+  "longitudinal": {
+    "corpus_count": 15,
+    "general_freq": 2.34e-06
+  },
+  "inference": {
+    "corpus_count": 15,
+    "general_freq": 1.78e-06
+  },
+  "analytically": {
+    "corpus_count": 15,
+    "general_freq": 2.88e-07
+  },
+  "elucidate": {
+    "corpus_count": 15,
+    "general_freq": 5.01e-07
+  },
+  "reproducible": {
+    "corpus_count": 15,
+    "general_freq": 5.01e-07
+  },
+  "heterostructure": {
+    "corpus_count": 15,
+    "general_freq": 3.02e-08
+  },
+  "constraint": {
+    "corpus_count": 15,
+    "general_freq": 1.91e-06
+  },
+  "bilayers": {
+    "corpus_count": 15,
+    "general_freq": 7.24e-08
+  },
+  "elusive": {
+    "corpus_count": 15,
+    "general_freq": 2.95e-06
+  },
+  "quantified": {
+    "corpus_count": 15,
+    "general_freq": 9.33e-07
+  },
+  "decomposition": {
+    "corpus_count": 15,
+    "general_freq": 1.82e-06
+  },
+  "qualitative": {
+    "corpus_count": 14,
+    "general_freq": 2.82e-06
+  },
+  "configurational": {
+    "corpus_count": 14,
+    "general_freq": 5.37e-08
+  },
+  "diffuse": {
+    "corpus_count": 14,
+    "general_freq": 1.91e-06
+  },
+  "sputtering": {
+    "corpus_count": 14,
+    "general_freq": 6.92e-07
+  },
+  "spintronics": {
+    "corpus_count": 14,
+    "general_freq": 4.27e-08
+  },
+  "multimodal": {
+    "corpus_count": 14,
+    "general_freq": 3.47e-07
+  },
+  "anharmonic": {
+    "corpus_count": 14,
+    "general_freq": 1.91e-08
+  },
+  "supercell": {
+    "corpus_count": 14,
+    "general_freq": 3.55e-07
+  },
+  "softening": {
+    "corpus_count": 14,
+    "general_freq": 1.23e-06
+  },
+  "nontrivial": {
+    "corpus_count": 14,
+    "general_freq": 1.95e-07
+  },
+  "antiferromagnet": {
+    "corpus_count": 14,
+    "general_freq": 0.0
+  },
+  "orientations": {
+    "corpus_count": 14,
+    "general_freq": 8.32e-07
+  },
+  "non-monotonic": {
+    "corpus_count": 14,
+    "general_freq": 1.44e-07
+  },
+  "wavefunctions": {
+    "corpus_count": 14,
+    "general_freq": 4.37e-08
+  },
+  "electrically": {
+    "corpus_count": 14,
+    "general_freq": 1.55e-06
+  },
+  "negligible": {
+    "corpus_count": 14,
+    "general_freq": 2.45e-06
+  },
+  "perpendicular": {
+    "corpus_count": 14,
+    "general_freq": 1.95e-06
+  },
+  "tunability": {
+    "corpus_count": 14,
+    "general_freq": 2.88e-08
+  },
+  "transforms": {
+    "corpus_count": 14,
+    "general_freq": 2.82e-06
+  },
+  "antiferromagnets": {
+    "corpus_count": 14,
+    "general_freq": 0.0
+  },
+  "degenerate": {
+    "corpus_count": 14,
+    "general_freq": 2.14e-06
+  },
+  "isotropic": {
+    "corpus_count": 14,
+    "general_freq": 3.16e-07
+  },
+  "generative": {
+    "corpus_count": 14,
+    "general_freq": 5.89e-07
+  },
+  "computation": {
+    "corpus_count": 14,
+    "general_freq": 2.24e-06
+  },
+  "mlips": {
+    "corpus_count": 14,
+    "general_freq": 0.0
+  },
+  "asymmetric": {
+    "corpus_count": 14,
+    "general_freq": 1.38e-06
+  },
+  "dissipation": {
+    "corpus_count": 14,
+    "general_freq": 6.46e-07
+  },
+  "compute": {
+    "corpus_count": 13,
+    "general_freq": 2.57e-06
+  },
+  "optimizing": {
+    "corpus_count": 13,
+    "general_freq": 1.02e-06
+  },
+  "crystallization": {
+    "corpus_count": 13,
+    "general_freq": 4.37e-07
+  },
+  "covalent": {
+    "corpus_count": 13,
+    "general_freq": 4.47e-07
+  },
+  "chern": {
+    "corpus_count": 13,
+    "general_freq": 8.91e-08
+  },
+  "ferrimagnetic": {
+    "corpus_count": 13,
+    "general_freq": 1.48e-08
+  },
+  "distortions": {
+    "corpus_count": 13,
+    "general_freq": 1.1e-06
+  },
+  "inelastic": {
+    "corpus_count": 13,
+    "general_freq": 2.51e-07
+  },
+  "coexisting": {
+    "corpus_count": 13,
+    "general_freq": 2.95e-07
+  },
+  "dislocation": {
+    "corpus_count": 13,
+    "general_freq": 7.41e-07
+  },
+  "nucleation": {
+    "corpus_count": 13,
+    "general_freq": 2.63e-07
+  },
+  "stoichiometry": {
+    "corpus_count": 13,
+    "general_freq": 1.41e-07
+  },
+  "scalability": {
+    "corpus_count": 13,
+    "general_freq": 4.9e-07
+  },
+  "curie": {
+    "corpus_count": 13,
+    "general_freq": 7.59e-07
+  },
+  "lattices": {
+    "corpus_count": 13,
+    "general_freq": 2.82e-07
+  },
+  "renormalization": {
+    "corpus_count": 13,
+    "general_freq": 1.2e-07
+  },
+  "nonvolatile": {
+    "corpus_count": 13,
+    "general_freq": 6.76e-08
+  },
+  "persists": {
+    "corpus_count": 13,
+    "general_freq": 2.04e-06
+  },
+  "micromagnetic": {
+    "corpus_count": 13,
+    "general_freq": 0.0
+  },
+  "multifunctional": {
+    "corpus_count": 13,
+    "general_freq": 2.95e-07
+  },
+  "linearly": {
+    "corpus_count": 13,
+    "general_freq": 7.08e-07
+  },
+  "selectivity": {
+    "corpus_count": 13,
+    "general_freq": 6.31e-07
+  },
+  "condensed": {
+    "corpus_count": 13,
+    "general_freq": 2.51e-06
+  },
+  "electrolyte": {
+    "corpus_count": 13,
+    "general_freq": 1.17e-06
+  },
+  "nonequilibrium": {
+    "corpus_count": 13,
+    "general_freq": 6.61e-08
+  },
+  "electrolytes": {
+    "corpus_count": 13,
+    "general_freq": 9.55e-07
+  },
+  "dislocations": {
+    "corpus_count": 12,
+    "general_freq": 3.02e-07
+  },
+  "dominates": {
+    "corpus_count": 12,
+    "general_freq": 2.51e-06
+  },
+  "couplings": {
+    "corpus_count": 12,
+    "general_freq": 4.47e-07
+  },
+  "undergoes": {
+    "corpus_count": 12,
+    "general_freq": 1.55e-06
+  },
+  "magnetoelectric": {
+    "corpus_count": 12,
+    "general_freq": 1.32e-08
+  },
+  "markedly": {
+    "corpus_count": 12,
+    "general_freq": 1.95e-06
+  },
+  "suppressing": {
+    "corpus_count": 12,
+    "general_freq": 1.91e-06
+  },
+  "stabilizing": {
+    "corpus_count": 12,
+    "general_freq": 1.32e-06
+  },
+  "stochastic": {
+    "corpus_count": 12,
+    "general_freq": 1.29e-06
+  },
+  "arrays": {
+    "corpus_count": 12,
+    "general_freq": 1.95e-06
+  },
+  "elasticity": {
+    "corpus_count": 12,
+    "general_freq": 1.26e-06
+  },
+  "dimensionality": {
+    "corpus_count": 12,
+    "general_freq": 2.57e-07
+  },
+  "alters": {
+    "corpus_count": 12,
+    "general_freq": 1.29e-06
+  },
+  "planar": {
+    "corpus_count": 12,
+    "general_freq": 1.17e-06
+  },
+  "nonrelativistic": {
+    "corpus_count": 12,
+    "general_freq": 2.14e-08
+  },
+  "mlip": {
+    "corpus_count": 12,
+    "general_freq": 0.0
+  },
+  "gaussian": {
+    "corpus_count": 12,
+    "general_freq": 8.71e-07
+  },
+  "photovoltaic": {
+    "corpus_count": 12,
+    "general_freq": 1.05e-06
+  },
+  "oxidation": {
+    "corpus_count": 12,
+    "general_freq": 2.45e-06
+  },
+  "directional": {
+    "corpus_count": 12,
+    "general_freq": 2.4e-06
+  },
+  "inaccessible": {
+    "corpus_count": 12,
+    "general_freq": 2e-06
+  },
+  "in-situ": {
+    "corpus_count": 12,
+    "general_freq": 1.91e-06
+  },
+  "rotational": {
+    "corpus_count": 12,
+    "general_freq": 1.7e-06
+  },
+  "catalytic": {
+    "corpus_count": 12,
+    "general_freq": 1.66e-06
+  },
+  "oscillations": {
+    "corpus_count": 12,
+    "general_freq": 7.94e-07
+  },
+  "magnetotransport": {
+    "corpus_count": 12,
+    "general_freq": 0.0
+  },
+  "boltzmann": {
+    "corpus_count": 12,
+    "general_freq": 3.02e-07
+  },
+  "weyl": {
+    "corpus_count": 12,
+    "general_freq": 1.7e-07
+  },
+  "bandgap": {
+    "corpus_count": 12,
+    "general_freq": 1.23e-07
+  },
+  "thermoelectric": {
+    "corpus_count": 12,
+    "general_freq": 2.95e-07
+  },
+  "brillouin": {
+    "corpus_count": 12,
+    "general_freq": 6.17e-08
+  },
+  "wannier": {
+    "corpus_count": 12,
+    "general_freq": 1.91e-08
+  },
+  "homogeneous": {
+    "corpus_count": 12,
+    "general_freq": 1.66e-06
+  },
+  "fourier": {
+    "corpus_count": 12,
+    "general_freq": 1.17e-06
+  },
+  "transferable": {
+    "corpus_count": 12,
+    "general_freq": 1.15e-06
+  },
+  "cation": {
+    "corpus_count": 12,
+    "general_freq": 6.17e-07
+  },
+  "thicknesses": {
+    "corpus_count": 12,
+    "general_freq": 3.72e-07
+  },
+  "tetragonal": {
+    "corpus_count": 12,
+    "general_freq": 8.71e-08
+  },
+  "morphological": {
+    "corpus_count": 12,
+    "general_freq": 1.41e-06
+  },
+  "programmable": {
+    "corpus_count": 12,
+    "general_freq": 1.07e-06
+  },
+  "dopants": {
+    "corpus_count": 11,
+    "general_freq": 7.41e-08
+  },
+  "hydrostatic": {
+    "corpus_count": 11,
+    "general_freq": 3.39e-07
+  },
+  "evolves": {
+    "corpus_count": 11,
+    "general_freq": 1.45e-06
+  },
+  "multilayer": {
+    "corpus_count": 11,
+    "general_freq": 2.75e-07
+  },
+  "lifetimes": {
+    "corpus_count": 11,
+    "general_freq": 1.26e-06
+  },
+  "deviations": {
+    "corpus_count": 11,
+    "general_freq": 1.1e-06
+  },
+  "insulators": {
+    "corpus_count": 11,
+    "general_freq": 3.24e-07
+  },
+  "precursor": {
+    "corpus_count": 11,
+    "general_freq": 2.75e-06
+  },
+  "calibration": {
+    "corpus_count": 11,
+    "general_freq": 2.19e-06
+  },
+  "amplitude": {
+    "corpus_count": 11,
+    "general_freq": 1.91e-06
+  },
+  "spacing": {
+    "corpus_count": 11,
+    "general_freq": 2.63e-06
+  },
+  "refinement": {
+    "corpus_count": 11,
+    "general_freq": 1.58e-06
+  },
+  "analogous": {
+    "corpus_count": 11,
+    "general_freq": 2.29e-06
+  },
+  "variational": {
+    "corpus_count": 11,
+    "general_freq": 2e-07
+  },
+  "photoelectron": {
+    "corpus_count": 11,
+    "general_freq": 1.15e-07
+  },
+  "nonmagnetic": {
+    "corpus_count": 11,
+    "general_freq": 4.17e-08
+  },
+  "resonances": {
+    "corpus_count": 11,
+    "general_freq": 3.72e-07
+  },
+  "lowers": {
+    "corpus_count": 11,
+    "general_freq": 2.29e-06
+  },
+  "junctions": {
+    "corpus_count": 11,
+    "general_freq": 1.26e-06
+  },
+  "crucially": {
+    "corpus_count": 11,
+    "general_freq": 8.91e-07
+  },
+  "intrinsically": {
+    "corpus_count": 11,
+    "general_freq": 1.15e-06
+  },
+  "non-collinear": {
+    "corpus_count": 11,
+    "general_freq": 9.12e-08
+  },
+  "approximations": {
+    "corpus_count": 11,
+    "general_freq": 5.13e-07
+  },
+  "circ": {
+    "corpus_count": 11,
+    "general_freq": 1.95e-07
+  },
+  "perovskites": {
+    "corpus_count": 11,
+    "general_freq": 3.89e-08
+  },
+  "photonics": {
+    "corpus_count": 11,
+    "general_freq": 3.63e-07
+  },
+  "magnon": {
+    "corpus_count": 11,
+    "general_freq": 1.41e-07
+  },
+  "sampled": {
+    "corpus_count": 11,
+    "general_freq": 2.57e-06
+  },
+  "saturation": {
+    "corpus_count": 11,
+    "general_freq": 2.34e-06
+  },
+  "synergistic": {
+    "corpus_count": 11,
+    "general_freq": 4.79e-07
+  },
+  "interstitial": {
+    "corpus_count": 10,
+    "general_freq": 6.03e-07
+  },
+  "superconductors": {
+    "corpus_count": 10,
+    "general_freq": 2.82e-07
+  },
+  "intensities": {
+    "corpus_count": 10,
+    "general_freq": 5.01e-07
+  },
+  "dissipative": {
+    "corpus_count": 10,
+    "general_freq": 9.55e-08
+  },
+  "observable": {
+    "corpus_count": 10,
+    "general_freq": 1.29e-06
+  },
+  "terminations": {
+    "corpus_count": 10,
+    "general_freq": 3.31e-07
+  },
+  "femtosecond": {
+    "corpus_count": 10,
+    "general_freq": 1.26e-07
+  },
+  "bayesian": {
+    "corpus_count": 10,
+    "general_freq": 8.91e-07
+  },
+  "leveraging": {
+    "corpus_count": 10,
+    "general_freq": 1.05e-06
+  },
+  "moduli": {
+    "corpus_count": 10,
+    "general_freq": 1.66e-07
+  },
+  "cdot": {
+    "corpus_count": 10,
+    "general_freq": 7.59e-08
+  },
+  "numerically": {
+    "corpus_count": 10,
+    "general_freq": 7.24e-07
+  },
+  "magnetometry": {
+    "corpus_count": 10,
+    "general_freq": 1.74e-08
+  },
+  "nitrogen-vacancy": {
+    "corpus_count": 10,
+    "general_freq": 2.51e-06
+  },
+  "conventionally": {
+    "corpus_count": 10,
+    "general_freq": 1.17e-06
+  },
+  "orthorhombic": {
+    "corpus_count": 10,
+    "general_freq": 1.05e-07
+  },
+  "anomaly": {
+    "corpus_count": 10,
+    "general_freq": 2.95e-06
+  },
+  "multicomponent": {
+    "corpus_count": 10,
+    "general_freq": 7.08e-08
+  },
+  "supercells": {
+    "corpus_count": 10,
+    "general_freq": 5.01e-08
+  },
+  "calibrated": {
+    "corpus_count": 10,
+    "general_freq": 1.48e-06
+  },
+  "mechanistic": {
+    "corpus_count": 10,
+    "general_freq": 3.98e-07
+  },
+  "polarization-resolved": {
+    "corpus_count": 10,
+    "general_freq": 1.59e-06
+  },
+  "resolves": {
+    "corpus_count": 10,
+    "general_freq": 1.35e-06
+  },
+  "photon": {
+    "corpus_count": 10,
+    "general_freq": 2.09e-06
+  },
+  "qualitatively": {
+    "corpus_count": 10,
+    "general_freq": 3.72e-07
+  },
+  "illumination": {
+    "corpus_count": 10,
+    "general_freq": 2.24e-06
+  },
+  "sqrt": {
+    "corpus_count": 10,
+    "general_freq": 1.15e-07
+  },
+  "damping": {
+    "corpus_count": 10,
+    "general_freq": 8.13e-07
+  },
+  "inorganic": {
+    "corpus_count": 10,
+    "general_freq": 1.7e-06
+  },
+  "switchable": {
+    "corpus_count": 10,
+    "general_freq": 1.17e-07
+  },
+  "polarizability": {
+    "corpus_count": 10,
+    "general_freq": 3.09e-08
+  },
+  "sulfur": {
+    "corpus_count": 10,
+    "general_freq": 2.69e-06
+  },
+  "rashba": {
+    "corpus_count": 10,
+    "general_freq": 1.55e-08
+  },
+  "ternary": {
+    "corpus_count": 10,
+    "general_freq": 3.31e-07
+  },
+  "encoded": {
+    "corpus_count": 10,
+    "general_freq": 2.04e-06
+  },
+  "reliably": {
+    "corpus_count": 10,
+    "general_freq": 2.51e-06
+  },
+  "octahedral": {
+    "corpus_count": 10,
+    "general_freq": 1.86e-07
+  },
+  "stabilized": {
+    "corpus_count": 10,
+    "general_freq": 2.09e-06
+  },
+  "benchmarking": {
+    "corpus_count": 10,
+    "general_freq": 5.5e-07
+  },
+  "trajectories": {
+    "corpus_count": 10,
+    "general_freq": 8.32e-07
+  },
+  "bottleneck": {
+    "corpus_count": 10,
+    "general_freq": 9.33e-07
+  },
+  "interpreting": {
+    "corpus_count": 10,
+    "general_freq": 2.82e-06
+  },
+  "instabilities": {
+    "corpus_count": 10,
+    "general_freq": 2.45e-07
+  },
+  "entropy": {
+    "corpus_count": 10,
+    "general_freq": 1.91e-06
+  },
+  "diffusivity": {
+    "corpus_count": 10,
+    "general_freq": 1e-07
+  },
+  "mathcal": {
+    "corpus_count": 10,
+    "general_freq": 0.0
+  },
+  "compressive": {
+    "corpus_count": 10,
+    "general_freq": 3.98e-07
+  },
+  "garnet": {
+    "corpus_count": 10,
+    "general_freq": 1.48e-06
+  },
+  "hardening": {
+    "corpus_count": 10,
+    "general_freq": 9.77e-07
+  },
+  "reverses": {
+    "corpus_count": 10,
+    "general_freq": 1.12e-06
+  },
+  "tailoring": {
+    "corpus_count": 10,
+    "general_freq": 1.12e-06
+  },
+  "transformations": {
+    "corpus_count": 10,
+    "general_freq": 2.51e-06
+  },
+  "integrates": {
+    "corpus_count": 10,
+    "general_freq": 1.1e-06
+  },
+  "stoichiometric": {
+    "corpus_count": 9,
+    "general_freq": 1.45e-07
+  },
+  "semimetal": {
+    "corpus_count": 9,
+    "general_freq": 1.45e-08
+  },
+  "extrinsic": {
+    "corpus_count": 9,
+    "general_freq": 4.17e-07
+  },
+  "exponents": {
+    "corpus_count": 9,
+    "general_freq": 6.17e-07
+  },
+  "anomalies": {
+    "corpus_count": 9,
+    "general_freq": 1.91e-06
+  },
+  "multiferroic": {
+    "corpus_count": 9,
+    "general_freq": 1.58e-08
+  },
+  "wavefunction": {
+    "corpus_count": 9,
+    "general_freq": 1.23e-07
+  },
+  "sparse": {
+    "corpus_count": 9,
+    "general_freq": 2.29e-06
+  },
+  "gaas": {
+    "corpus_count": 9,
+    "general_freq": 2.04e-07
+  },
+  "outperforms": {
+    "corpus_count": 9,
+    "general_freq": 2.82e-07
+  },
+  "pretrained": {
+    "corpus_count": 9,
+    "general_freq": 0.0
+  },
+  "mathbf": {
+    "corpus_count": 9,
+    "general_freq": 0.0
+  },
+  "convex": {
+    "corpus_count": 9,
+    "general_freq": 1.82e-06
+  },
+  "recovers": {
+    "corpus_count": 9,
+    "general_freq": 1.86e-06
+  },
+  "degeneracy": {
+    "corpus_count": 9,
+    "general_freq": 4.17e-07
+  },
+  "symmetry-protected": {
+    "corpus_count": 9,
+    "general_freq": 2.94e-06
+  },
+  "nonzero": {
+    "corpus_count": 9,
+    "general_freq": 3.55e-07
+  },
+  "sublattices": {
+    "corpus_count": 9,
+    "general_freq": 0.0
+  },
+  "baselines": {
+    "corpus_count": 9,
+    "general_freq": 1.91e-07
+  },
+  "latent": {
+    "corpus_count": 9,
+    "general_freq": 1.86e-06
+  },
+  "thermodynamics": {
+    "corpus_count": 9,
+    "general_freq": 1.26e-06
+  },
+  "ligand": {
+    "corpus_count": 9,
+    "general_freq": 1.12e-06
+  },
+  "graphene": {
+    "corpus_count": 9,
+    "general_freq": 1.05e-06
+  },
+  "optoelectronics": {
+    "corpus_count": 9,
+    "general_freq": 1.1e-07
+  },
+  "electrode": {
+    "corpus_count": 9,
+    "general_freq": 2.4e-06
+  },
+  "evaluations": {
+    "corpus_count": 9,
+    "general_freq": 2.69e-06
+  },
+  "nodal": {
+    "corpus_count": 9,
+    "general_freq": 3.55e-07
+  },
+  "encoding": {
+    "corpus_count": 9,
+    "general_freq": 2.4e-06
+  },
+  "mobilities": {
+    "corpus_count": 9,
+    "general_freq": 6.61e-08
+  },
+  "iterative": {
+    "corpus_count": 9,
+    "general_freq": 7.24e-07
+  },
+  "formulate": {
+    "corpus_count": 9,
+    "general_freq": 1.7e-06
+  },
+  "vanishes": {
+    "corpus_count": 9,
+    "general_freq": 1.05e-06
+  },
+  "topologically": {
+    "corpus_count": 9,
+    "general_freq": 1.07e-07
+  },
+  "relativistic": {
+    "corpus_count": 9,
+    "general_freq": 8.13e-07
+  },
+  "semimetals": {
+    "corpus_count": 9,
+    "general_freq": 1.7e-08
+  },
+  "reproduced": {
+    "corpus_count": 9,
+    "general_freq": 2.88e-06
+  },
+  "centrosymmetric": {
+    "corpus_count": 9,
+    "general_freq": 1.58e-08
+  },
+  "rotations": {
+    "corpus_count": 9,
+    "general_freq": 1.55e-06
+  },
+  "intertwined": {
+    "corpus_count": 9,
+    "general_freq": 1.58e-06
+  },
+  "monoclinic": {
+    "corpus_count": 9,
+    "general_freq": 1.29e-07
+  },
+  "quantification": {
+    "corpus_count": 9,
+    "general_freq": 6.92e-07
+  },
+  "analytic": {
+    "corpus_count": 9,
+    "general_freq": 2.04e-06
+  },
+  "conductance": {
+    "corpus_count": 9,
+    "general_freq": 3.09e-07
+  },
+  "ferromagnet": {
+    "corpus_count": 9,
+    "general_freq": 1.95e-08
+  },
+  "visualization": {
+    "corpus_count": 9,
+    "general_freq": 2.09e-06
+  },
+  "motifs": {
+    "corpus_count": 9,
+    "general_freq": 1.82e-06
+  },
+  "radial": {
+    "corpus_count": 9,
+    "general_freq": 2.82e-06
+  },
+  "reconfigurable": {
+    "corpus_count": 9,
+    "general_freq": 1.29e-07
+  },
+  "hardness": {
+    "corpus_count": 9,
+    "general_freq": 1.48e-06
+  },
+  "splittings": {
+    "corpus_count": 9,
+    "general_freq": 2.63e-08
+  },
+  "mismatch": {
+    "corpus_count": 9,
+    "general_freq": 1.26e-06
+  },
+  "selects": {
+    "corpus_count": 9,
+    "general_freq": 2.04e-06
+  },
+  "substitutional": {
+    "corpus_count": 9,
+    "general_freq": 2.04e-08
+  },
+  "second-harmonic": {
+    "corpus_count": 9,
+    "general_freq": 2.13e-06
+  },
+  "pulsed": {
+    "corpus_count": 9,
+    "general_freq": 6.92e-07
+  },
+  "magnetron": {
+    "corpus_count": 9,
+    "general_freq": 1.48e-07
+  },
+  "magnetoelastic": {
+    "corpus_count": 9,
+    "general_freq": 0.0
+  },
+  "velocities": {
+    "corpus_count": 9,
+    "general_freq": 8.13e-07
+  },
+  "hamiltonians": {
+    "corpus_count": 9,
+    "general_freq": 3.89e-08
+  },
+  "reconstruct": {
+    "corpus_count": 9,
+    "general_freq": 1.66e-06
+  },
+  "dopant": {
+    "corpus_count": 8,
+    "general_freq": 1.55e-07
+  },
+  "modulations": {
+    "corpus_count": 8,
+    "general_freq": 1.45e-07
+  },
+  "emph": {
+    "corpus_count": 8,
+    "general_freq": 2.14e-08
+  },
+  "inferred": {
+    "corpus_count": 8,
+    "general_freq": 1.32e-06
+  },
+  "amplification": {
+    "corpus_count": 8,
+    "general_freq": 1.32e-06
+  },
+  "hierarchical": {
+    "corpus_count": 8,
+    "general_freq": 1.82e-06
+  },
+  "periodicity": {
+    "corpus_count": 8,
+    "general_freq": 3.63e-07
+  },
+  "commensurate": {
+    "corpus_count": 8,
+    "general_freq": 6.76e-07
+  },
+  "catalysts": {
+    "corpus_count": 8,
+    "general_freq": 1.26e-06
+  },
+  "ensembles": {
+    "corpus_count": 8,
+    "general_freq": 9.77e-07
+  },
+  "scalar": {
+    "corpus_count": 8,
+    "general_freq": 8.51e-07
+  },
+  "dichroism": {
+    "corpus_count": 8,
+    "general_freq": 5.62e-08
+  },
+  "helical": {
+    "corpus_count": 8,
+    "general_freq": 6.46e-07
+  },
+  "gapped": {
+    "corpus_count": 8,
+    "general_freq": 1.2e-07
+  },
+  "reconstructed": {
+    "corpus_count": 8,
+    "general_freq": 1.91e-06
+  },
+  "quenched": {
+    "corpus_count": 8,
+    "general_freq": 2.95e-07
+  },
+  "decoupling": {
+    "corpus_count": 8,
+    "general_freq": 3.02e-07
+  },
+  "originate": {
+    "corpus_count": 8,
+    "general_freq": 2.34e-06
+  },
+  "matrices": {
+    "corpus_count": 8,
+    "general_freq": 1.51e-06
+  },
+  "insufficiently": {
+    "corpus_count": 8,
+    "general_freq": 5.75e-07
+  },
+  "nanostructures": {
+    "corpus_count": 8,
+    "general_freq": 2.19e-07
+  },
+  "regularization": {
+    "corpus_count": 8,
+    "general_freq": 1.82e-07
+  },
+  "brittle": {
+    "corpus_count": 8,
+    "general_freq": 1.91e-06
+  },
+  "cations": {
+    "corpus_count": 8,
+    "general_freq": 3.98e-07
+  },
+  "vanish": {
+    "corpus_count": 8,
+    "general_freq": 2.45e-06
+  },
+  "spin-lattice": {
+    "corpus_count": 8,
+    "general_freq": 2.09e-06
+  },
+  "convergence": {
+    "corpus_count": 8,
+    "general_freq": 2.88e-06
+  },
+  "experimentation": {
+    "corpus_count": 8,
+    "general_freq": 2.95e-06
+  },
+  "manipulating": {
+    "corpus_count": 8,
+    "general_freq": 2.82e-06
+  },
+  "pinning": {
+    "corpus_count": 8,
+    "general_freq": 1.35e-06
+  },
+  "nanoparticle": {
+    "corpus_count": 8,
+    "general_freq": 3.16e-07
+  },
+  "dispersions": {
+    "corpus_count": 8,
+    "general_freq": 1e-07
+  },
+  "decoherence": {
+    "corpus_count": 8,
+    "general_freq": 8.32e-08
+  },
+  "dichalcogenides": {
+    "corpus_count": 8,
+    "general_freq": 1.48e-08
+  },
+  "fractions": {
+    "corpus_count": 8,
+    "general_freq": 2.09e-06
+  },
+  "reversibly": {
+    "corpus_count": 8,
+    "general_freq": 1.17e-07
+  },
+  "phononic": {
+    "corpus_count": 8,
+    "general_freq": 1.29e-08
+  },
+  "alloying": {
+    "corpus_count": 8,
+    "general_freq": 1.07e-07
+  },
+  "electrodes": {
+    "corpus_count": 8,
+    "general_freq": 1.95e-06
+  },
+  "normalized": {
+    "corpus_count": 8,
+    "general_freq": 1.86e-06
+  },
+  "transferability": {
+    "corpus_count": 8,
+    "general_freq": 7.76e-08
+  },
+  "implementations": {
+    "corpus_count": 8,
+    "general_freq": 1.55e-06
+  },
+  "applicability": {
+    "corpus_count": 8,
+    "general_freq": 8.13e-07
+  },
+  "motif": {
+    "corpus_count": 8,
+    "general_freq": 2.51e-06
+  },
+  "ab-initio": {
+    "corpus_count": 8,
+    "general_freq": 1.71e-07
+  },
+  "simulating": {
+    "corpus_count": 8,
+    "general_freq": 9.55e-07
+  },
+  "nonlinearity": {
+    "corpus_count": 8,
+    "general_freq": 1.26e-07
+  },
+  "recombination": {
+    "corpus_count": 8,
+    "general_freq": 9.33e-07
+  },
+  "poisson": {
+    "corpus_count": 8,
+    "general_freq": 5.75e-07
+  },
+  "characterizing": {
+    "corpus_count": 8,
+    "general_freq": 7.24e-07
+  },
+  "benchmarked": {
+    "corpus_count": 8,
+    "general_freq": 1.15e-07
+  },
+  "dipolar": {
+    "corpus_count": 8,
+    "general_freq": 7.94e-08
+  },
+  "adiabatic": {
+    "corpus_count": 8,
+    "general_freq": 2.51e-07
+  },
+  "interpretability": {
+    "corpus_count": 8,
+    "general_freq": 3.09e-08
+  },
+  "qubits": {
+    "corpus_count": 8,
+    "general_freq": 1.74e-07
+  },
+  "multilayers": {
+    "corpus_count": 8,
+    "general_freq": 2.57e-08
+  },
+  "circularly": {
+    "corpus_count": 8,
+    "general_freq": 1.15e-07
+  },
+  "coincides": {
+    "corpus_count": 8,
+    "general_freq": 1.58e-06
+  },
+  "hysteretic": {
+    "corpus_count": 8,
+    "general_freq": 1.55e-08
+  },
+  "impractical": {
+    "corpus_count": 8,
+    "general_freq": 1.91e-06
+  },
+  "conductivities": {
+    "corpus_count": 8,
+    "general_freq": 4.37e-08
+  },
+  "invariant": {
+    "corpus_count": 8,
+    "general_freq": 1.07e-06
+  },
+  "high-entropy": {
+    "corpus_count": 8,
+    "general_freq": 1.9e-06
+  },
+  "adsorbed": {
+    "corpus_count": 8,
+    "general_freq": 2.04e-07
+  },
+  "displacements": {
+    "corpus_count": 8,
+    "general_freq": 3.31e-07
+  },
+  "coexist": {
+    "corpus_count": 8,
+    "general_freq": 1.1e-06
+  },
+  "fermi-surface": {
+    "corpus_count": 7,
+    "general_freq": 6.69e-07
+  },
+  "quantifies": {
+    "corpus_count": 7,
+    "general_freq": 1.48e-07
+  },
+  "patterned": {
+    "corpus_count": 7,
+    "general_freq": 1.78e-06
+  },
+  "pore": {
+    "corpus_count": 7,
+    "general_freq": 1.91e-06
+  },
+  "eigenvalues": {
+    "corpus_count": 7,
+    "general_freq": 3.47e-07
+  },
+  "quantized": {
+    "corpus_count": 7,
+    "general_freq": 1.86e-07
+  },
+  "rearrangements": {
+    "corpus_count": 7,
+    "general_freq": 2.24e-07
+  },
+  "plasticity": {
+    "corpus_count": 7,
+    "general_freq": 9.12e-07
+  },
+  "interpolation": {
+    "corpus_count": 7,
+    "general_freq": 7.08e-07
+  },
+  "throughput": {
+    "corpus_count": 7,
+    "general_freq": 1.51e-06
+  },
+  "translational": {
+    "corpus_count": 7,
+    "general_freq": 1e-06
+  },
+  "odd-parity": {
+    "corpus_count": 7,
+    "general_freq": 2.34e-06
+  },
+  "ultralow": {
+    "corpus_count": 7,
+    "general_freq": 3.16e-08
+  },
+  "kohn-sham": {
+    "corpus_count": 7,
+    "general_freq": 4.6e-07
+  },
+  "reshapes": {
+    "corpus_count": 7,
+    "general_freq": 6.46e-08
+  },
+  "multiband": {
+    "corpus_count": 7,
+    "general_freq": 6.03e-08
+  },
+  "interband": {
+    "corpus_count": 7,
+    "general_freq": 1.29e-08
+  },
+  "monotonic": {
+    "corpus_count": 7,
+    "general_freq": 1.45e-07
+  },
+  "monotonically": {
+    "corpus_count": 7,
+    "general_freq": 7.59e-08
+  },
+  "validating": {
+    "corpus_count": 7,
+    "general_freq": 9.12e-07
+  },
+  "linewidth": {
+    "corpus_count": 7,
+    "general_freq": 5.75e-08
+  },
+  "polaron": {
+    "corpus_count": 7,
+    "general_freq": 4.27e-08
+  },
+  "convolutional": {
+    "corpus_count": 7,
+    "general_freq": 1.26e-07
+  },
+  "evidenced": {
+    "corpus_count": 7,
+    "general_freq": 2.82e-06
+  },
+  "nanoparticles": {
+    "corpus_count": 7,
+    "general_freq": 1.29e-06
+  },
+  "wavelength": {
+    "corpus_count": 7,
+    "general_freq": 2.82e-06
+  },
+  "dzyaloshinskii-moriya": {
+    "corpus_count": 7,
+    "general_freq": 0.0
+  },
+  "impurities": {
+    "corpus_count": 7,
+    "general_freq": 1.15e-06
+  },
+  "polarization-dependent": {
+    "corpus_count": 7,
+    "general_freq": 1.66e-06
+  },
+  "quasi-one-dimensional": {
+    "corpus_count": 7,
+    "general_freq": 2.4e-06
+  },
+  "correlates": {
+    "corpus_count": 7,
+    "general_freq": 1.17e-06
+  },
+  "yttrium": {
+    "corpus_count": 7,
+    "general_freq": 1.38e-07
+  },
+  "nitride": {
+    "corpus_count": 7,
+    "general_freq": 4.07e-07
+  },
+  "modulates": {
+    "corpus_count": 7,
+    "general_freq": 2.14e-07
+  },
+  "catalysis": {
+    "corpus_count": 7,
+    "general_freq": 4.9e-07
+  },
+  "probed": {
+    "corpus_count": 7,
+    "general_freq": 7.59e-07
+  },
+  "nanowire": {
+    "corpus_count": 7,
+    "general_freq": 9.55e-08
+  },
+  "extracting": {
+    "corpus_count": 7,
+    "general_freq": 1.95e-06
+  },
+  "halide": {
+    "corpus_count": 7,
+    "general_freq": 3.47e-07
+  },
+  "coplanar": {
+    "corpus_count": 7,
+    "general_freq": 7.94e-08
+  },
+  "anisotropies": {
+    "corpus_count": 7,
+    "general_freq": 2.57e-08
+  },
+  "non-centrosymmetric": {
+    "corpus_count": 7,
+    "general_freq": 1.58e-08
+  },
+  "complemented": {
+    "corpus_count": 7,
+    "general_freq": 1.23e-06
+  },
+  "inequivalent": {
+    "corpus_count": 7,
+    "general_freq": 2.45e-08
+  },
+  "geometrically": {
+    "corpus_count": 7,
+    "general_freq": 3.02e-07
+  },
+  "deformations": {
+    "corpus_count": 7,
+    "general_freq": 2.57e-07
+  },
+  "agentic": {
+    "corpus_count": 7,
+    "general_freq": 1.62e-08
+  },
+  "hubbard": {
+    "corpus_count": 7,
+    "general_freq": 2.09e-06
+  },
+  "nonlocal": {
+    "corpus_count": 7,
+    "general_freq": 6.46e-08
+  },
+  "uncovering": {
+    "corpus_count": 7,
+    "general_freq": 1.12e-06
+  },
+  "maximally": {
+    "corpus_count": 7,
+    "general_freq": 2.51e-07
+  },
+  "implantation": {
+    "corpus_count": 7,
+    "general_freq": 1.02e-06
+  },
+  "magnonic": {
+    "corpus_count": 7,
+    "general_freq": 0.0
+  },
+  "divergence": {
+    "corpus_count": 7,
+    "general_freq": 1.48e-06
+  },
+  "magnetically": {
+    "corpus_count": 7,
+    "general_freq": 3.72e-07
+  },
+  "spherical": {
+    "corpus_count": 7,
+    "general_freq": 2.45e-06
+  },
+  "inhomogeneous": {
+    "corpus_count": 7,
+    "general_freq": 1.38e-07
+  },
+  "landau": {
+    "corpus_count": 7,
+    "general_freq": 7.08e-07
+  },
+  "drude": {
+    "corpus_count": 7,
+    "general_freq": 3.63e-08
+  },
+  "noncentrosymmetric": {
+    "corpus_count": 7,
+    "general_freq": 0.0
+  },
+  "manifold": {
+    "corpus_count": 7,
+    "general_freq": 2.09e-06
+  },
+  "flakes": {
+    "corpus_count": 7,
+    "general_freq": 2.4e-06
+  },
+  "discrepancy": {
+    "corpus_count": 7,
+    "general_freq": 1.95e-06
+  },
+  "resonators": {
+    "corpus_count": 7,
+    "general_freq": 2.82e-07
+  },
+  "polymorphs": {
+    "corpus_count": 7,
+    "general_freq": 5.13e-08
+  },
+  "reproducibility": {
+    "corpus_count": 7,
+    "general_freq": 2.88e-07
+  },
+  "glassy": {
+    "corpus_count": 7,
+    "general_freq": 6.03e-07
+  },
+  "intercalated": {
+    "corpus_count": 7,
+    "general_freq": 1.74e-07
+  },
+  "wafer": {
+    "corpus_count": 7,
+    "general_freq": 1.35e-06
+  },
+  "phys": {
+    "corpus_count": 7,
+    "general_freq": 7.59e-07
+  },
+  "bloch": {
+    "corpus_count": 7,
+    "general_freq": 7.76e-07
+  },
+  "asymmetry": {
+    "corpus_count": 7,
+    "general_freq": 7.59e-07
+  },
+  "cmos": {
+    "corpus_count": 7,
+    "general_freq": 8.71e-07
+  },
+  "stabilizes": {
+    "corpus_count": 7,
+    "general_freq": 3.55e-07
+  },
+  "vibrations": {
+    "corpus_count": 7,
+    "general_freq": 2.63e-06
+  },
+  "phonon-mediated": {
+    "corpus_count": 7,
+    "general_freq": 1.54e-07
+  },
+  "diagrams": {
+    "corpus_count": 7,
+    "general_freq": 2.63e-06
+  },
+  "paving": {
+    "corpus_count": 7,
+    "general_freq": 2.63e-06
+  },
+  "quadratic": {
+    "corpus_count": 7,
+    "general_freq": 9.55e-07
+  },
+  "arpes": {
+    "corpus_count": 7,
+    "general_freq": 1.55e-08
+  },
+  "fractional": {
+    "corpus_count": 7,
+    "general_freq": 1.12e-06
+  },
+  "axes": {
+    "corpus_count": 7,
+    "general_freq": 2.57e-06
+  },
+  "dispersive": {
+    "corpus_count": 7,
+    "general_freq": 1.86e-07
+  },
+  "irreversible": {
+    "corpus_count": 7,
+    "general_freq": 1.91e-06
+  },
+  "refractive": {
+    "corpus_count": 7,
+    "general_freq": 7.59e-07
+  },
+  "berry-curvature": {
+    "corpus_count": 7,
+    "general_freq": 1.41e-06
+  },
+  "annihilation": {
+    "corpus_count": 7,
+    "general_freq": 1.66e-06
+  },
+  "damping-like": {
+    "corpus_count": 6,
+    "general_freq": 8.13e-07
+  },
+  "parasitic": {
+    "corpus_count": 6,
+    "general_freq": 1.86e-06
+  },
+  "accelerates": {
+    "corpus_count": 6,
+    "general_freq": 9.33e-07
+  },
+  "nacl": {
+    "corpus_count": 6,
+    "general_freq": 3.98e-07
+  },
+  "nanowires": {
+    "corpus_count": 6,
+    "general_freq": 1.91e-07
+  },
+  "porosity": {
+    "corpus_count": 6,
+    "general_freq": 5.01e-07
+  },
+  "compressibility": {
+    "corpus_count": 6,
+    "general_freq": 1.02e-07
+  },
+  "volumetric": {
+    "corpus_count": 6,
+    "general_freq": 5.25e-07
+  },
+  "noncollinear": {
+    "corpus_count": 6,
+    "general_freq": 0.0
+  },
+  "preferentially": {
+    "corpus_count": 6,
+    "general_freq": 4.47e-07
+  },
+  "nonpolar": {
+    "corpus_count": 6,
+    "general_freq": 7.76e-08
+  },
+  "reorganization": {
+    "corpus_count": 6,
+    "general_freq": 2.14e-06
+  },
+  "circc": {
+    "corpus_count": 6,
+    "general_freq": 0.0
+  },
+  "quasi-two-dimensional": {
+    "corpus_count": 6,
+    "general_freq": 2.39e-06
+  },
+  "pulses": {
+    "corpus_count": 6,
+    "general_freq": 2.34e-06
+  },
+  "martensitic": {
+    "corpus_count": 6,
+    "general_freq": 4.07e-08
+  },
+  "solute": {
+    "corpus_count": 6,
+    "general_freq": 3.72e-07
+  },
+  "cathode": {
+    "corpus_count": 6,
+    "general_freq": 1.07e-06
+  },
+  "conductors": {
+    "corpus_count": 6,
+    "general_freq": 2.45e-06
+  },
+  "technologically": {
+    "corpus_count": 6,
+    "general_freq": 1.41e-06
+  },
+  "modalities": {
+    "corpus_count": 6,
+    "general_freq": 7.94e-07
+  },
+  "underscore": {
+    "corpus_count": 6,
+    "general_freq": 9.33e-07
+  },
+  "crossings": {
+    "corpus_count": 6,
+    "general_freq": 2.88e-06
+  },
+  "parity": {
+    "corpus_count": 6,
+    "general_freq": 2.57e-06
+  },
+  "kelvin": {
+    "corpus_count": 6,
+    "general_freq": 1.95e-06
+  },
+  "lammps": {
+    "corpus_count": 6,
+    "general_freq": 0.0
+  },
+  "generalization": {
+    "corpus_count": 6,
+    "general_freq": 1.62e-06
+  },
+  "reconstructs": {
+    "corpus_count": 6,
+    "general_freq": 1.55e-07
+  },
+  "polarity": {
+    "corpus_count": 6,
+    "general_freq": 1.15e-06
+  },
+  "feasibility": {
+    "corpus_count": 6,
+    "general_freq": 2.75e-06
+  },
+  "modulated": {
+    "corpus_count": 6,
+    "general_freq": 9.12e-07
+  },
+  "readout": {
+    "corpus_count": 6,
+    "general_freq": 4.9e-07
+  },
+  "membranes": {
+    "corpus_count": 6,
+    "general_freq": 2.04e-06
+  },
+  "diagonal": {
+    "corpus_count": 6,
+    "general_freq": 2.29e-06
+  },
+  "skyrmion": {
+    "corpus_count": 6,
+    "general_freq": 1.45e-08
+  },
+  "hilbert": {
+    "corpus_count": 6,
+    "general_freq": 6.03e-07
+  },
+  "decoupled": {
+    "corpus_count": 6,
+    "general_freq": 2.34e-07
+  },
+  "neuromorphic": {
+    "corpus_count": 6,
+    "general_freq": 4.47e-08
+  },
+  "harmonics": {
+    "corpus_count": 6,
+    "general_freq": 6.46e-07
+  },
+  "investigates": {
+    "corpus_count": 6,
+    "general_freq": 2.14e-06
+  },
+  "nudged": {
+    "corpus_count": 6,
+    "general_freq": 5.01e-07
+  },
+  "intercalation": {
+    "corpus_count": 6,
+    "general_freq": 7.94e-08
+  },
+  "energetically": {
+    "corpus_count": 6,
+    "general_freq": 5.75e-07
+  },
+  "remanent": {
+    "corpus_count": 6,
+    "general_freq": 2.09e-08
+  },
+  "fermions": {
+    "corpus_count": 6,
+    "general_freq": 1.66e-07
+  },
+  "torques": {
+    "corpus_count": 6,
+    "general_freq": 1.05e-07
+  },
+  "retrieval": {
+    "corpus_count": 6,
+    "general_freq": 2.14e-06
+  },
+  "triangular": {
+    "corpus_count": 6,
+    "general_freq": 2.63e-06
+  },
+  "cyclic": {
+    "corpus_count": 6,
+    "general_freq": 1.45e-06
+  },
+  "superposition": {
+    "corpus_count": 6,
+    "general_freq": 3.89e-07
+  },
+  "validates": {
+    "corpus_count": 6,
+    "general_freq": 5.13e-07
+  },
+  "vectors": {
+    "corpus_count": 6,
+    "general_freq": 2.88e-06
+  },
+  "irreducible": {
+    "corpus_count": 6,
+    "general_freq": 4.9e-07
+  },
+  "fluoride": {
+    "corpus_count": 6,
+    "general_freq": 1.78e-06
+  },
+  "methodological": {
+    "corpus_count": 6,
+    "general_freq": 1.07e-06
+  },
+  "superlattices": {
+    "corpus_count": 6,
+    "general_freq": 2.69e-08
+  },
+  "disentangle": {
+    "corpus_count": 6,
+    "general_freq": 1.86e-07
+  },
+  "conductive": {
+    "corpus_count": 6,
+    "general_freq": 1.15e-06
+  },
+  "desorption": {
+    "corpus_count": 6,
+    "general_freq": 3.24e-07
+  },
+  "propagating": {
+    "corpus_count": 6,
+    "general_freq": 7.94e-07
+  },
+  "coatings": {
+    "corpus_count": 6,
+    "general_freq": 2.29e-06
+  },
+  "roadmap": {
+    "corpus_count": 6,
+    "general_freq": 1.45e-06
+  },
+  "deformed": {
+    "corpus_count": 6,
+    "general_freq": 1.62e-06
+  },
+  "kinetically": {
+    "corpus_count": 6,
+    "general_freq": 6.17e-08
+  },
+  "stringent": {
+    "corpus_count": 6,
+    "general_freq": 2.69e-06
+  },
+  "infer": {
+    "corpus_count": 6,
+    "general_freq": 1.45e-06
+  },
+  "estimation": {
+    "corpus_count": 6,
+    "general_freq": 2.88e-06
+  },
+  "enforces": {
+    "corpus_count": 6,
+    "general_freq": 7.59e-07
+  },
+  "orthogonal": {
+    "corpus_count": 6,
+    "general_freq": 9.55e-07
+  },
+  "heisenberg": {
+    "corpus_count": 6,
+    "general_freq": 6.61e-07
+  },
+  "bridging": {
+    "corpus_count": 6,
+    "general_freq": 1.78e-06
+  },
+  "adsorbate": {
+    "corpus_count": 6,
+    "general_freq": 3.16e-08
+  },
+  "outperforming": {
+    "corpus_count": 6,
+    "general_freq": 2.95e-07
+  },
+  "intervalley": {
+    "corpus_count": 6,
+    "general_freq": 0.0
+  },
+  "orderings": {
+    "corpus_count": 6,
+    "general_freq": 6.03e-08
+  },
+  "leakage": {
+    "corpus_count": 6,
+    "general_freq": 1.74e-06
+  },
+  "metrology": {
+    "corpus_count": 6,
+    "general_freq": 3.16e-07
+  },
+  "equilibration": {
+    "corpus_count": 6,
+    "general_freq": 8.32e-08
+  },
+  "intermetallic": {
+    "corpus_count": 6,
+    "general_freq": 4.9e-08
+  },
+  "underexplored": {
+    "corpus_count": 6,
+    "general_freq": 2.45e-08
+  },
+  "gating": {
+    "corpus_count": 6,
+    "general_freq": 3.63e-07
+  },
+  "quantifying": {
+    "corpus_count": 6,
+    "general_freq": 4.68e-07
+  },
+  "formulations": {
+    "corpus_count": 6,
+    "general_freq": 1.17e-06
+  },
+  "exponential": {
+    "corpus_count": 6,
+    "general_freq": 2.14e-06
+  },
+  "encode": {
+    "corpus_count": 6,
+    "general_freq": 8.91e-07
+  },
+  "characterisation": {
+    "corpus_count": 6,
+    "general_freq": 7.76e-07
+  },
+  "nonreciprocal": {
+    "corpus_count": 6,
+    "general_freq": 1.26e-08
+  },
+  "preferential": {
+    "corpus_count": 6,
+    "general_freq": 1.62e-06
+  },
+  "contraction": {
+    "corpus_count": 6,
+    "general_freq": 2.88e-06
+  },
+  "hove": {
+    "corpus_count": 6,
+    "general_freq": 1.07e-06
+  },
+  "single-crystalline": {
+    "corpus_count": 6,
+    "general_freq": 1.73e-06
+  },
+  "reciprocal": {
+    "corpus_count": 6,
+    "general_freq": 1.66e-06
+  },
+  "electron--phonon": {
+    "corpus_count": 6,
+    "general_freq": 1.58e-07
+  },
+  "attenuation": {
+    "corpus_count": 6,
+    "general_freq": 6.46e-07
+  },
+  "versatility": {
+    "corpus_count": 6,
+    "general_freq": 2.09e-06
+  },
+  "degeneracies": {
+    "corpus_count": 6,
+    "general_freq": 0.0
+  },
+  "embedding": {
+    "corpus_count": 6,
+    "general_freq": 1e-06
+  },
+  "tomography": {
+    "corpus_count": 5,
+    "general_freq": 1.07e-06
+  },
+  "paraelectric": {
+    "corpus_count": 5,
+    "general_freq": 0.0
+  },
+  "cross-sectional": {
+    "corpus_count": 5,
+    "general_freq": 2.68e-06
+  },
+  "amplifies": {
+    "corpus_count": 5,
+    "general_freq": 4.07e-07
+  },
+  "exponent": {
+    "corpus_count": 5,
+    "general_freq": 8.91e-07
+  },
+  "flake": {
+    "corpus_count": 5,
+    "general_freq": 1.62e-06
+  },
+  "mace": {
+    "corpus_count": 5,
+    "general_freq": 2.14e-06
+  },
+  "non-relativistic": {
+    "corpus_count": 5,
+    "general_freq": 8.09e-07
+  },
+  "coalescence": {
+    "corpus_count": 5,
+    "general_freq": 1.41e-07
+  },
+  "diameters": {
+    "corpus_count": 5,
+    "general_freq": 6.31e-07
+  },
+  "chalcogenide": {
+    "corpus_count": 5,
+    "general_freq": 2.14e-08
+  },
+  "embeds": {
+    "corpus_count": 5,
+    "general_freq": 1.66e-07
+  },
+  "paves": {
+    "corpus_count": 5,
+    "general_freq": 3.16e-07
+  },
+  "zeeman": {
+    "corpus_count": 5,
+    "general_freq": 7.41e-08
+  },
+  "amplitudes": {
+    "corpus_count": 5,
+    "general_freq": 2.95e-07
+  },
+  "eliminates": {
+    "corpus_count": 5,
+    "general_freq": 2.4e-06
+  },
+  "ohmic": {
+    "corpus_count": 5,
+    "general_freq": 8.13e-08
+  },
+  "markov": {
+    "corpus_count": 5,
+    "general_freq": 1.05e-06
+  },
+  "morphologies": {
+    "corpus_count": 5,
+    "general_freq": 1.29e-07
+  },
+  "nanoindentation": {
+    "corpus_count": 5,
+    "general_freq": 1.29e-08
+  },
+  "twinning": {
+    "corpus_count": 5,
+    "general_freq": 5.13e-07
+  },
+  "hinder": {
+    "corpus_count": 5,
+    "general_freq": 2.45e-06
+  },
+  "unifying": {
+    "corpus_count": 5,
+    "general_freq": 1.41e-06
+  },
+  "rigidity": {
+    "corpus_count": 5,
+    "general_freq": 9.77e-07
+  },
+  "perturbative": {
+    "corpus_count": 5,
+    "general_freq": 8.51e-08
+  },
+  "tractable": {
+    "corpus_count": 5,
+    "general_freq": 1.62e-07
+  },
+  "deviation": {
+    "corpus_count": 5,
+    "general_freq": 2.51e-06
+  },
+  "diagnostics": {
+    "corpus_count": 5,
+    "general_freq": 1.62e-06
+  },
+  "separable": {
+    "corpus_count": 5,
+    "general_freq": 3.24e-07
+  },
+  "irradiation-induced": {
+    "corpus_count": 5,
+    "general_freq": 1.11e-06
+  },
+  "admissible": {
+    "corpus_count": 5,
+    "general_freq": 7.41e-07
+  },
+  "inverted": {
+    "corpus_count": 5,
+    "general_freq": 2.63e-06
+  },
+  "photocurrent": {
+    "corpus_count": 5,
+    "general_freq": 3.72e-08
+  },
+  "hbar": {
+    "corpus_count": 5,
+    "general_freq": 1.05e-08
+  },
+  "oxidized": {
+    "corpus_count": 5,
+    "general_freq": 7.59e-07
+  },
+  "analogue": {
+    "corpus_count": 5,
+    "general_freq": 1.91e-06
+  },
+  "contrasting": {
+    "corpus_count": 5,
+    "general_freq": 2.88e-06
+  },
+  "overcomes": {
+    "corpus_count": 5,
+    "general_freq": 8.51e-07
+  },
+  "dipoles": {
+    "corpus_count": 5,
+    "general_freq": 1.1e-07
+  },
+  "orientational": {
+    "corpus_count": 5,
+    "general_freq": 3.39e-08
+  },
+  "dilute": {
+    "corpus_count": 5,
+    "general_freq": 1.51e-06
+  },
+  "narrows": {
+    "corpus_count": 5,
+    "general_freq": 1.35e-06
+  },
+  "delocalized": {
+    "corpus_count": 5,
+    "general_freq": 4.68e-08
+  },
+  "quenching": {
+    "corpus_count": 5,
+    "general_freq": 3.8e-07
+  },
+  "optimize": {
+    "corpus_count": 5,
+    "general_freq": 2.14e-06
+  },
+  "chemistries": {
+    "corpus_count": 5,
+    "general_freq": 1.02e-07
+  },
+  "plasmonic": {
+    "corpus_count": 5,
+    "general_freq": 9.33e-08
+  },
+  "inverse-design": {
+    "corpus_count": 5,
+    "general_freq": 2.58e-06
+  },
+  "resistive": {
+    "corpus_count": 5,
+    "general_freq": 4.07e-07
+  },
+  "manifested": {
+    "corpus_count": 5,
+    "general_freq": 1.91e-06
+  },
+  "polarons": {
+    "corpus_count": 5,
+    "general_freq": 1.15e-08
+  },
+  "diffusive": {
+    "corpus_count": 5,
+    "general_freq": 8.32e-08
+  },
+  "edelstein": {
+    "corpus_count": 5,
+    "general_freq": 2.34e-07
+  },
+  "abrupt": {
+    "corpus_count": 5,
+    "general_freq": 2.4e-06
+  },
+  "defect-mediated": {
+    "corpus_count": 5,
+    "general_freq": 1.93e-06
+  },
+  "hindered": {
+    "corpus_count": 5,
+    "general_freq": 1.62e-06
+  },
+  "ultrahigh": {
+    "corpus_count": 5,
+    "general_freq": 7.59e-08
+  },
+  "electronically": {
+    "corpus_count": 5,
+    "general_freq": 1.91e-06
+  },
+  "evaporation": {
+    "corpus_count": 5,
+    "general_freq": 1.2e-06
+  },
+  "nominally": {
+    "corpus_count": 5,
+    "general_freq": 1.26e-06
+  },
+  "reorientation": {
+    "corpus_count": 5,
+    "general_freq": 1.66e-07
+  },
+  "collapses": {
+    "corpus_count": 5,
+    "general_freq": 2.34e-06
+  },
+  "percolation": {
+    "corpus_count": 5,
+    "general_freq": 1.48e-07
+  },
+  "silica": {
+    "corpus_count": 5,
+    "general_freq": 1.86e-06
+  },
+  "trapping": {
+    "corpus_count": 5,
+    "general_freq": 2.4e-06
+  },
+  "nitrides": {
+    "corpus_count": 5,
+    "general_freq": 3.98e-08
+  },
+  "combinatorial": {
+    "corpus_count": 5,
+    "general_freq": 4.57e-07
+  },
+  "rightarrow": {
+    "corpus_count": 5,
+    "general_freq": 0.0
+  },
+  "functionalization": {
+    "corpus_count": 5,
+    "general_freq": 5.89e-08
+  },
+  "ultraviolet": {
+    "corpus_count": 5,
+    "general_freq": 2.14e-06
+  },
+  "radii": {
+    "corpus_count": 5,
+    "general_freq": 3.55e-07
+  },
+  "compliant": {
+    "corpus_count": 5,
+    "general_freq": 2.63e-06
+  },
+  "photoexcited": {
+    "corpus_count": 5,
+    "general_freq": 1.1e-08
+  },
+  "momenta": {
+    "corpus_count": 5,
+    "general_freq": 1.2e-07
+  },
+  "prototypes": {
+    "corpus_count": 5,
+    "general_freq": 1.78e-06
+  },
+  "bethe-salpeter": {
+    "corpus_count": 5,
+    "general_freq": 2.51e-08
+  },
+  "fragmented": {
+    "corpus_count": 5,
+    "general_freq": 2.14e-06
+  },
+  "arrhenius": {
+    "corpus_count": 5,
+    "general_freq": 9.12e-08
+  },
+  "anchored": {
+    "corpus_count": 5,
+    "general_freq": 2.88e-06
+  },
+  "subsurface": {
+    "corpus_count": 5,
+    "general_freq": 7.76e-07
+  },
+  "retraining": {
+    "corpus_count": 5,
+    "general_freq": 5.62e-07
+  },
+  "gradients": {
+    "corpus_count": 5,
+    "general_freq": 8.51e-07
+  },
+  "inert": {
+    "corpus_count": 5,
+    "general_freq": 1.23e-06
+  },
+  "exfoliated": {
+    "corpus_count": 5,
+    "general_freq": 9.55e-08
+  },
+  "constrain": {
+    "corpus_count": 5,
+    "general_freq": 6.61e-07
+  },
+  "coercive": {
+    "corpus_count": 5,
+    "general_freq": 9.55e-07
+  },
+  "solver": {
+    "corpus_count": 5,
+    "general_freq": 6.61e-07
+  },
+  "parametric": {
+    "corpus_count": 5,
+    "general_freq": 6.92e-07
+  },
+  "nonlinearities": {
+    "corpus_count": 5,
+    "general_freq": 4.47e-08
+  },
+  "annealed": {
+    "corpus_count": 5,
+    "general_freq": 1.45e-07
+  },
+  "heterogeneity": {
+    "corpus_count": 5,
+    "general_freq": 5.75e-07
+  },
+  "anharmonicity": {
+    "corpus_count": 5,
+    "general_freq": 0.0
+  },
+  "polynomial": {
+    "corpus_count": 5,
+    "general_freq": 1.29e-06
+  },
+  "long-wavelength": {
+    "corpus_count": 5,
+    "general_freq": 2.81e-06
+  },
+  "coherently": {
+    "corpus_count": 5,
+    "general_freq": 3.02e-07
+  },
+  "multidimensional": {
+    "corpus_count": 5,
+    "general_freq": 6.17e-07
+  },
+  "efficiencies": {
+    "corpus_count": 5,
+    "general_freq": 1.55e-06
+  },
+  "viability": {
+    "corpus_count": 5,
+    "general_freq": 2.75e-06
+  },
+  "metal-halide": {
+    "corpus_count": 5,
+    "general_freq": 3.45e-07
+  },
+  "fluctuation": {
+    "corpus_count": 5,
+    "general_freq": 7.76e-07
+  },
+  "capacities": {
+    "corpus_count": 5,
+    "general_freq": 2.75e-06
+  },
+  "multiferroics": {
+    "corpus_count": 5,
+    "general_freq": 0.0
+  },
+  "underpins": {
+    "corpus_count": 5,
+    "general_freq": 3.09e-07
+  },
+  "simulate": {
+    "corpus_count": 5,
+    "general_freq": 2.75e-06
+  },
+  "quasiparticles": {
+    "corpus_count": 5,
+    "general_freq": 4.17e-08
+  },
+  "simeq": {
+    "corpus_count": 5,
+    "general_freq": 0.0
+  },
+  "ferromagnetism": {
+    "corpus_count": 5,
+    "general_freq": 4.07e-08
+  },
+  "chirality": {
+    "corpus_count": 5,
+    "general_freq": 1.17e-07
+  },
+  "sputtered": {
+    "corpus_count": 5,
+    "general_freq": 2.19e-07
+  },
+  "measurable": {
+    "corpus_count": 5,
+    "general_freq": 2.09e-06
+  },
+  "unravel": {
+    "corpus_count": 5,
+    "general_freq": 1.55e-06
+  },
+  "uncovers": {
+    "corpus_count": 5,
+    "general_freq": 6.92e-07
+  },
+  "roughness": {
+    "corpus_count": 5,
+    "general_freq": 6.46e-07
+  },
+  "janus": {
+    "corpus_count": 5,
+    "general_freq": 1.05e-06
+  },
+  "wavevector": {
+    "corpus_count": 5,
+    "general_freq": 1.74e-08
+  },
+  "magneto-transport": {
+    "corpus_count": 5,
+    "general_freq": 1.07e-06
+  },
+  "densely": {
+    "corpus_count": 5,
+    "general_freq": 2.63e-06
+  },
+  "aggregates": {
+    "corpus_count": 5,
+    "general_freq": 1.17e-06
+  },
+  "hybridized": {
+    "corpus_count": 5,
+    "general_freq": 1.74e-07
+  },
+  "exfoliation": {
+    "corpus_count": 5,
+    "general_freq": 2.45e-07
+  },
+  "comprehensively": {
+    "corpus_count": 5,
+    "general_freq": 9.12e-07
+  },
+  "knobs": {
+    "corpus_count": 5,
+    "general_freq": 1.05e-06
+  },
+  "reflectance": {
+    "corpus_count": 5,
+    "general_freq": 2.95e-07
+  },
+  "equivalence": {
+    "corpus_count": 5,
+    "general_freq": 1.48e-06
+  },
+  "leverages": {
+    "corpus_count": 5,
+    "general_freq": 3.09e-07
+  },
+  "nucleate": {
+    "corpus_count": 5,
+    "general_freq": 4.27e-08
+  },
+  "disentangling": {
+    "corpus_count": 5,
+    "general_freq": 7.94e-08
+  },
+  "rkky": {
+    "corpus_count": 5,
+    "general_freq": 0.0
+  },
+  "ablation": {
+    "corpus_count": 5,
+    "general_freq": 5.89e-07
+  },
+  "intralayer": {
+    "corpus_count": 5,
+    "general_freq": 0.0
+  },
+  "wafer-scale": {
+    "corpus_count": 5,
+    "general_freq": 1.32e-06
+  },
+  "photocarrier": {
+    "corpus_count": 5,
+    "general_freq": 0.0
+  },
+  "exponentially": {
+    "corpus_count": 5,
+    "general_freq": 2e-06
+  },
+  "pairwise": {
+    "corpus_count": 5,
+    "general_freq": 2.75e-07
+  },
+  "neel": {
+    "corpus_count": 5,
+    "general_freq": 4.37e-07
+  },
+  "occupations": {
+    "corpus_count": 5,
+    "general_freq": 2.75e-06
+  },
+  "topologies": {
+    "corpus_count": 5,
+    "general_freq": 2.4e-07
+  },
+  "canonical": {
+    "corpus_count": 5,
+    "general_freq": 2.09e-06
+  },
+  "nonsymmorphic": {
+    "corpus_count": 5,
+    "general_freq": 0.0
+  },
+  "slabs": {
+    "corpus_count": 5,
+    "general_freq": 1.58e-06
+  },
+  "rhombohedral": {
+    "corpus_count": 5,
+    "general_freq": 3.16e-08
+  },
+  "stacking-fault": {
+    "corpus_count": 5,
+    "general_freq": 1.91e-06
+  },
+  "inhomogeneity": {
+    "corpus_count": 5,
+    "general_freq": 3.24e-08
+  },
+  "intermediates": {
+    "corpus_count": 5,
+    "general_freq": 5.62e-07
+  },
+  "aqueous": {
+    "corpus_count": 5,
+    "general_freq": 1.41e-06
+  },
+  "tetrahedral": {
+    "corpus_count": 5,
+    "general_freq": 2.29e-07
+  },
+  "singularities": {
+    "corpus_count": 5,
+    "general_freq": 2.75e-07
+  },
+  "fluence": {
+    "corpus_count": 5,
+    "general_freq": 1.07e-07
+  },
+  "unphysical": {
+    "corpus_count": 5,
+    "general_freq": 3.89e-08
+  },
+  "insertion": {
+    "corpus_count": 5,
+    "general_freq": 2.29e-06
+  },
+  "crsb": {
+    "corpus_count": 5,
+    "general_freq": 0.0
+  },
+  "degrades": {
+    "corpus_count": 5,
+    "general_freq": 5.01e-07
+  },
+  "weakens": {
+    "corpus_count": 5,
+    "general_freq": 1.1e-06
+  },
+  "correlating": {
+    "corpus_count": 5,
+    "general_freq": 4.17e-07
+  },
+  "occupancy": {
+    "corpus_count": 5,
+    "general_freq": 2.29e-06
+  },
+  "mathbb": {
+    "corpus_count": 5,
+    "general_freq": 1.05e-08
+  },
+  "durability": {
+    "corpus_count": 5,
+    "general_freq": 2.82e-06
+  },
+  "harnessing": {
+    "corpus_count": 5,
+    "general_freq": 7.59e-07
+  },
+  "partitioning": {
+    "corpus_count": 5,
+    "general_freq": 6.46e-07
+  },
+  "pauli": {
+    "corpus_count": 5,
+    "general_freq": 4.57e-07
+  },
+  "molten": {
+    "corpus_count": 5,
+    "general_freq": 2.14e-06
+  },
+  "prohibitive": {
+    "corpus_count": 5,
+    "general_freq": 8.91e-07
+  },
+  "motivates": {
+    "corpus_count": 5,
+    "general_freq": 1.48e-06
+  },
+  "semilocal": {
+    "corpus_count": 5,
+    "general_freq": 0.0
+  },
+  "re-entrant": {
+    "corpus_count": 5,
+    "general_freq": 8.67e-07
+  },
+  "refractory": {
+    "corpus_count": 5,
+    "general_freq": 7.59e-07
+  },
+  "precipitates": {
+    "corpus_count": 5,
+    "general_freq": 2e-07
+  },
+  "clustering": {
+    "corpus_count": 4,
+    "general_freq": 1.07e-06
+  },
+  "symmetry-adapted": {
+    "corpus_count": 4,
+    "general_freq": 2.66e-06
+  },
+  "concurrently": {
+    "corpus_count": 4,
+    "general_freq": 1.82e-06
+  },
+  "spurious": {
+    "corpus_count": 4,
+    "general_freq": 9.12e-07
+  },
+  "compensating": {
+    "corpus_count": 4,
+    "general_freq": 1e-06
+  },
+  "acceptor": {
+    "corpus_count": 4,
+    "general_freq": 5.62e-07
+  },
+  "correlate": {
+    "corpus_count": 4,
+    "general_freq": 1.58e-06
+  },
+  "porous": {
+    "corpus_count": 4,
+    "general_freq": 2.34e-06
+  },
+  "micrometer-scale": {
+    "corpus_count": 4,
+    "general_freq": 2.08e-07
+  },
+  "corroborated": {
+    "corpus_count": 4,
+    "general_freq": 8.32e-07
+  },
+  "inductive": {
+    "corpus_count": 4,
+    "general_freq": 7.94e-07
+  },
+  "manifests": {
+    "corpus_count": 4,
+    "general_freq": 1.38e-06
+  },
+  "composites": {
+    "corpus_count": 4,
+    "general_freq": 1.45e-06
+  },
+  "exhaustive": {
+    "corpus_count": 4,
+    "general_freq": 2e-06
+  },
+  "underpin": {
+    "corpus_count": 4,
+    "general_freq": 4.68e-07
+  },
+  "uniformity": {
+    "corpus_count": 4,
+    "general_freq": 1.07e-06
+  },
+  "densification": {
+    "corpus_count": 4,
+    "general_freq": 7.94e-08
+  },
+  "microscale": {
+    "corpus_count": 4,
+    "general_freq": 1e-07
+  },
+  "encapsulated": {
+    "corpus_count": 4,
+    "general_freq": 8.13e-07
+  },
+  "birefringence": {
+    "corpus_count": 4,
+    "general_freq": 7.94e-08
+  },
+  "demagnetization": {
+    "corpus_count": 4,
+    "general_freq": 2.29e-08
+  },
+  "timescales": {
+    "corpus_count": 4,
+    "general_freq": 2.88e-07
+  },
+  "seamlessly": {
+    "corpus_count": 4,
+    "general_freq": 1.26e-06
+  },
+  "bragg": {
+    "corpus_count": 4,
+    "general_freq": 1.55e-06
+  },
+  "multipolar": {
+    "corpus_count": 4,
+    "general_freq": 1.02e-07
+  },
+  "refinements": {
+    "corpus_count": 4,
+    "general_freq": 4.37e-07
+  },
+  "thermoelectrics": {
+    "corpus_count": 4,
+    "general_freq": 1.82e-08
+  },
+  "nanometer": {
+    "corpus_count": 4,
+    "general_freq": 2.45e-07
+  },
+  "mesoscopic": {
+    "corpus_count": 4,
+    "general_freq": 4.27e-08
+  },
+  "ising": {
+    "corpus_count": 4,
+    "general_freq": 1.38e-07
+  },
+  "crystallography": {
+    "corpus_count": 4,
+    "general_freq": 3.98e-07
+  },
+  "even-parity": {
+    "corpus_count": 4,
+    "general_freq": 2.56e-06
+  },
+  "symmetry-enforced": {
+    "corpus_count": 4,
+    "general_freq": 2.12e-06
+  },
+  "gpus": {
+    "corpus_count": 4,
+    "general_freq": 4.68e-07
+  },
+  "localizes": {
+    "corpus_count": 4,
+    "general_freq": 7.59e-08
+  },
+  "subsystems": {
+    "corpus_count": 4,
+    "general_freq": 6.31e-07
+  },
+  "insensitive": {
+    "corpus_count": 4,
+    "general_freq": 2.82e-06
+  },
+  "mnte": {
+    "corpus_count": 4,
+    "general_freq": 0.0
+  },
+  "indices": {
+    "corpus_count": 4,
+    "general_freq": 2.57e-06
+  },
+  "propagates": {
+    "corpus_count": 4,
+    "general_freq": 3.02e-07
+  },
+  "prefactor": {
+    "corpus_count": 4,
+    "general_freq": 0.0
+  },
+  "operando": {
+    "corpus_count": 4,
+    "general_freq": 0.0
+  },
+  "modifying": {
+    "corpus_count": 4,
+    "general_freq": 2.45e-06
+  },
+  "unambiguously": {
+    "corpus_count": 4,
+    "general_freq": 5.13e-07
+  },
+  "polymers": {
+    "corpus_count": 4,
+    "general_freq": 1.91e-06
+  },
+  "physicochemical": {
+    "corpus_count": 4,
+    "general_freq": 1.35e-07
+  },
+  "coercivity": {
+    "corpus_count": 4,
+    "general_freq": 3.55e-08
+  },
+  "exciton-phonon": {
+    "corpus_count": 4,
+    "general_freq": 5.92e-08
+  },
+  "constrains": {
+    "corpus_count": 4,
+    "general_freq": 2.24e-07
+  },
+  "dilution": {
+    "corpus_count": 4,
+    "general_freq": 1.17e-06
+  },
+  "tilting": {
+    "corpus_count": 4,
+    "general_freq": 1.32e-06
+  },
+  "deriving": {
+    "corpus_count": 4,
+    "general_freq": 8.91e-07
+  },
+  "pooling": {
+    "corpus_count": 4,
+    "general_freq": 9.33e-07
+  },
+  "photoresponse": {
+    "corpus_count": 4,
+    "general_freq": 0.0
+  },
+  "kpfm": {
+    "corpus_count": 4,
+    "general_freq": 0.0
+  },
+  "dichalcogenide": {
+    "corpus_count": 4,
+    "general_freq": 0.0
+  },
+  "nickelates": {
+    "corpus_count": 4,
+    "general_freq": 0.0
+  },
+  "transformative": {
+    "corpus_count": 4,
+    "general_freq": 1.38e-06
+  },
+  "anodes": {
+    "corpus_count": 4,
+    "general_freq": 1.55e-07
+  },
+  "atomistically": {
+    "corpus_count": 4,
+    "general_freq": 0.0
+  },
+  "metallicity": {
+    "corpus_count": 4,
+    "general_freq": 8.13e-08
+  },
+  "activates": {
+    "corpus_count": 4,
+    "general_freq": 1.51e-06
+  },
+  "obeys": {
+    "corpus_count": 4,
+    "general_freq": 4.68e-07
+  },
+  "threefold": {
+    "corpus_count": 4,
+    "general_freq": 4.9e-07
+  },
+  "superstructures": {
+    "corpus_count": 4,
+    "general_freq": 8.32e-08
+  },
+  "multipole": {
+    "corpus_count": 4,
+    "general_freq": 6.17e-08
+  },
+  "conduction-band": {
+    "corpus_count": 4,
+    "general_freq": 9.44e-07
+  },
+  "oscillation": {
+    "corpus_count": 4,
+    "general_freq": 9.12e-07
+  },
+  "incommensurate": {
+    "corpus_count": 4,
+    "general_freq": 2.45e-08
+  },
+  "vapor-deposited": {
+    "corpus_count": 4,
+    "general_freq": 1.98e-06
+  },
+  "emitting": {
+    "corpus_count": 4,
+    "general_freq": 1.62e-06
+  },
+  "diodes": {
+    "corpus_count": 4,
+    "general_freq": 7.41e-07
+  },
+  "radiative": {
+    "corpus_count": 4,
+    "general_freq": 4.27e-07
+  },
+  "impedance": {
+    "corpus_count": 4,
+    "general_freq": 1.41e-06
+  },
+  "geometrical": {
+    "corpus_count": 4,
+    "general_freq": 7.76e-07
+  },
+  "vortex": {
+    "corpus_count": 4,
+    "general_freq": 2.95e-06
+  },
+  "robustly": {
+    "corpus_count": 4,
+    "general_freq": 2.45e-07
+  },
+  "mxene": {
+    "corpus_count": 4,
+    "general_freq": 0.0
+  },
+  "valence-band": {
+    "corpus_count": 4,
+    "general_freq": 7.87e-07
+  },
+  "sintering": {
+    "corpus_count": 4,
+    "general_freq": 2.19e-07
+  },
+  "schottky": {
+    "corpus_count": 4,
+    "general_freq": 8.51e-08
+  },
+  "projector": {
+    "corpus_count": 4,
+    "general_freq": 2.57e-06
+  },
+  "proton": {
+    "corpus_count": 4,
+    "general_freq": 2.63e-06
+  },
+  "subsystem": {
+    "corpus_count": 4,
+    "general_freq": 7.41e-07
+  },
+  "interchain": {
+    "corpus_count": 4,
+    "general_freq": 1.05e-08
+  },
+  "cohesive": {
+    "corpus_count": 4,
+    "general_freq": 2.04e-06
+  },
+  "arbitrarily": {
+    "corpus_count": 4,
+    "general_freq": 1.66e-06
+  },
+  "complementing": {
+    "corpus_count": 4,
+    "general_freq": 5.01e-07
+  },
+  "photodetectors": {
+    "corpus_count": 4,
+    "general_freq": 5.5e-08
+  },
+  "outputs": {
+    "corpus_count": 4,
+    "general_freq": 2.45e-06
+  },
+  "emitted": {
+    "corpus_count": 4,
+    "general_freq": 2.09e-06
+  },
+  "kramers": {
+    "corpus_count": 4,
+    "general_freq": 5.75e-08
+  },
+  "retrieval-augmented": {
+    "corpus_count": 4,
+    "general_freq": 1.28e-06
+  },
+  "hydrides": {
+    "corpus_count": 4,
+    "general_freq": 9.12e-08
+  },
+  "indentation": {
+    "corpus_count": 4,
+    "general_freq": 4.37e-07
+  },
+  "conserved": {
+    "corpus_count": 4,
+    "general_freq": 1.41e-06
+  },
+  "subspace": {
+    "corpus_count": 4,
+    "general_freq": 7.76e-07
+  },
+  "cuprate": {
+    "corpus_count": 4,
+    "general_freq": 1.78e-08
+  },
+  "nonuniform": {
+    "corpus_count": 4,
+    "general_freq": 6.17e-08
+  },
+  "solubility": {
+    "corpus_count": 4,
+    "general_freq": 9.12e-07
+  },
+  "segmentation": {
+    "corpus_count": 4,
+    "general_freq": 1.7e-06
+  },
+  "crystallinity": {
+    "corpus_count": 4,
+    "general_freq": 6.61e-08
+  },
+  "tetrahedra": {
+    "corpus_count": 4,
+    "general_freq": 7.59e-08
+  },
+  "skyrmions": {
+    "corpus_count": 4,
+    "general_freq": 1.51e-08
+  },
+  "vorticity": {
+    "corpus_count": 4,
+    "general_freq": 1.15e-07
+  },
+  "helicity": {
+    "corpus_count": 4,
+    "general_freq": 5.62e-08
+  },
+  "overestimates": {
+    "corpus_count": 4,
+    "general_freq": 1.2e-07
+  },
+  "dissociation": {
+    "corpus_count": 4,
+    "general_freq": 6.92e-07
+  },
+  "boron": {
+    "corpus_count": 4,
+    "general_freq": 8.32e-07
+  },
+  "decays": {
+    "corpus_count": 4,
+    "general_freq": 4.79e-07
+  },
+  "facilitating": {
+    "corpus_count": 4,
+    "general_freq": 2.69e-06
+  },
+  "spin-phonon": {
+    "corpus_count": 4,
+    "general_freq": 1.61e-07
+  },
+  "doublets": {
+    "corpus_count": 4,
+    "general_freq": 6.76e-08
+  },
+  "variance": {
+    "corpus_count": 4,
+    "general_freq": 2.82e-06
+  },
+  "transformer": {
+    "corpus_count": 4,
+    "general_freq": 2.34e-06
+  },
+  "encoder": {
+    "corpus_count": 4,
+    "general_freq": 4.79e-07
+  },
+  "benefiting": {
+    "corpus_count": 4,
+    "general_freq": 2.09e-06
+  },
+  "channeling": {
+    "corpus_count": 4,
+    "general_freq": 1.2e-06
+  },
+  "nanophotonic": {
+    "corpus_count": 4,
+    "general_freq": 1.26e-08
+  },
+  "semiclassical": {
+    "corpus_count": 4,
+    "general_freq": 7.76e-08
+  },
+  "phenomenological": {
+    "corpus_count": 4,
+    "general_freq": 3.31e-07
+  },
+  "torsion": {
+    "corpus_count": 4,
+    "general_freq": 7.08e-07
+  },
+  "dissipationless": {
+    "corpus_count": 4,
+    "general_freq": 0.0
+  },
+  "precursors": {
+    "corpus_count": 4,
+    "general_freq": 1.1e-06
+  },
+  "anode": {
+    "corpus_count": 4,
+    "general_freq": 7.24e-07
+  },
+  "spectrally": {
+    "corpus_count": 4,
+    "general_freq": 6.76e-08
+  },
+  "topography": {
+    "corpus_count": 4,
+    "general_freq": 1.91e-06
+  },
+  "trion": {
+    "corpus_count": 4,
+    "general_freq": 9.33e-08
+  },
+  "overlayer": {
+    "corpus_count": 4,
+    "general_freq": 0.0
+  },
+  "anomalously": {
+    "corpus_count": 4,
+    "general_freq": 7.59e-08
+  },
+  "electro-optic": {
+    "corpus_count": 4,
+    "general_freq": 2.05e-06
+  },
+  "faraday": {
+    "corpus_count": 4,
+    "general_freq": 9.33e-07
+  },
+  "iodide": {
+    "corpus_count": 4,
+    "general_freq": 3.89e-07
+  },
+  "ionic-electronic": {
+    "corpus_count": 4,
+    "general_freq": 1.55e-06
+  },
+  "dielectrics": {
+    "corpus_count": 4,
+    "general_freq": 7.59e-08
+  },
+  "impurity": {
+    "corpus_count": 4,
+    "general_freq": 4.9e-07
+  },
+  "instrumentation": {
+    "corpus_count": 4,
+    "general_freq": 2.88e-06
+  },
+  "debye": {
+    "corpus_count": 4,
+    "general_freq": 1.02e-07
+  },
+  "dictates": {
+    "corpus_count": 4,
+    "general_freq": 2.09e-06
+  },
+  "zigzag": {
+    "corpus_count": 4,
+    "general_freq": 6.61e-07
+  },
+  "axial": {
+    "corpus_count": 4,
+    "general_freq": 1.41e-06
+  },
+  "seebeck": {
+    "corpus_count": 4,
+    "general_freq": 4.9e-08
+  },
+  "detectable": {
+    "corpus_count": 4,
+    "general_freq": 1.1e-06
+  },
+  "degrading": {
+    "corpus_count": 4,
+    "general_freq": 2.24e-06
+  },
+  "actuation": {
+    "corpus_count": 4,
+    "general_freq": 2.75e-07
+  },
+  "thinning": {
+    "corpus_count": 4,
+    "general_freq": 1.38e-06
+  },
+  "softness": {
+    "corpus_count": 4,
+    "general_freq": 9.77e-07
+  },
+  "eigenstrain": {
+    "corpus_count": 4,
+    "general_freq": 0.0
+  },
+  "modulating": {
+    "corpus_count": 4,
+    "general_freq": 4.07e-07
+  },
+  "thermoreflectance": {
+    "corpus_count": 4,
+    "general_freq": 0.0
+  },
+  "fingerprints": {
+    "corpus_count": 4,
+    "general_freq": 2.14e-06
+  },
+  "rmse": {
+    "corpus_count": 4,
+    "general_freq": 3.02e-08
+  },
+  "eigenstates": {
+    "corpus_count": 4,
+    "general_freq": 6.31e-08
+  },
+  "rangle": {
+    "corpus_count": 4,
+    "general_freq": 1.45e-08
+  },
+  "doubly": {
+    "corpus_count": 4,
+    "general_freq": 1.48e-06
+  },
+  "elongated": {
+    "corpus_count": 4,
+    "general_freq": 2.24e-06
+  },
+  "vanishing": {
+    "corpus_count": 4,
+    "general_freq": 1.86e-06
+  },
+  "wafers": {
+    "corpus_count": 4,
+    "general_freq": 5.62e-07
+  },
+  "templates": {
+    "corpus_count": 4,
+    "general_freq": 2e-06
+  },
+  "electromechanical": {
+    "corpus_count": 4,
+    "general_freq": 3.55e-07
+  },
+  "wrinkling": {
+    "corpus_count": 4,
+    "general_freq": 1.95e-07
+  },
+  "coexists": {
+    "corpus_count": 4,
+    "general_freq": 7.08e-08
+  },
+  "electrostatics": {
+    "corpus_count": 4,
+    "general_freq": 6.17e-08
+  },
+  "anionic": {
+    "corpus_count": 4,
+    "general_freq": 2.04e-07
+  },
+  "rutile": {
+    "corpus_count": 4,
+    "general_freq": 1.55e-07
+  },
+  "etching": {
+    "corpus_count": 4,
+    "general_freq": 1.35e-06
+  },
+  "spinel": {
+    "corpus_count": 4,
+    "general_freq": 2.04e-07
+  },
+  "reactivity": {
+    "corpus_count": 4,
+    "general_freq": 7.76e-07
+  },
+  "symmetry-constrained": {
+    "corpus_count": 4,
+    "general_freq": 1.43e-06
+  },
+  "basal": {
+    "corpus_count": 4,
+    "general_freq": 2.51e-06
+  },
+  "calorimetry": {
+    "corpus_count": 4,
+    "general_freq": 1.17e-07
+  },
+  "pmma": {
+    "corpus_count": 4,
+    "general_freq": 1.15e-07
+  },
+  "interconnected": {
+    "corpus_count": 4,
+    "general_freq": 1.78e-06
+  },
+  "wavenumber": {
+    "corpus_count": 4,
+    "general_freq": 5.62e-08
+  },
+  "cascade": {
+    "corpus_count": 4,
+    "general_freq": 2.95e-06
+  },
+  "seamless": {
+    "corpus_count": 4,
+    "general_freq": 2.04e-06
+  },
+  "susceptibilities": {
+    "corpus_count": 4,
+    "general_freq": 4.57e-08
+  },
+  "magnitudes": {
+    "corpus_count": 4,
+    "general_freq": 5.13e-07
+  },
+  "saturates": {
+    "corpus_count": 4,
+    "general_freq": 1.1e-07
+  },
+  "fourfold": {
+    "corpus_count": 4,
+    "general_freq": 2.75e-07
+  },
+  "integrals": {
+    "corpus_count": 4,
+    "general_freq": 4.27e-07
+  },
+  "cartesian": {
+    "corpus_count": 4,
+    "general_freq": 5.89e-07
+  },
+  "perturbations": {
+    "corpus_count": 4,
+    "general_freq": 3.09e-07
+  },
+  "pseudospin": {
+    "corpus_count": 4,
+    "general_freq": 0.0
+  },
+  "biaxial": {
+    "corpus_count": 4,
+    "general_freq": 5.75e-08
+  },
+  "dmft": {
+    "corpus_count": 4,
+    "general_freq": 0.0
+  },
+  "floquet": {
+    "corpus_count": 4,
+    "general_freq": 2.69e-08
+  },
+  "antiferromagnetically": {
+    "corpus_count": 4,
+    "general_freq": 0.0
+  },
+  "quasi-particles": {
+    "corpus_count": 4,
+    "general_freq": 2.46e-06
+  },
+  "analogues": {
+    "corpus_count": 4,
+    "general_freq": 5.25e-07
+  },
+  "formulas": {
+    "corpus_count": 4,
+    "general_freq": 2.75e-06
+  },
+  "mott": {
+    "corpus_count": 4,
+    "general_freq": 1e-06
+  },
+  "solidification": {
+    "corpus_count": 4,
+    "general_freq": 1.51e-07
+  },
+  "orbital-selective": {
+    "corpus_count": 4,
+    "general_freq": 2.57e-06
+  },
+  "antiferromagnetism": {
+    "corpus_count": 4,
+    "general_freq": 0.0
+  },
+  "tunnelling": {
+    "corpus_count": 4,
+    "general_freq": 3.31e-07
+  },
+  "raman-active": {
+    "corpus_count": 4,
+    "general_freq": 1.16e-06
+  },
+  "cgcnn": {
+    "corpus_count": 4,
+    "general_freq": 0.0
+  },
+  "antiparallel": {
+    "corpus_count": 4,
+    "general_freq": 6.46e-08
+  },
+  "achievable": {
+    "corpus_count": 4,
+    "general_freq": 1.62e-06
+  },
+  "reframes": {
+    "corpus_count": 4,
+    "general_freq": 3.31e-08
+  },
+  "coarse": {
+    "corpus_count": 4,
+    "general_freq": 2.57e-06
+  },
+  "unconstrained": {
+    "corpus_count": 4,
+    "general_freq": 2.4e-07
+  },
+  "vertically": {
+    "corpus_count": 4,
+    "general_freq": 2.88e-06
+  },
+  "hyperfine": {
+    "corpus_count": 4,
+    "general_freq": 6.61e-08
+  },
+  "subspaces": {
+    "corpus_count": 4,
+    "general_freq": 1.17e-07
+  },
+  "multiphase": {
+    "corpus_count": 4,
+    "general_freq": 1.26e-07
+  },
+  "backscatter": {
+    "corpus_count": 4,
+    "general_freq": 1.29e-07
+  },
+  "nematic": {
+    "corpus_count": 4,
+    "general_freq": 1.17e-07
+  },
+  "localised": {
+    "corpus_count": 4,
+    "general_freq": 7.59e-07
+  },
+  "fluctuating": {
+    "corpus_count": 4,
+    "general_freq": 1e-06
+  },
+  "non-radiative": {
+    "corpus_count": 4,
+    "general_freq": 4.26e-07
+  },
+  "steels": {
+    "corpus_count": 4,
+    "general_freq": 6.61e-07
+  },
+  "crystallize": {
+    "corpus_count": 4,
+    "general_freq": 2.24e-07
+  },
+  "strengthens": {
+    "corpus_count": 4,
+    "general_freq": 1.91e-06
+  },
+  "nanosecond": {
+    "corpus_count": 4,
+    "general_freq": 2.29e-07
+  },
+  "bidirectional": {
+    "corpus_count": 4,
+    "general_freq": 3.55e-07
+  },
+  "parameterized": {
+    "corpus_count": 4,
+    "general_freq": 1.29e-07
+  },
+  "ptychography": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "visualize": {
+    "corpus_count": 3,
+    "general_freq": 1.86e-06
+  },
+  "encodes": {
+    "corpus_count": 3,
+    "general_freq": 4.9e-07
+  },
+  "reshape": {
+    "corpus_count": 3,
+    "general_freq": 7.41e-07
+  },
+  "nesting": {
+    "corpus_count": 3,
+    "general_freq": 2.45e-06
+  },
+  "behaves": {
+    "corpus_count": 3,
+    "general_freq": 1.78e-06
+  },
+  "reflectivity": {
+    "corpus_count": 3,
+    "general_freq": 2.57e-07
+  },
+  "nanocrystalline": {
+    "corpus_count": 3,
+    "general_freq": 5.62e-08
+  },
+  "reconfiguration": {
+    "corpus_count": 3,
+    "general_freq": 3.16e-07
+  },
+  "two-photon": {
+    "corpus_count": 3,
+    "general_freq": 2.09e-06
+  },
+  "fused": {
+    "corpus_count": 3,
+    "general_freq": 2.51e-06
+  },
+  "registries": {
+    "corpus_count": 3,
+    "general_freq": 5.25e-07
+  },
+  "quadrupole": {
+    "corpus_count": 3,
+    "general_freq": 1.41e-07
+  },
+  "hindering": {
+    "corpus_count": 3,
+    "general_freq": 8.51e-07
+  },
+  "extensible": {
+    "corpus_count": 3,
+    "general_freq": 3.55e-07
+  },
+  "stiffening": {
+    "corpus_count": 3,
+    "general_freq": 2.29e-07
+  },
+  "elucidates": {
+    "corpus_count": 3,
+    "general_freq": 8.51e-08
+  },
+  "soc-induced": {
+    "corpus_count": 3,
+    "general_freq": 1.75e-06
+  },
+  "spontaneously": {
+    "corpus_count": 3,
+    "general_freq": 2.19e-06
+  },
+  "ethylene": {
+    "corpus_count": 3,
+    "general_freq": 8.13e-07
+  },
+  "odmr": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "ferroic": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "parameterization": {
+    "corpus_count": 3,
+    "general_freq": 7.41e-08
+  },
+  "pnma": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "quadrupolar": {
+    "corpus_count": 3,
+    "general_freq": 2.04e-08
+  },
+  "decouple": {
+    "corpus_count": 3,
+    "general_freq": 1.35e-07
+  },
+  "suspensions": {
+    "corpus_count": 3,
+    "general_freq": 1.66e-06
+  },
+  "nanosheets": {
+    "corpus_count": 3,
+    "general_freq": 4.47e-08
+  },
+  "accelerator": {
+    "corpus_count": 3,
+    "general_freq": 2.63e-06
+  },
+  "universality": {
+    "corpus_count": 3,
+    "general_freq": 5.37e-07
+  },
+  "ccas": {
+    "corpus_count": 3,
+    "general_freq": 4.47e-08
+  },
+  "finer": {
+    "corpus_count": 3,
+    "general_freq": 2.51e-06
+  },
+  "glide": {
+    "corpus_count": 3,
+    "general_freq": 2.14e-06
+  },
+  "grand-canonical": {
+    "corpus_count": 3,
+    "general_freq": 2.04e-06
+  },
+  "linker": {
+    "corpus_count": 3,
+    "general_freq": 3.72e-07
+  },
+  "extrapolation": {
+    "corpus_count": 3,
+    "general_freq": 3.55e-07
+  },
+  "non-perturbative": {
+    "corpus_count": 3,
+    "general_freq": 8.51e-08
+  },
+  "evaluates": {
+    "corpus_count": 3,
+    "general_freq": 9.33e-07
+  },
+  "nanometer-scale": {
+    "corpus_count": 3,
+    "general_freq": 2.45e-07
+  },
+  "indispensable": {
+    "corpus_count": 3,
+    "general_freq": 2.19e-06
+  },
+  "degraded": {
+    "corpus_count": 3,
+    "general_freq": 2.04e-06
+  },
+  "characterised": {
+    "corpus_count": 3,
+    "general_freq": 2.51e-06
+  },
+  "attributable": {
+    "corpus_count": 3,
+    "general_freq": 2.04e-06
+  },
+  "bismuth": {
+    "corpus_count": 3,
+    "general_freq": 4.57e-07
+  },
+  "invariants": {
+    "corpus_count": 3,
+    "general_freq": 2.63e-07
+  },
+  "crystallizing": {
+    "corpus_count": 3,
+    "general_freq": 8.51e-08
+  },
+  "revisit": {
+    "corpus_count": 3,
+    "general_freq": 2.29e-06
+  },
+  "zeros": {
+    "corpus_count": 3,
+    "general_freq": 1.15e-06
+  },
+  "tellurium": {
+    "corpus_count": 3,
+    "general_freq": 1.45e-07
+  },
+  "lanczos": {
+    "corpus_count": 3,
+    "general_freq": 2.69e-08
+  },
+  "incoherent": {
+    "corpus_count": 3,
+    "general_freq": 1.23e-06
+  },
+  "spacer": {
+    "corpus_count": 3,
+    "general_freq": 6.76e-07
+  },
+  "fluorinated": {
+    "corpus_count": 3,
+    "general_freq": 1.02e-07
+  },
+  "ferroelectrically": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "deterministically": {
+    "corpus_count": 3,
+    "general_freq": 4.47e-08
+  },
+  "paradigms": {
+    "corpus_count": 3,
+    "general_freq": 8.32e-07
+  },
+  "beamline": {
+    "corpus_count": 3,
+    "general_freq": 7.41e-08
+  },
+  "manipulations": {
+    "corpus_count": 3,
+    "general_freq": 6.76e-07
+  },
+  "beamlines": {
+    "corpus_count": 3,
+    "general_freq": 2.34e-08
+  },
+  "thermopower": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "displacive": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "symmetry-resolved": {
+    "corpus_count": 3,
+    "general_freq": 2.57e-06
+  },
+  "covalency": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "diagrammatic": {
+    "corpus_count": 3,
+    "general_freq": 7.41e-08
+  },
+  "disfavor": {
+    "corpus_count": 3,
+    "general_freq": 1.17e-07
+  },
+  "scatter": {
+    "corpus_count": 3,
+    "general_freq": 2.45e-06
+  },
+  "interferometry": {
+    "corpus_count": 3,
+    "general_freq": 2.34e-07
+  },
+  "derives": {
+    "corpus_count": 3,
+    "general_freq": 2.63e-06
+  },
+  "phosphorus": {
+    "corpus_count": 3,
+    "general_freq": 1.78e-06
+  },
+  "metasurface": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "methodologies": {
+    "corpus_count": 3,
+    "general_freq": 1.35e-06
+  },
+  "uptake": {
+    "corpus_count": 3,
+    "general_freq": 1.91e-06
+  },
+  "solves": {
+    "corpus_count": 3,
+    "general_freq": 1.95e-06
+  },
+  "linewidths": {
+    "corpus_count": 3,
+    "general_freq": 1.1e-08
+  },
+  "dependencies": {
+    "corpus_count": 3,
+    "general_freq": 1.55e-06
+  },
+  "graphitic": {
+    "corpus_count": 3,
+    "general_freq": 9.12e-08
+  },
+  "lithium-ion": {
+    "corpus_count": 3,
+    "general_freq": 2.89e-06
+  },
+  "distinguishes": {
+    "corpus_count": 3,
+    "general_freq": 1.45e-06
+  },
+  "fresnel": {
+    "corpus_count": 3,
+    "general_freq": 2.63e-07
+  },
+  "canting": {
+    "corpus_count": 3,
+    "general_freq": 8.13e-08
+  },
+  "zn-based": {
+    "corpus_count": 3,
+    "general_freq": 4.56e-07
+  },
+  "coarse-grained": {
+    "corpus_count": 3,
+    "general_freq": 6.18e-07
+  },
+  "sensitively": {
+    "corpus_count": 3,
+    "general_freq": 3.02e-07
+  },
+  "unloading": {
+    "corpus_count": 3,
+    "general_freq": 1.74e-06
+  },
+  "segmental": {
+    "corpus_count": 3,
+    "general_freq": 3.09e-07
+  },
+  "inductance": {
+    "corpus_count": 3,
+    "general_freq": 2.69e-07
+  },
+  "executes": {
+    "corpus_count": 3,
+    "general_freq": 1.15e-06
+  },
+  "assigning": {
+    "corpus_count": 3,
+    "general_freq": 1.91e-06
+  },
+  "parametrization": {
+    "corpus_count": 3,
+    "general_freq": 6.17e-08
+  },
+  "anisotropically": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "underpinning": {
+    "corpus_count": 3,
+    "general_freq": 7.59e-07
+  },
+  "carbides": {
+    "corpus_count": 3,
+    "general_freq": 6.76e-08
+  },
+  "unrecognized": {
+    "corpus_count": 3,
+    "general_freq": 7.08e-07
+  },
+  "repositories": {
+    "corpus_count": 3,
+    "general_freq": 6.92e-07
+  },
+  "spin-orbit-coupling-induced": {
+    "corpus_count": 3,
+    "general_freq": 1.77e-06
+  },
+  "photoconductivity": {
+    "corpus_count": 3,
+    "general_freq": 1.55e-08
+  },
+  "usefulness": {
+    "corpus_count": 3,
+    "general_freq": 2.14e-06
+  },
+  "determinant": {
+    "corpus_count": 3,
+    "general_freq": 7.94e-07
+  },
+  "superlattice": {
+    "corpus_count": 3,
+    "general_freq": 4.17e-08
+  },
+  "suitability": {
+    "corpus_count": 3,
+    "general_freq": 1.62e-06
+  },
+  "tddft": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "spin-reorientation": {
+    "corpus_count": 3,
+    "general_freq": 1.65e-07
+  },
+  "octahedra": {
+    "corpus_count": 3,
+    "general_freq": 6.03e-08
+  },
+  "buckled": {
+    "corpus_count": 3,
+    "general_freq": 7.24e-07
+  },
+  "high-harmonic": {
+    "corpus_count": 3,
+    "general_freq": 2.13e-06
+  },
+  "homogenization": {
+    "corpus_count": 3,
+    "general_freq": 1.66e-07
+  },
+  "photodetection": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "graphite": {
+    "corpus_count": 3,
+    "general_freq": 2.24e-06
+  },
+  "reorganizes": {
+    "corpus_count": 3,
+    "general_freq": 6.31e-08
+  },
+  "synthesizing": {
+    "corpus_count": 3,
+    "general_freq": 3.72e-07
+  },
+  "unreported": {
+    "corpus_count": 3,
+    "general_freq": 8.13e-07
+  },
+  "generalizable": {
+    "corpus_count": 3,
+    "general_freq": 8.71e-08
+  },
+  "constructs": {
+    "corpus_count": 3,
+    "general_freq": 1.86e-06
+  },
+  "analysing": {
+    "corpus_count": 3,
+    "general_freq": 1.66e-06
+  },
+  "carrier-phonon": {
+    "corpus_count": 3,
+    "general_freq": 1.61e-07
+  },
+  "provenance": {
+    "corpus_count": 3,
+    "general_freq": 1.41e-06
+  },
+  "superconductor": {
+    "corpus_count": 3,
+    "general_freq": 2.51e-07
+  },
+  "vasp": {
+    "corpus_count": 3,
+    "general_freq": 2.57e-08
+  },
+  "dirichlet": {
+    "corpus_count": 3,
+    "general_freq": 1.66e-07
+  },
+  "longstanding": {
+    "corpus_count": 3,
+    "general_freq": 1.55e-06
+  },
+  "dimensionless": {
+    "corpus_count": 3,
+    "general_freq": 2.09e-07
+  },
+  "advantageous": {
+    "corpus_count": 3,
+    "general_freq": 2.14e-06
+  },
+  "discretization": {
+    "corpus_count": 3,
+    "general_freq": 8.51e-08
+  },
+  "speedups": {
+    "corpus_count": 3,
+    "general_freq": 2.75e-08
+  },
+  "metadata": {
+    "corpus_count": 3,
+    "general_freq": 2.29e-06
+  },
+  "garnets": {
+    "corpus_count": 3,
+    "general_freq": 1.23e-07
+  },
+  "corroborate": {
+    "corpus_count": 3,
+    "general_freq": 8.32e-07
+  },
+  "interprets": {
+    "corpus_count": 3,
+    "general_freq": 9.77e-07
+  },
+  "twisting": {
+    "corpus_count": 3,
+    "general_freq": 2.95e-06
+  },
+  "multidomain": {
+    "corpus_count": 3,
+    "general_freq": 1.86e-08
+  },
+  "predefined": {
+    "corpus_count": 3,
+    "general_freq": 4.47e-07
+  },
+  "detectors": {
+    "corpus_count": 3,
+    "general_freq": 2.88e-06
+  },
+  "reconstructions": {
+    "corpus_count": 3,
+    "general_freq": 6.46e-07
+  },
+  "nanomaterials": {
+    "corpus_count": 3,
+    "general_freq": 2.69e-07
+  },
+  "nonadiabatic": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "migdal-eliashberg": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "aimd": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "sevennet": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "intraband": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "repulsive": {
+    "corpus_count": 3,
+    "general_freq": 1.51e-06
+  },
+  "eigenvalue": {
+    "corpus_count": 3,
+    "general_freq": 2.4e-07
+  },
+  "speedup": {
+    "corpus_count": 3,
+    "general_freq": 1.35e-07
+  },
+  "nonradiative": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "rigorously": {
+    "corpus_count": 3,
+    "general_freq": 1e-06
+  },
+  "hessian": {
+    "corpus_count": 3,
+    "general_freq": 3.63e-07
+  },
+  "mediate": {
+    "corpus_count": 3,
+    "general_freq": 1.35e-06
+  },
+  "crystallographically": {
+    "corpus_count": 3,
+    "general_freq": 1.26e-08
+  },
+  "conformational": {
+    "corpus_count": 3,
+    "general_freq": 3.02e-07
+  },
+  "plateaus": {
+    "corpus_count": 3,
+    "general_freq": 4.57e-07
+  },
+  "nanofabrication": {
+    "corpus_count": 3,
+    "general_freq": 3.31e-08
+  },
+  "compromising": {
+    "corpus_count": 3,
+    "general_freq": 2.14e-06
+  },
+  "optimally": {
+    "corpus_count": 3,
+    "general_freq": 6.03e-07
+  },
+  "electrochemistry": {
+    "corpus_count": 3,
+    "general_freq": 1.66e-07
+  },
+  "fermi-level": {
+    "corpus_count": 3,
+    "general_freq": 6.74e-07
+  },
+  "dfpt": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "brillouin-zone": {
+    "corpus_count": 3,
+    "general_freq": 6.16e-08
+  },
+  "algorithmic": {
+    "corpus_count": 3,
+    "general_freq": 5.89e-07
+  },
+  "unlocks": {
+    "corpus_count": 3,
+    "general_freq": 9.33e-07
+  },
+  "posterior": {
+    "corpus_count": 3,
+    "general_freq": 2.69e-06
+  },
+  "pave": {
+    "corpus_count": 3,
+    "general_freq": 1.62e-06
+  },
+  "principled": {
+    "corpus_count": 3,
+    "general_freq": 1.02e-06
+  },
+  "augments": {
+    "corpus_count": 3,
+    "general_freq": 3.39e-07
+  },
+  "sacrificing": {
+    "corpus_count": 3,
+    "general_freq": 2.75e-06
+  },
+  "learnable": {
+    "corpus_count": 3,
+    "general_freq": 5.37e-08
+  },
+  "regularized": {
+    "corpus_count": 3,
+    "general_freq": 1.1e-07
+  },
+  "causal": {
+    "corpus_count": 3,
+    "general_freq": 2.14e-06
+  },
+  "attribution": {
+    "corpus_count": 3,
+    "general_freq": 2.29e-06
+  },
+  "monolithic": {
+    "corpus_count": 3,
+    "general_freq": 1e-06
+  },
+  "redistributes": {
+    "corpus_count": 3,
+    "general_freq": 8.32e-08
+  },
+  "generalize": {
+    "corpus_count": 3,
+    "general_freq": 8.13e-07
+  },
+  "hydrodynamic": {
+    "corpus_count": 3,
+    "general_freq": 2.95e-07
+  },
+  "motivating": {
+    "corpus_count": 3,
+    "general_freq": 2.19e-06
+  },
+  "curie-weiss": {
+    "corpus_count": 3,
+    "general_freq": 6.15e-07
+  },
+  "reversing": {
+    "corpus_count": 3,
+    "general_freq": 2.69e-06
+  },
+  "necessitates": {
+    "corpus_count": 3,
+    "general_freq": 5.5e-07
+  },
+  "correspondingly": {
+    "corpus_count": 3,
+    "general_freq": 5.75e-07
+  },
+  "asymptotic": {
+    "corpus_count": 3,
+    "general_freq": 4.9e-07
+  },
+  "criticality": {
+    "corpus_count": 3,
+    "general_freq": 2.4e-07
+  },
+  "tensorial": {
+    "corpus_count": 3,
+    "general_freq": 1.02e-08
+  },
+  "frictional": {
+    "corpus_count": 3,
+    "general_freq": 2.63e-07
+  },
+  "heavy-fermion": {
+    "corpus_count": 3,
+    "general_freq": 1.12e-07
+  },
+  "facilitates": {
+    "corpus_count": 3,
+    "general_freq": 1.86e-06
+  },
+  "autonomously": {
+    "corpus_count": 3,
+    "general_freq": 4.37e-07
+  },
+  "ultrasonic": {
+    "corpus_count": 3,
+    "general_freq": 1.23e-06
+  },
+  "overline": {
+    "corpus_count": 3,
+    "general_freq": 2.29e-08
+  },
+  "encapsulation": {
+    "corpus_count": 3,
+    "general_freq": 4.07e-07
+  },
+  "nanostructuring": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "imprint": {
+    "corpus_count": 3,
+    "general_freq": 2.4e-06
+  },
+  "trilayer": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "thermalization": {
+    "corpus_count": 3,
+    "general_freq": 1.35e-08
+  },
+  "hallmark": {
+    "corpus_count": 3,
+    "general_freq": 2.34e-06
+  },
+  "stimuli": {
+    "corpus_count": 3,
+    "general_freq": 2.45e-06
+  },
+  "cavities": {
+    "corpus_count": 3,
+    "general_freq": 2e-06
+  },
+  "polariton": {
+    "corpus_count": 3,
+    "general_freq": 2.69e-08
+  },
+  "entanglement": {
+    "corpus_count": 3,
+    "general_freq": 7.59e-07
+  },
+  "micromechanical": {
+    "corpus_count": 3,
+    "general_freq": 2.19e-08
+  },
+  "cornerstone": {
+    "corpus_count": 3,
+    "general_freq": 2.45e-06
+  },
+  "alignn": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "vibronic": {
+    "corpus_count": 3,
+    "general_freq": 2.09e-08
+  },
+  "ubiquitous": {
+    "corpus_count": 3,
+    "general_freq": 2.63e-06
+  },
+  "kinematics": {
+    "corpus_count": 3,
+    "general_freq": 2.95e-07
+  },
+  "frontiers": {
+    "corpus_count": 3,
+    "general_freq": 1.86e-06
+  },
+  "recoverable": {
+    "corpus_count": 3,
+    "general_freq": 6.31e-07
+  },
+  "predominant": {
+    "corpus_count": 3,
+    "general_freq": 1.91e-06
+  },
+  "ductile": {
+    "corpus_count": 3,
+    "general_freq": 2.63e-07
+  },
+  "normalization": {
+    "corpus_count": 3,
+    "general_freq": 9.77e-07
+  },
+  "maxima": {
+    "corpus_count": 3,
+    "general_freq": 9.33e-07
+  },
+  "squid": {
+    "corpus_count": 3,
+    "general_freq": 2.75e-06
+  },
+  "semimetallic": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "diode": {
+    "corpus_count": 3,
+    "general_freq": 1.15e-06
+  },
+  "synergy": {
+    "corpus_count": 3,
+    "general_freq": 1.66e-06
+  },
+  "co-doped": {
+    "corpus_count": 3,
+    "general_freq": 8.66e-07
+  },
+  "columnar": {
+    "corpus_count": 3,
+    "general_freq": 2.51e-07
+  },
+  "alkali": {
+    "corpus_count": 3,
+    "general_freq": 8.71e-07
+  },
+  "meta-gga": {
+    "corpus_count": 3,
+    "general_freq": 7.31e-08
+  },
+  "llms": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "polycrystals": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "misorientation": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "diagonalization": {
+    "corpus_count": 3,
+    "general_freq": 3.39e-08
+  },
+  "piezoresponse": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "correlative": {
+    "corpus_count": 3,
+    "general_freq": 1.45e-07
+  },
+  "thermomechanical": {
+    "corpus_count": 3,
+    "general_freq": 2.04e-08
+  },
+  "shielding": {
+    "corpus_count": 3,
+    "general_freq": 1.7e-06
+  },
+  "ductility": {
+    "corpus_count": 3,
+    "general_freq": 1.23e-07
+  },
+  "manufacturability": {
+    "corpus_count": 3,
+    "general_freq": 3.55e-08
+  },
+  "steers": {
+    "corpus_count": 3,
+    "general_freq": 7.94e-07
+  },
+  "thermo-mechanical": {
+    "corpus_count": 3,
+    "general_freq": 6.85e-07
+  },
+  "concentrates": {
+    "corpus_count": 3,
+    "general_freq": 1.55e-06
+  },
+  "converged": {
+    "corpus_count": 3,
+    "general_freq": 8.13e-07
+  },
+  "helimagnetic": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "stationarity": {
+    "corpus_count": 3,
+    "general_freq": 2.69e-08
+  },
+  "heterojunction": {
+    "corpus_count": 3,
+    "general_freq": 6.31e-08
+  },
+  "nonmonotonic": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "truncation": {
+    "corpus_count": 3,
+    "general_freq": 1.91e-07
+  },
+  "granular": {
+    "corpus_count": 3,
+    "general_freq": 1.02e-06
+  },
+  "langle": {
+    "corpus_count": 3,
+    "general_freq": 1.62e-08
+  },
+  "uniformly": {
+    "corpus_count": 3,
+    "general_freq": 1.55e-06
+  },
+  "cleavage": {
+    "corpus_count": 3,
+    "general_freq": 2.51e-06
+  },
+  "functionalized": {
+    "corpus_count": 3,
+    "general_freq": 1.26e-07
+  },
+  "unitary": {
+    "corpus_count": 3,
+    "general_freq": 1.15e-06
+  },
+  "triplet": {
+    "corpus_count": 3,
+    "general_freq": 5.01e-07
+  },
+  "metal-oxide-semiconductor": {
+    "corpus_count": 3,
+    "general_freq": 1.89e-06
+  },
+  "transistors": {
+    "corpus_count": 3,
+    "general_freq": 1.15e-06
+  },
+  "nuclei": {
+    "corpus_count": 3,
+    "general_freq": 1.55e-06
+  },
+  "zinc-blende": {
+    "corpus_count": 3,
+    "general_freq": 2.44e-08
+  },
+  "underscores": {
+    "corpus_count": 3,
+    "general_freq": 8.32e-07
+  },
+  "homogeneity": {
+    "corpus_count": 3,
+    "general_freq": 4.07e-07
+  },
+  "spheres": {
+    "corpus_count": 3,
+    "general_freq": 2.57e-06
+  },
+  "capacitance": {
+    "corpus_count": 3,
+    "general_freq": 7.24e-07
+  },
+  "unoccupied": {
+    "corpus_count": 3,
+    "general_freq": 8.51e-07
+  },
+  "grids": {
+    "corpus_count": 3,
+    "general_freq": 1.35e-06
+  },
+  "valley-polarized": {
+    "corpus_count": 3,
+    "general_freq": 1.92e-06
+  },
+  "dephasing": {
+    "corpus_count": 3,
+    "general_freq": 3.8e-08
+  },
+  "three-phonon": {
+    "corpus_count": 3,
+    "general_freq": 1.62e-07
+  },
+  "modulators": {
+    "corpus_count": 3,
+    "general_freq": 2.75e-07
+  },
+  "reuse": {
+    "corpus_count": 3,
+    "general_freq": 2.34e-06
+  },
+  "isotherms": {
+    "corpus_count": 3,
+    "general_freq": 5.13e-08
+  },
+  "gate-tunable": {
+    "corpus_count": 3,
+    "general_freq": 2.92e-07
+  },
+  "spin-degenerate": {
+    "corpus_count": 3,
+    "general_freq": 1.96e-06
+  },
+  "minimization": {
+    "corpus_count": 3,
+    "general_freq": 3.72e-07
+  },
+  "vinylidene": {
+    "corpus_count": 3,
+    "general_freq": 1.55e-08
+  },
+  "adopts": {
+    "corpus_count": 3,
+    "general_freq": 1.82e-06
+  },
+  "elucidating": {
+    "corpus_count": 3,
+    "general_freq": 1.86e-07
+  },
+  "industrially": {
+    "corpus_count": 3,
+    "general_freq": 3.09e-07
+  },
+  "cathodes": {
+    "corpus_count": 3,
+    "general_freq": 1.07e-07
+  },
+  "polymorph": {
+    "corpus_count": 3,
+    "general_freq": 9.55e-08
+  },
+  "processability": {
+    "corpus_count": 3,
+    "general_freq": 2.29e-08
+  },
+  "bader": {
+    "corpus_count": 3,
+    "general_freq": 9.77e-07
+  },
+  "maximal": {
+    "corpus_count": 3,
+    "general_freq": 1.15e-06
+  },
+  "hole-doped": {
+    "corpus_count": 3,
+    "general_freq": 8.55e-07
+  },
+  "restricts": {
+    "corpus_count": 3,
+    "general_freq": 1.32e-06
+  },
+  "decomposing": {
+    "corpus_count": 3,
+    "general_freq": 6.31e-07
+  },
+  "vdws": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "pipelines": {
+    "corpus_count": 3,
+    "general_freq": 2.69e-06
+  },
+  "wyckoff": {
+    "corpus_count": 3,
+    "general_freq": 1.58e-07
+  },
+  "mixtures": {
+    "corpus_count": 3,
+    "general_freq": 1.23e-06
+  },
+  "chgnet": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "evanescent": {
+    "corpus_count": 3,
+    "general_freq": 1.41e-07
+  },
+  "maximizing": {
+    "corpus_count": 3,
+    "general_freq": 1.35e-06
+  },
+  "denoted": {
+    "corpus_count": 3,
+    "general_freq": 1.48e-06
+  },
+  "magndata": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "pyrochlore": {
+    "corpus_count": 3,
+    "general_freq": 1.55e-08
+  },
+  "separations": {
+    "corpus_count": 3,
+    "general_freq": 4.79e-07
+  },
+  "dependences": {
+    "corpus_count": 3,
+    "general_freq": 4.17e-08
+  },
+  "superfluid": {
+    "corpus_count": 3,
+    "general_freq": 1e-07
+  },
+  "afms": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "groundwork": {
+    "corpus_count": 3,
+    "general_freq": 1.55e-06
+  },
+  "kagome": {
+    "corpus_count": 3,
+    "general_freq": 1.51e-07
+  },
+  "deepens": {
+    "corpus_count": 3,
+    "general_freq": 5.62e-07
+  },
+  "nonperturbative": {
+    "corpus_count": 3,
+    "general_freq": 1.51e-08
+  },
+  "anion": {
+    "corpus_count": 3,
+    "general_freq": 5.01e-07
+  },
+  "phonon-induced": {
+    "corpus_count": 3,
+    "general_freq": 1.6e-07
+  },
+  "interiors": {
+    "corpus_count": 3,
+    "general_freq": 2.75e-06
+  },
+  "unambiguous": {
+    "corpus_count": 3,
+    "general_freq": 7.76e-07
+  },
+  "cobalt": {
+    "corpus_count": 3,
+    "general_freq": 2.34e-06
+  },
+  "heteroepitaxial": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "viscoelastic": {
+    "corpus_count": 3,
+    "general_freq": 1e-07
+  },
+  "neglecting": {
+    "corpus_count": 3,
+    "general_freq": 1.51e-06
+  },
+  "sintered": {
+    "corpus_count": 3,
+    "general_freq": 1.38e-07
+  },
+  "redistributing": {
+    "corpus_count": 3,
+    "general_freq": 2.45e-07
+  },
+  "slicing": {
+    "corpus_count": 3,
+    "general_freq": 1.38e-06
+  },
+  "thresholds": {
+    "corpus_count": 3,
+    "general_freq": 1.41e-06
+  },
+  "interconnects": {
+    "corpus_count": 3,
+    "general_freq": 1.7e-07
+  },
+  "chromium": {
+    "corpus_count": 3,
+    "general_freq": 1.38e-06
+  },
+  "implanted": {
+    "corpus_count": 3,
+    "general_freq": 2.14e-06
+  },
+  "magnetocrystalline": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "reversibility": {
+    "corpus_count": 3,
+    "general_freq": 1.02e-07
+  },
+  "extracts": {
+    "corpus_count": 3,
+    "general_freq": 2.82e-06
+  },
+  "twinned": {
+    "corpus_count": 3,
+    "general_freq": 2.51e-07
+  },
+  "field-tunable": {
+    "corpus_count": 3,
+    "general_freq": 2.95e-07
+  },
+  "passivation": {
+    "corpus_count": 3,
+    "general_freq": 1.2e-07
+  },
+  "transiently": {
+    "corpus_count": 3,
+    "general_freq": 1.32e-07
+  },
+  "fillings": {
+    "corpus_count": 3,
+    "general_freq": 7.76e-07
+  },
+  "metal-insulator": {
+    "corpus_count": 3,
+    "general_freq": 5.45e-07
+  },
+  "chem": {
+    "corpus_count": 3,
+    "general_freq": 2.88e-06
+  },
+  "contrasts": {
+    "corpus_count": 3,
+    "general_freq": 2.4e-06
+  },
+  "electrolysis": {
+    "corpus_count": 3,
+    "general_freq": 5.25e-07
+  },
+  "organic-inorganic": {
+    "corpus_count": 3,
+    "general_freq": 1.59e-06
+  },
+  "honeycomb": {
+    "corpus_count": 3,
+    "general_freq": 8.71e-07
+  },
+  "dimers": {
+    "corpus_count": 3,
+    "general_freq": 1.74e-07
+  },
+  "interconversion": {
+    "corpus_count": 3,
+    "general_freq": 3.09e-08
+  },
+  "diamagnetic": {
+    "corpus_count": 3,
+    "general_freq": 6.46e-08
+  },
+  "modulate": {
+    "corpus_count": 3,
+    "general_freq": 5.5e-07
+  },
+  "slows": {
+    "corpus_count": 3,
+    "general_freq": 2.45e-06
+  },
+  "two-magnon": {
+    "corpus_count": 3,
+    "general_freq": 1.41e-07
+  },
+  "runtime": {
+    "corpus_count": 3,
+    "general_freq": 1.2e-06
+  },
+  "minimizing": {
+    "corpus_count": 3,
+    "general_freq": 1.86e-06
+  },
+  "differentiable": {
+    "corpus_count": 3,
+    "general_freq": 2.19e-07
+  },
+  "calphad": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "repulsion": {
+    "corpus_count": 3,
+    "general_freq": 4.07e-07
+  },
+  "negligibly": {
+    "corpus_count": 3,
+    "general_freq": 5.25e-08
+  },
+  "estimating": {
+    "corpus_count": 3,
+    "general_freq": 2.14e-06
+  },
+  "quasistatic": {
+    "corpus_count": 3,
+    "general_freq": 1.38e-08
+  },
+  "manifestations": {
+    "corpus_count": 3,
+    "general_freq": 1.66e-06
+  },
+  "gnns": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "confining": {
+    "corpus_count": 3,
+    "general_freq": 4.07e-07
+  },
+  "encompassing": {
+    "corpus_count": 3,
+    "general_freq": 2.24e-06
+  },
+  "edge-localized": {
+    "corpus_count": 3,
+    "general_freq": 2.4e-06
+  },
+  "magnetisation": {
+    "corpus_count": 3,
+    "general_freq": 2.29e-08
+  },
+  "remanence": {
+    "corpus_count": 3,
+    "general_freq": 2.88e-08
+  },
+  "idealised": {
+    "corpus_count": 3,
+    "general_freq": 2.45e-07
+  },
+  "arxiv": {
+    "corpus_count": 3,
+    "general_freq": 1.91e-07
+  },
+  "priori": {
+    "corpus_count": 3,
+    "general_freq": 6.03e-07
+  },
+  "redox": {
+    "corpus_count": 3,
+    "general_freq": 5.62e-07
+  },
+  "crystallizes": {
+    "corpus_count": 3,
+    "general_freq": 1.48e-07
+  },
+  "unintentional": {
+    "corpus_count": 3,
+    "general_freq": 1.32e-06
+  },
+  "rietveld": {
+    "corpus_count": 3,
+    "general_freq": 7.59e-08
+  },
+  "gradient-based": {
+    "corpus_count": 3,
+    "general_freq": 2.99e-06
+  },
+  "equilibrate": {
+    "corpus_count": 3,
+    "general_freq": 3.24e-08
+  },
+  "weakening": {
+    "corpus_count": 3,
+    "general_freq": 2.51e-06
+  },
+  "cavity-induced": {
+    "corpus_count": 3,
+    "general_freq": 2.97e-06
+  },
+  "activating": {
+    "corpus_count": 3,
+    "general_freq": 1.82e-06
+  },
+  "acceptors": {
+    "corpus_count": 3,
+    "general_freq": 1.51e-07
+  },
+  "joule": {
+    "corpus_count": 3,
+    "general_freq": 2.75e-07
+  },
+  "merging": {
+    "corpus_count": 3,
+    "general_freq": 2.82e-06
+  },
+  "precipitate": {
+    "corpus_count": 3,
+    "general_freq": 6.03e-07
+  },
+  "symmetry-governed": {
+    "corpus_count": 3,
+    "general_freq": 2.22e-06
+  },
+  "antiferroelectric": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "actuators": {
+    "corpus_count": 3,
+    "general_freq": 5.25e-07
+  },
+  "precede": {
+    "corpus_count": 3,
+    "general_freq": 7.24e-07
+  },
+  "mitigation": {
+    "corpus_count": 3,
+    "general_freq": 2.88e-06
+  },
+  "pbesol": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "lamellar": {
+    "corpus_count": 3,
+    "general_freq": 1.2e-07
+  },
+  "photocatalytic": {
+    "corpus_count": 3,
+    "general_freq": 7.41e-08
+  },
+  "reinforcement": {
+    "corpus_count": 3,
+    "general_freq": 2.69e-06
+  },
+  "memristive": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "inertial": {
+    "corpus_count": 3,
+    "general_freq": 8.13e-07
+  },
+  "terahertz": {
+    "corpus_count": 3,
+    "general_freq": 1.58e-07
+  },
+  "viscosity": {
+    "corpus_count": 3,
+    "general_freq": 1.35e-06
+  },
+  "exemplified": {
+    "corpus_count": 3,
+    "general_freq": 1.35e-06
+  },
+  "graphical": {
+    "corpus_count": 3,
+    "general_freq": 2.88e-06
+  },
+  "waveguides": {
+    "corpus_count": 3,
+    "general_freq": 1.48e-07
+  },
+  "redistribute": {
+    "corpus_count": 3,
+    "general_freq": 5.89e-07
+  },
+  "implicitly": {
+    "corpus_count": 3,
+    "general_freq": 1.7e-06
+  },
+  "oscillatory": {
+    "corpus_count": 3,
+    "general_freq": 1.55e-07
+  },
+  "symmetry-selective": {
+    "corpus_count": 3,
+    "general_freq": 2.27e-06
+  },
+  "oscillator": {
+    "corpus_count": 3,
+    "general_freq": 9.12e-07
+  },
+  "rationalize": {
+    "corpus_count": 3,
+    "general_freq": 7.76e-07
+  },
+  "lorentz": {
+    "corpus_count": 3,
+    "general_freq": 3.98e-07
+  },
+  "lagrangian": {
+    "corpus_count": 3,
+    "general_freq": 3.55e-07
+  },
+  "detects": {
+    "corpus_count": 3,
+    "general_freq": 1.26e-06
+  },
+  "exposes": {
+    "corpus_count": 3,
+    "general_freq": 2.63e-06
+  },
+  "patterning": {
+    "corpus_count": 3,
+    "general_freq": 5.5e-07
+  },
+  "derivation": {
+    "corpus_count": 3,
+    "general_freq": 1.1e-06
+  },
+  "surpassing": {
+    "corpus_count": 3,
+    "general_freq": 1.48e-06
+  },
+  "parallelization": {
+    "corpus_count": 3,
+    "general_freq": 7.24e-08
+  },
+  "equivariance": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "valleytronic": {
+    "corpus_count": 3,
+    "general_freq": 0.0
+  },
+  "multislice": {
+    "corpus_count": 2,
+    "general_freq": 1.07e-08
+  },
+  "reconstructing": {
+    "corpus_count": 2,
+    "general_freq": 6.17e-07
+  },
+  "reciprocity": {
+    "corpus_count": 2,
+    "general_freq": 1.1e-06
+  },
+  "solvable": {
+    "corpus_count": 2,
+    "general_freq": 3.8e-07
+  },
+  "non-stoichiometric": {
+    "corpus_count": 2,
+    "general_freq": 1.44e-07
+  },
+  "ionized": {
+    "corpus_count": 2,
+    "general_freq": 4.17e-07
+  },
+  "interstitials": {
+    "corpus_count": 2,
+    "general_freq": 5.13e-08
+  },
+  "antisite": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "beol": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "microspectroscopy": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "coinciding": {
+    "corpus_count": 2,
+    "general_freq": 7.08e-07
+  },
+  "orthorhombic-tetragonal": {
+    "corpus_count": 2,
+    "general_freq": 4.75e-08
+  },
+  "cryostat": {
+    "corpus_count": 2,
+    "general_freq": 3.98e-08
+  },
+  "particulate": {
+    "corpus_count": 2,
+    "general_freq": 1.1e-06
+  },
+  "corrugation": {
+    "corpus_count": 2,
+    "general_freq": 3.47e-08
+  },
+  "corrugated": {
+    "corpus_count": 2,
+    "general_freq": 1.41e-06
+  },
+  "extrema": {
+    "corpus_count": 2,
+    "general_freq": 7.24e-08
+  },
+  "rotates": {
+    "corpus_count": 2,
+    "general_freq": 1.2e-06
+  },
+  "colloid": {
+    "corpus_count": 2,
+    "general_freq": 1.55e-07
+  },
+  "lithography-free": {
+    "corpus_count": 2,
+    "general_freq": 5.12e-07
+  },
+  "photoelectrochemical": {
+    "corpus_count": 2,
+    "general_freq": 2.14e-08
+  },
+  "vapor-liquid-solid": {
+    "corpus_count": 2,
+    "general_freq": 2.99e-06
+  },
+  "tenfold": {
+    "corpus_count": 2,
+    "general_freq": 6.31e-07
+  },
+  "lithographic": {
+    "corpus_count": 2,
+    "general_freq": 1.95e-07
+  },
+  "compressible": {
+    "corpus_count": 2,
+    "general_freq": 1.82e-07
+  },
+  "densified": {
+    "corpus_count": 2,
+    "general_freq": 3.02e-08
+  },
+  "deformation-induced": {
+    "corpus_count": 2,
+    "general_freq": 1.28e-06
+  },
+  "unifies": {
+    "corpus_count": 2,
+    "general_freq": 1.74e-07
+  },
+  "piezomagnetic": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "mirror-symmetry": {
+    "corpus_count": 2,
+    "general_freq": 2.92e-06
+  },
+  "hydrogels": {
+    "corpus_count": 2,
+    "general_freq": 1.29e-07
+  },
+  "hydrated": {
+    "corpus_count": 2,
+    "general_freq": 1.86e-06
+  },
+  "hydration": {
+    "corpus_count": 2,
+    "general_freq": 1.51e-06
+  },
+  "birefringent": {
+    "corpus_count": 2,
+    "general_freq": 3.98e-08
+  },
+  "cooperatively": {
+    "corpus_count": 2,
+    "general_freq": 4.07e-07
+  },
+  "wetting": {
+    "corpus_count": 2,
+    "general_freq": 7.94e-07
+  },
+  "mismatches": {
+    "corpus_count": 2,
+    "general_freq": 2.75e-07
+  },
+  "locating": {
+    "corpus_count": 2,
+    "general_freq": 2.69e-06
+  },
+  "si-doped": {
+    "corpus_count": 2,
+    "general_freq": 8.23e-07
+  },
+  "imperfect": {
+    "corpus_count": 2,
+    "general_freq": 2.82e-06
+  },
+  "nanometre": {
+    "corpus_count": 2,
+    "general_freq": 3.16e-08
+  },
+  "prismatic": {
+    "corpus_count": 2,
+    "general_freq": 5.62e-07
+  },
+  "sputter": {
+    "corpus_count": 2,
+    "general_freq": 1.66e-07
+  },
+  "microcrystals": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "medium-entropy": {
+    "corpus_count": 2,
+    "general_freq": 1.82e-06
+  },
+  "synchronization": {
+    "corpus_count": 2,
+    "general_freq": 1.29e-06
+  },
+  "prohibitively": {
+    "corpus_count": 2,
+    "general_freq": 4.17e-07
+  },
+  "sampler": {
+    "corpus_count": 2,
+    "general_freq": 1.26e-06
+  },
+  "isobaric": {
+    "corpus_count": 2,
+    "general_freq": 4.47e-08
+  },
+  "interplanar": {
+    "corpus_count": 2,
+    "general_freq": 1.38e-08
+  },
+  "pdfs": {
+    "corpus_count": 2,
+    "general_freq": 4.57e-07
+  },
+  "aromatic": {
+    "corpus_count": 2,
+    "general_freq": 2.09e-06
+  },
+  "kubo-greenwood": {
+    "corpus_count": 2,
+    "general_freq": 4.1e-07
+  },
+  "necessitating": {
+    "corpus_count": 2,
+    "general_freq": 5.01e-07
+  },
+  "bypasses": {
+    "corpus_count": 2,
+    "general_freq": 4.47e-07
+  },
+  "nvidia": {
+    "corpus_count": 2,
+    "general_freq": 1.78e-06
+  },
+  "nano": {
+    "corpus_count": 2,
+    "general_freq": 2.95e-06
+  },
+  "pseudopotentials": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "kcal": {
+    "corpus_count": 2,
+    "general_freq": 5.75e-07
+  },
+  "kohn--sham": {
+    "corpus_count": 2,
+    "general_freq": 4.6e-07
+  },
+  "hyperelastic": {
+    "corpus_count": 2,
+    "general_freq": 1.41e-08
+  },
+  "specificity": {
+    "corpus_count": 2,
+    "general_freq": 1.66e-06
+  },
+  "irradiated": {
+    "corpus_count": 2,
+    "general_freq": 8.51e-07
+  },
+  "defect-engineered": {
+    "corpus_count": 2,
+    "general_freq": 2.48e-06
+  },
+  "lefm": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "toughness": {
+    "corpus_count": 2,
+    "general_freq": 2.04e-06
+  },
+  "stoichiometries": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "overestimation": {
+    "corpus_count": 2,
+    "general_freq": 1e-07
+  },
+  "photogalvanic": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "photon-energy": {
+    "corpus_count": 2,
+    "general_freq": 2.06e-06
+  },
+  "initialization": {
+    "corpus_count": 2,
+    "general_freq": 3.63e-07
+  },
+  "computes": {
+    "corpus_count": 2,
+    "general_freq": 3.24e-07
+  },
+  "inherits": {
+    "corpus_count": 2,
+    "general_freq": 6.46e-07
+  },
+  "analyse": {
+    "corpus_count": 2,
+    "general_freq": 2.95e-06
+  },
+  "ageing": {
+    "corpus_count": 2,
+    "general_freq": 2.75e-06
+  },
+  "capping": {
+    "corpus_count": 2,
+    "general_freq": 1.2e-06
+  },
+  "antisymmetric": {
+    "corpus_count": 2,
+    "general_freq": 6.61e-08
+  },
+  "precluding": {
+    "corpus_count": 2,
+    "general_freq": 1.48e-07
+  },
+  "angular-momentum": {
+    "corpus_count": 2,
+    "general_freq": 2.54e-06
+  },
+  "acoustic-phonon": {
+    "corpus_count": 2,
+    "general_freq": 1.59e-07
+  },
+  "fluctuation-dissipation": {
+    "corpus_count": 2,
+    "general_freq": 3.52e-07
+  },
+  "integrator": {
+    "corpus_count": 2,
+    "general_freq": 3.8e-07
+  },
+  "dmrg": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "asymptotically": {
+    "corpus_count": 2,
+    "general_freq": 1.86e-07
+  },
+  "fluorination": {
+    "corpus_count": 2,
+    "general_freq": 3.09e-08
+  },
+  "unaffected": {
+    "corpus_count": 2,
+    "general_freq": 2.19e-06
+  },
+  "convolution": {
+    "corpus_count": 2,
+    "general_freq": 2.95e-07
+  },
+  "illustrating": {
+    "corpus_count": 2,
+    "general_freq": 2.09e-06
+  },
+  "nernst": {
+    "corpus_count": 2,
+    "general_freq": 5.25e-08
+  },
+  "sublattice-selective": {
+    "corpus_count": 2,
+    "general_freq": 1.26e-08
+  },
+  "nodal-line": {
+    "corpus_count": 2,
+    "general_freq": 3.54e-07
+  },
+  "electron-doped": {
+    "corpus_count": 2,
+    "general_freq": 7.7e-07
+  },
+  "shrinkage": {
+    "corpus_count": 2,
+    "general_freq": 7.76e-07
+  },
+  "vertex": {
+    "corpus_count": 2,
+    "general_freq": 1.62e-06
+  },
+  "onsite": {
+    "corpus_count": 2,
+    "general_freq": 8.32e-07
+  },
+  "intersite": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "thiophosphate": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "frenkel": {
+    "corpus_count": 2,
+    "general_freq": 2.09e-07
+  },
+  "lattice-dynamical": {
+    "corpus_count": 2,
+    "general_freq": 6e-07
+  },
+  "transistor": {
+    "corpus_count": 2,
+    "general_freq": 1.62e-06
+  },
+  "extrapolates": {
+    "corpus_count": 2,
+    "general_freq": 5.37e-08
+  },
+  "ccsd": {
+    "corpus_count": 2,
+    "general_freq": 5.25e-08
+  },
+  "mulliken": {
+    "corpus_count": 2,
+    "general_freq": 2.95e-08
+  },
+  "mbar": {
+    "corpus_count": 2,
+    "general_freq": 1.2e-07
+  },
+  "metasurfaces": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "inversion-symmetry": {
+    "corpus_count": 2,
+    "general_freq": 1.16e-06
+  },
+  "skyrmion-based": {
+    "corpus_count": 2,
+    "general_freq": 1.45e-08
+  },
+  "algebraic": {
+    "corpus_count": 2,
+    "general_freq": 1.55e-06
+  },
+  "holstein": {
+    "corpus_count": 2,
+    "general_freq": 6.92e-07
+  },
+  "bosons": {
+    "corpus_count": 2,
+    "general_freq": 1.95e-07
+  },
+  "filament": {
+    "corpus_count": 2,
+    "general_freq": 1.23e-06
+  },
+  "tantalum": {
+    "corpus_count": 2,
+    "general_freq": 2.82e-07
+  },
+  "wavelength-selective": {
+    "corpus_count": 2,
+    "general_freq": 2.05e-06
+  },
+  "spin-photon": {
+    "corpus_count": 2,
+    "general_freq": 1.92e-06
+  },
+  "hybrid-parity": {
+    "corpus_count": 2,
+    "general_freq": 2.14e-06
+  },
+  "isostructural": {
+    "corpus_count": 2,
+    "general_freq": 1.58e-08
+  },
+  "lanthanides": {
+    "corpus_count": 2,
+    "general_freq": 6.03e-08
+  },
+  "pyrolysis": {
+    "corpus_count": 2,
+    "general_freq": 2.09e-07
+  },
+  "carbons": {
+    "corpus_count": 2,
+    "general_freq": 2.63e-07
+  },
+  "nodal-ring": {
+    "corpus_count": 2,
+    "general_freq": 3.53e-07
+  },
+  "broaden": {
+    "corpus_count": 2,
+    "general_freq": 2e-06
+  },
+  "chiral-induced": {
+    "corpus_count": 2,
+    "general_freq": 4.49e-07
+  },
+  "chirality-dependent": {
+    "corpus_count": 2,
+    "general_freq": 1.17e-07
+  },
+  "workhorse": {
+    "corpus_count": 2,
+    "general_freq": 5.25e-07
+  },
+  "concomitantly": {
+    "corpus_count": 2,
+    "general_freq": 1.35e-07
+  },
+  "appreciable": {
+    "corpus_count": 2,
+    "general_freq": 6.03e-07
+  },
+  "perovskite-like": {
+    "corpus_count": 2,
+    "general_freq": 1.58e-07
+  },
+  "hotspot": {
+    "corpus_count": 2,
+    "general_freq": 1.48e-06
+  },
+  "surpasses": {
+    "corpus_count": 2,
+    "general_freq": 1e-06
+  },
+  "precession": {
+    "corpus_count": 2,
+    "general_freq": 2.75e-07
+  },
+  "textsubscript": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "alumina": {
+    "corpus_count": 2,
+    "general_freq": 5.25e-07
+  },
+  "overaging": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "undeformed": {
+    "corpus_count": 2,
+    "general_freq": 2e-08
+  },
+  "areal": {
+    "corpus_count": 2,
+    "general_freq": 2.45e-07
+  },
+  "emissivity": {
+    "corpus_count": 2,
+    "general_freq": 8.32e-08
+  },
+  "diverging": {
+    "corpus_count": 2,
+    "general_freq": 5.13e-07
+  },
+  "percolative": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "cnns": {
+    "corpus_count": 2,
+    "general_freq": 4.79e-08
+  },
+  "dfxm": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "embrittlement": {
+    "corpus_count": 2,
+    "general_freq": 7.08e-08
+  },
+  "helicity-dependent": {
+    "corpus_count": 2,
+    "general_freq": 5.61e-08
+  },
+  "peroxide": {
+    "corpus_count": 2,
+    "general_freq": 1.35e-06
+  },
+  "facet": {
+    "corpus_count": 2,
+    "general_freq": 1.51e-06
+  },
+  "scientifically": {
+    "corpus_count": 2,
+    "general_freq": 2.82e-06
+  },
+  "qubit": {
+    "corpus_count": 2,
+    "general_freq": 1.48e-07
+  },
+  "approximated": {
+    "corpus_count": 2,
+    "general_freq": 4.79e-07
+  },
+  "clarifies": {
+    "corpus_count": 2,
+    "general_freq": 9.33e-07
+  },
+  "compaction": {
+    "corpus_count": 2,
+    "general_freq": 3.24e-07
+  },
+  "compactness": {
+    "corpus_count": 2,
+    "general_freq": 2.04e-07
+  },
+  "metallurgy": {
+    "corpus_count": 2,
+    "general_freq": 8.71e-07
+  },
+  "niti": {
+    "corpus_count": 2,
+    "general_freq": 1.2e-07
+  },
+  "recur": {
+    "corpus_count": 2,
+    "general_freq": 4.47e-07
+  },
+  "nanocrystals": {
+    "corpus_count": 2,
+    "general_freq": 1.15e-07
+  },
+  "augmentation": {
+    "corpus_count": 2,
+    "general_freq": 1.12e-06
+  },
+  "non-adiabatic": {
+    "corpus_count": 2,
+    "general_freq": 2.51e-07
+  },
+  "constructions": {
+    "corpus_count": 2,
+    "general_freq": 2e-06
+  },
+  "actinide": {
+    "corpus_count": 2,
+    "general_freq": 8.13e-08
+  },
+  "exchangeable": {
+    "corpus_count": 2,
+    "general_freq": 2.14e-07
+  },
+  "scaffold": {
+    "corpus_count": 2,
+    "general_freq": 1.07e-06
+  },
+  "broadens": {
+    "corpus_count": 2,
+    "general_freq": 3.24e-07
+  },
+  "dimensionalities": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "elucidated": {
+    "corpus_count": 2,
+    "general_freq": 3.16e-07
+  },
+  "non-symmorphic": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "photoconductive": {
+    "corpus_count": 2,
+    "general_freq": 3.16e-08
+  },
+  "idealized": {
+    "corpus_count": 2,
+    "general_freq": 8.71e-07
+  },
+  "redistributed": {
+    "corpus_count": 2,
+    "general_freq": 5.89e-07
+  },
+  "hypervolume": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "hyperspectral": {
+    "corpus_count": 2,
+    "general_freq": 9.55e-08
+  },
+  "agentic-ai": {
+    "corpus_count": 2,
+    "general_freq": 1.62e-08
+  },
+  "nontoxic": {
+    "corpus_count": 2,
+    "general_freq": 1.86e-07
+  },
+  "polaronic": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "strain-tunable": {
+    "corpus_count": 2,
+    "general_freq": 2.89e-07
+  },
+  "interpolated": {
+    "corpus_count": 2,
+    "general_freq": 2.57e-07
+  },
+  "traceable": {
+    "corpus_count": 2,
+    "general_freq": 6.31e-07
+  },
+  "iteration": {
+    "corpus_count": 2,
+    "general_freq": 2.45e-06
+  },
+  "nrss": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "green-kubo": {
+    "corpus_count": 2,
+    "general_freq": 4.88e-07
+  },
+  "permeation": {
+    "corpus_count": 2,
+    "general_freq": 1.12e-07
+  },
+  "revolutionize": {
+    "corpus_count": 2,
+    "general_freq": 7.08e-07
+  },
+  "accommodates": {
+    "corpus_count": 2,
+    "general_freq": 6.61e-07
+  },
+  "swarm": {
+    "corpus_count": 2,
+    "general_freq": 2.75e-06
+  },
+  "downfolded": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "cafm": {
+    "corpus_count": 2,
+    "general_freq": 1.1e-08
+  },
+  "oxygen-deficient": {
+    "corpus_count": 2,
+    "general_freq": 1.91e-06
+  },
+  "minimized": {
+    "corpus_count": 2,
+    "general_freq": 1.12e-06
+  },
+  "remediation": {
+    "corpus_count": 2,
+    "general_freq": 1.07e-06
+  },
+  "suggestive": {
+    "corpus_count": 2,
+    "general_freq": 1.62e-06
+  },
+  "backends": {
+    "corpus_count": 2,
+    "general_freq": 5.01e-08
+  },
+  "notebooks": {
+    "corpus_count": 2,
+    "general_freq": 1.7e-06
+  },
+  "icohp": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "solutes": {
+    "corpus_count": 2,
+    "general_freq": 1.45e-07
+  },
+  "untwisted": {
+    "corpus_count": 2,
+    "general_freq": 3.16e-08
+  },
+  "heuristics": {
+    "corpus_count": 2,
+    "general_freq": 3.31e-07
+  },
+  "nanodiffraction": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "polyhedra": {
+    "corpus_count": 2,
+    "general_freq": 1.15e-07
+  },
+  "shap": {
+    "corpus_count": 2,
+    "general_freq": 1.15e-07
+  },
+  "gravimetric": {
+    "corpus_count": 2,
+    "general_freq": 1.26e-07
+  },
+  "isotope": {
+    "corpus_count": 2,
+    "general_freq": 1.41e-06
+  },
+  "electric-dipole": {
+    "corpus_count": 2,
+    "general_freq": 6.38e-07
+  },
+  "electric-quadrupole": {
+    "corpus_count": 2,
+    "general_freq": 1.41e-07
+  },
+  "preferable": {
+    "corpus_count": 2,
+    "general_freq": 2.75e-06
+  },
+  "orb-": {
+    "corpus_count": 2,
+    "general_freq": 1.82e-06
+  },
+  "near-dft": {
+    "corpus_count": 2,
+    "general_freq": 4.07e-07
+  },
+  "mattersim-": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "mace-mp-": {
+    "corpus_count": 2,
+    "general_freq": 1.93e-06
+  },
+  "sulfur-vacancy": {
+    "corpus_count": 2,
+    "general_freq": 1.68e-06
+  },
+  "neglects": {
+    "corpus_count": 2,
+    "general_freq": 4.27e-07
+  },
+  "deficiencies": {
+    "corpus_count": 2,
+    "general_freq": 2.19e-06
+  },
+  "multi-layered": {
+    "corpus_count": 2,
+    "general_freq": 2.61e-06
+  },
+  "quarter-wavelength": {
+    "corpus_count": 2,
+    "general_freq": 2.67e-06
+  },
+  "enhancements": {
+    "corpus_count": 2,
+    "general_freq": 1.45e-06
+  },
+  "liouville": {
+    "corpus_count": 2,
+    "general_freq": 6.46e-08
+  },
+  "calibrate": {
+    "corpus_count": 2,
+    "general_freq": 6.17e-07
+  },
+  "miscibility": {
+    "corpus_count": 2,
+    "general_freq": 1.82e-08
+  },
+  "locates": {
+    "corpus_count": 2,
+    "general_freq": 5.62e-07
+  },
+  "quasi-harmonic": {
+    "corpus_count": 2,
+    "general_freq": 1.26e-06
+  },
+  "prominently": {
+    "corpus_count": 2,
+    "general_freq": 2.57e-06
+  },
+  "overestimate": {
+    "corpus_count": 2,
+    "general_freq": 6.76e-07
+  },
+  "dipole-allowed": {
+    "corpus_count": 2,
+    "general_freq": 6.42e-07
+  },
+  "slowdown": {
+    "corpus_count": 2,
+    "general_freq": 1.26e-06
+  },
+  "notoriously": {
+    "corpus_count": 2,
+    "general_freq": 2.34e-06
+  },
+  "mediates": {
+    "corpus_count": 2,
+    "general_freq": 3.8e-07
+  },
+  "polaron-hopping": {
+    "corpus_count": 2,
+    "general_freq": 4.2e-08
+  },
+  "obscured": {
+    "corpus_count": 2,
+    "general_freq": 1.66e-06
+  },
+  "galvanostatic": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "circuitry": {
+    "corpus_count": 2,
+    "general_freq": 1.17e-06
+  },
+  "electrochemically": {
+    "corpus_count": 2,
+    "general_freq": 5.75e-08
+  },
+  "inconsistencies": {
+    "corpus_count": 2,
+    "general_freq": 1.78e-06
+  },
+  "preprocessing": {
+    "corpus_count": 2,
+    "general_freq": 1.12e-07
+  },
+  "covariance": {
+    "corpus_count": 2,
+    "general_freq": 3.63e-07
+  },
+  "theta": {
+    "corpus_count": 2,
+    "general_freq": 1.45e-06
+  },
+  "epsilon": {
+    "corpus_count": 2,
+    "general_freq": 7.59e-07
+  },
+  "near-degenerate": {
+    "corpus_count": 2,
+    "general_freq": 2.11e-06
+  },
+  "sharper": {
+    "corpus_count": 2,
+    "general_freq": 1.78e-06
+  },
+  "estimator": {
+    "corpus_count": 2,
+    "general_freq": 5.75e-07
+  },
+  "amortized": {
+    "corpus_count": 2,
+    "general_freq": 2e-07
+  },
+  "posteriors": {
+    "corpus_count": 2,
+    "general_freq": 3.55e-08
+  },
+  "magnetoelectricity": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "probabilistic": {
+    "corpus_count": 2,
+    "general_freq": 7.24e-07
+  },
+  "circumvents": {
+    "corpus_count": 2,
+    "general_freq": 1.02e-07
+  },
+  "tilted": {
+    "corpus_count": 2,
+    "general_freq": 2.14e-06
+  },
+  "decouples": {
+    "corpus_count": 2,
+    "general_freq": 2.88e-08
+  },
+  "explainable": {
+    "corpus_count": 2,
+    "general_freq": 1.91e-07
+  },
+  "mechanistically": {
+    "corpus_count": 2,
+    "general_freq": 5.25e-08
+  },
+  "explanatory": {
+    "corpus_count": 2,
+    "general_freq": 2.04e-06
+  },
+  "fourier-transform": {
+    "corpus_count": 2,
+    "general_freq": 1.06e-06
+  },
+  "hydride": {
+    "corpus_count": 2,
+    "general_freq": 3.31e-07
+  },
+  "thickening": {
+    "corpus_count": 2,
+    "general_freq": 6.76e-07
+  },
+  "micropillar": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "ionization": {
+    "corpus_count": 2,
+    "general_freq": 1.07e-06
+  },
+  "bulky": {
+    "corpus_count": 2,
+    "general_freq": 2e-06
+  },
+  "meissner": {
+    "corpus_count": 2,
+    "general_freq": 1.91e-07
+  },
+  "hipims": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "adhesion": {
+    "corpus_count": 2,
+    "general_freq": 1.38e-06
+  },
+  "macroscopically": {
+    "corpus_count": 2,
+    "general_freq": 5.13e-08
+  },
+  "viscous": {
+    "corpus_count": 2,
+    "general_freq": 8.71e-07
+  },
+  "backflow": {
+    "corpus_count": 2,
+    "general_freq": 9.33e-08
+  },
+  "ambiguities": {
+    "corpus_count": 2,
+    "general_freq": 3.8e-07
+  },
+  "foams": {
+    "corpus_count": 2,
+    "general_freq": 5.75e-07
+  },
+  "diluted": {
+    "corpus_count": 2,
+    "general_freq": 2.95e-06
+  },
+  "luminescence": {
+    "corpus_count": 2,
+    "general_freq": 3.24e-07
+  },
+  "textured": {
+    "corpus_count": 2,
+    "general_freq": 1.41e-06
+  },
+  "denotes": {
+    "corpus_count": 2,
+    "general_freq": 2.63e-06
+  },
+  "hinders": {
+    "corpus_count": 2,
+    "general_freq": 6.92e-07
+  },
+  "nanocrystal": {
+    "corpus_count": 2,
+    "general_freq": 3.47e-08
+  },
+  "restores": {
+    "corpus_count": 2,
+    "general_freq": 1.12e-06
+  },
+  "lithiation": {
+    "corpus_count": 2,
+    "general_freq": 1.29e-08
+  },
+  "unify": {
+    "corpus_count": 2,
+    "general_freq": 1.17e-06
+  },
+  "phonon-mode": {
+    "corpus_count": 2,
+    "general_freq": 1.62e-07
+  },
+  "inferring": {
+    "corpus_count": 2,
+    "general_freq": 3.72e-07
+  },
+  "factorization": {
+    "corpus_count": 2,
+    "general_freq": 2.57e-07
+  },
+  "ferrimagnetism": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "diatomic": {
+    "corpus_count": 2,
+    "general_freq": 9.12e-08
+  },
+  "emitters": {
+    "corpus_count": 2,
+    "general_freq": 5.01e-07
+  },
+  "silicate": {
+    "corpus_count": 2,
+    "general_freq": 4.68e-07
+  },
+  "spectrometry": {
+    "corpus_count": 2,
+    "general_freq": 9.12e-07
+  },
+  "randomized": {
+    "corpus_count": 2,
+    "general_freq": 2.19e-06
+  },
+  "specifies": {
+    "corpus_count": 2,
+    "general_freq": 1.74e-06
+  },
+  "laborious": {
+    "corpus_count": 2,
+    "general_freq": 6.31e-07
+  },
+  "rescaling": {
+    "corpus_count": 2,
+    "general_freq": 4.68e-08
+  },
+  "radially": {
+    "corpus_count": 2,
+    "general_freq": 3.09e-07
+  },
+  "confocal": {
+    "corpus_count": 2,
+    "general_freq": 1.7e-07
+  },
+  "multivariate": {
+    "corpus_count": 2,
+    "general_freq": 7.24e-07
+  },
+  "unveils": {
+    "corpus_count": 2,
+    "general_freq": 1.23e-06
+  },
+  "conceptually": {
+    "corpus_count": 2,
+    "general_freq": 8.32e-07
+  },
+  "widens": {
+    "corpus_count": 2,
+    "general_freq": 6.92e-07
+  },
+  "nanotube": {
+    "corpus_count": 2,
+    "general_freq": 2.51e-07
+  },
+  "routed": {
+    "corpus_count": 2,
+    "general_freq": 2.04e-06
+  },
+  "nanostructured": {
+    "corpus_count": 2,
+    "general_freq": 9.33e-08
+  },
+  "untapped": {
+    "corpus_count": 2,
+    "general_freq": 8.71e-07
+  },
+  "degc": {
+    "corpus_count": 2,
+    "general_freq": 2.09e-08
+  },
+  "thermoelastic": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "pyroelectric": {
+    "corpus_count": 2,
+    "general_freq": 2.82e-08
+  },
+  "backscattering": {
+    "corpus_count": 2,
+    "general_freq": 3.63e-08
+  },
+  "stackings": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "indistinguishable": {
+    "corpus_count": 2,
+    "general_freq": 1.45e-06
+  },
+  "sxps": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "haxpes": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "wrinkles": {
+    "corpus_count": 2,
+    "general_freq": 2.04e-06
+  },
+  "strain-mediated": {
+    "corpus_count": 2,
+    "general_freq": 2.63e-06
+  },
+  "hertz": {
+    "corpus_count": 2,
+    "general_freq": 1.15e-06
+  },
+  "actuator": {
+    "corpus_count": 2,
+    "general_freq": 5.89e-07
+  },
+  "photogeneration": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "photovoltaics": {
+    "corpus_count": 2,
+    "general_freq": 1.86e-07
+  },
+  "pretraining": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "mlffs": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "rmses": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "fabry-perot": {
+    "corpus_count": 2,
+    "general_freq": 1.32e-07
+  },
+  "aggregation": {
+    "corpus_count": 2,
+    "general_freq": 1.78e-06
+  },
+  "strain-hardening": {
+    "corpus_count": 2,
+    "general_freq": 9.14e-07
+  },
+  "near-pristine": {
+    "corpus_count": 2,
+    "general_freq": 2.11e-06
+  },
+  "quasi-random": {
+    "corpus_count": 2,
+    "general_freq": 2.86e-06
+  },
+  "orbital-resolved": {
+    "corpus_count": 2,
+    "general_freq": 2.97e-06
+  },
+  "ansatz": {
+    "corpus_count": 2,
+    "general_freq": 2.88e-08
+  },
+  "multi-phonon": {
+    "corpus_count": 2,
+    "general_freq": 1.61e-07
+  },
+  "sideband": {
+    "corpus_count": 2,
+    "general_freq": 9.33e-08
+  },
+  "non-negligible": {
+    "corpus_count": 2,
+    "general_freq": 2.42e-06
+  },
+  "magnetocaloric": {
+    "corpus_count": 2,
+    "general_freq": 1.15e-08
+  },
+  "crystallites": {
+    "corpus_count": 2,
+    "general_freq": 3.16e-08
+  },
+  "fabricating": {
+    "corpus_count": 2,
+    "general_freq": 7.08e-07
+  },
+  "logarithmic": {
+    "corpus_count": 2,
+    "general_freq": 4.79e-07
+  },
+  "rheology": {
+    "corpus_count": 2,
+    "general_freq": 1.2e-07
+  },
+  "affine": {
+    "corpus_count": 2,
+    "general_freq": 2.69e-07
+  },
+  "banded": {
+    "corpus_count": 2,
+    "general_freq": 1.35e-06
+  },
+  "xpcs": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "supercooled": {
+    "corpus_count": 2,
+    "general_freq": 7.59e-08
+  },
+  "nanobeam": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "speckle": {
+    "corpus_count": 2,
+    "general_freq": 1.7e-07
+  },
+  "magnetostriction": {
+    "corpus_count": 2,
+    "general_freq": 1.45e-08
+  },
+  "hyperthermia": {
+    "corpus_count": 2,
+    "general_freq": 2.19e-07
+  },
+  "ftir": {
+    "corpus_count": 2,
+    "general_freq": 1.29e-07
+  },
+  "mixed-valence": {
+    "corpus_count": 2,
+    "general_freq": 7.8e-07
+  },
+  "hydrogel": {
+    "corpus_count": 2,
+    "general_freq": 1.95e-07
+  },
+  "tris": {
+    "corpus_count": 2,
+    "general_freq": 1.15e-06
+  },
+  "texttt": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "rearrangement": {
+    "corpus_count": 2,
+    "general_freq": 5.25e-07
+  },
+  "photobleaching": {
+    "corpus_count": 2,
+    "general_freq": 3.16e-08
+  },
+  "overshoot": {
+    "corpus_count": 2,
+    "general_freq": 3.31e-07
+  },
+  "eigenfrequencies": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "heuristic": {
+    "corpus_count": 2,
+    "general_freq": 5.25e-07
+  },
+  "llm-based": {
+    "corpus_count": 2,
+    "general_freq": 1.95e-07
+  },
+  "unveil": {
+    "corpus_count": 2,
+    "general_freq": 1.58e-06
+  },
+  "electride": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "integer": {
+    "corpus_count": 2,
+    "general_freq": 2.45e-06
+  },
+  "softens": {
+    "corpus_count": 2,
+    "general_freq": 4.57e-07
+  },
+  "endowing": {
+    "corpus_count": 2,
+    "general_freq": 1.02e-07
+  },
+  "prolongs": {
+    "corpus_count": 2,
+    "general_freq": 2.51e-07
+  },
+  "voids": {
+    "corpus_count": 2,
+    "general_freq": 6.46e-07
+  },
+  "nanodiamonds": {
+    "corpus_count": 2,
+    "general_freq": 2.95e-08
+  },
+  "degrade": {
+    "corpus_count": 2,
+    "general_freq": 1.91e-06
+  },
+  "graphitization": {
+    "corpus_count": 2,
+    "general_freq": 2.82e-08
+  },
+  "onsets": {
+    "corpus_count": 2,
+    "general_freq": 5.25e-08
+  },
+  "hpht": {
+    "corpus_count": 2,
+    "general_freq": 1.55e-08
+  },
+  "absorbs": {
+    "corpus_count": 2,
+    "general_freq": 1.51e-06
+  },
+  "ruderman-kittel-kasuya-yosida": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "superstructure": {
+    "corpus_count": 2,
+    "general_freq": 7.76e-07
+  },
+  "elastically": {
+    "corpus_count": 2,
+    "general_freq": 7.08e-08
+  },
+  "multimode": {
+    "corpus_count": 2,
+    "general_freq": 1.1e-07
+  },
+  "nanomechanics": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "interferometric": {
+    "corpus_count": 2,
+    "general_freq": 1.07e-07
+  },
+  "refine": {
+    "corpus_count": 2,
+    "general_freq": 1.91e-06
+  },
+  "classifier": {
+    "corpus_count": 2,
+    "general_freq": 4.57e-07
+  },
+  "trainable": {
+    "corpus_count": 2,
+    "general_freq": 1.07e-07
+  },
+  "surrogates": {
+    "corpus_count": 2,
+    "general_freq": 6.92e-07
+  },
+  "optimizer": {
+    "corpus_count": 2,
+    "general_freq": 1.86e-07
+  },
+  "factorial": {
+    "corpus_count": 2,
+    "general_freq": 3.31e-07
+  },
+  "linkages": {
+    "corpus_count": 2,
+    "general_freq": 7.08e-07
+  },
+  "additive": {
+    "corpus_count": 2,
+    "general_freq": 2.14e-06
+  },
+  "actuated": {
+    "corpus_count": 2,
+    "general_freq": 3.63e-07
+  },
+  "nanotubes": {
+    "corpus_count": 2,
+    "general_freq": 5.5e-07
+  },
+  "garnered": {
+    "corpus_count": 2,
+    "general_freq": 2.19e-06
+  },
+  "dissimilar": {
+    "corpus_count": 2,
+    "general_freq": 1.02e-06
+  },
+  "polytype": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "polarization-controlled": {
+    "corpus_count": 2,
+    "general_freq": 1.74e-06
+  },
+  "linearized": {
+    "corpus_count": 2,
+    "general_freq": 8.13e-08
+  },
+  "repeatability": {
+    "corpus_count": 2,
+    "general_freq": 1.86e-07
+  },
+  "angstrom": {
+    "corpus_count": 2,
+    "general_freq": 9.33e-08
+  },
+  "bimetallic": {
+    "corpus_count": 2,
+    "general_freq": 7.76e-08
+  },
+  "faithfully": {
+    "corpus_count": 2,
+    "general_freq": 1.86e-06
+  },
+  "summation": {
+    "corpus_count": 2,
+    "general_freq": 8.32e-07
+  },
+  "coarsening": {
+    "corpus_count": 2,
+    "general_freq": 4.07e-08
+  },
+  "coalesced": {
+    "corpus_count": 2,
+    "general_freq": 3.24e-07
+  },
+  "smoothing": {
+    "corpus_count": 2,
+    "general_freq": 1.1e-06
+  },
+  "phenyl": {
+    "corpus_count": 2,
+    "general_freq": 2.82e-07
+  },
+  "unbiased": {
+    "corpus_count": 2,
+    "general_freq": 2.14e-06
+  },
+  "aperture": {
+    "corpus_count": 2,
+    "general_freq": 2.95e-06
+  },
+  "lobes": {
+    "corpus_count": 2,
+    "general_freq": 1.38e-06
+  },
+  "condensed-matter": {
+    "corpus_count": 2,
+    "general_freq": 2.49e-06
+  },
+  "microcrystalline": {
+    "corpus_count": 2,
+    "general_freq": 7.76e-08
+  },
+  "micrometer": {
+    "corpus_count": 2,
+    "general_freq": 2.09e-07
+  },
+  "hermitian": {
+    "corpus_count": 2,
+    "general_freq": 1.23e-07
+  },
+  "non-commuting": {
+    "corpus_count": 2,
+    "general_freq": 1.93e-06
+  },
+  "non-coplanar": {
+    "corpus_count": 2,
+    "general_freq": 7.94e-08
+  },
+  "singlet": {
+    "corpus_count": 2,
+    "general_freq": 4.68e-07
+  },
+  "atomic-layer-deposited": {
+    "corpus_count": 2,
+    "general_freq": 2.68e-06
+  },
+  "ex-situ": {
+    "corpus_count": 2,
+    "general_freq": 1.85e-06
+  },
+  "heteroepitaxy": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "saturating": {
+    "corpus_count": 2,
+    "general_freq": 2e-07
+  },
+  "diminishes": {
+    "corpus_count": 2,
+    "general_freq": 1.02e-06
+  },
+  "recursion": {
+    "corpus_count": 2,
+    "general_freq": 4.47e-07
+  },
+  "rocksalt": {
+    "corpus_count": 2,
+    "general_freq": 1.74e-08
+  },
+  "cross-modal": {
+    "corpus_count": 2,
+    "general_freq": 1.33e-06
+  },
+  "alscn": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "synthesised": {
+    "corpus_count": 2,
+    "general_freq": 2.09e-07
+  },
+  "fese": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "phonon-phonon": {
+    "corpus_count": 2,
+    "general_freq": 8.11e-08
+  },
+  "microscopically": {
+    "corpus_count": 2,
+    "general_freq": 1.66e-07
+  },
+  "bombardment": {
+    "corpus_count": 2,
+    "general_freq": 2.19e-06
+  },
+  "nano-oscillators": {
+    "corpus_count": 2,
+    "general_freq": 3.73e-07
+  },
+  "magneto-optic": {
+    "corpus_count": 2,
+    "general_freq": 8.8e-07
+  },
+  "isolators": {
+    "corpus_count": 2,
+    "general_freq": 7.41e-08
+  },
+  "resonator": {
+    "corpus_count": 2,
+    "general_freq": 6.31e-07
+  },
+  "non-reciprocal": {
+    "corpus_count": 2,
+    "general_freq": 1.65e-06
+  },
+  "dispersively": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "snse": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "loadings": {
+    "corpus_count": 2,
+    "general_freq": 1.82e-07
+  },
+  "realisation": {
+    "corpus_count": 2,
+    "general_freq": 1.58e-06
+  },
+  "majorana": {
+    "corpus_count": 2,
+    "general_freq": 6.76e-08
+  },
+  "photoinduced": {
+    "corpus_count": 2,
+    "general_freq": 2.34e-08
+  },
+  "picoseconds": {
+    "corpus_count": 2,
+    "general_freq": 3.89e-08
+  },
+  "photoexcitation": {
+    "corpus_count": 2,
+    "general_freq": 1.23e-08
+  },
+  "outperform": {
+    "corpus_count": 2,
+    "general_freq": 1.02e-06
+  },
+  "sluggish": {
+    "corpus_count": 2,
+    "general_freq": 1.78e-06
+  },
+  "nife": {
+    "corpus_count": 2,
+    "general_freq": 2.69e-08
+  },
+  "orbitronic": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "polarizabilities": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "armchair": {
+    "corpus_count": 2,
+    "general_freq": 1.62e-06
+  },
+  "magnon--phonon": {
+    "corpus_count": 2,
+    "general_freq": 7.55e-08
+  },
+  "anvil": {
+    "corpus_count": 2,
+    "general_freq": 1.1e-06
+  },
+  "cationic": {
+    "corpus_count": 2,
+    "general_freq": 2.4e-07
+  },
+  "lanthanide": {
+    "corpus_count": 2,
+    "general_freq": 7.76e-08
+  },
+  "overdoped": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "electrocatalysis": {
+    "corpus_count": 2,
+    "general_freq": 1.48e-08
+  },
+  "alkaline": {
+    "corpus_count": 2,
+    "general_freq": 1.78e-06
+  },
+  "adsorbates": {
+    "corpus_count": 2,
+    "general_freq": 1.17e-08
+  },
+  "mean-squared": {
+    "corpus_count": 2,
+    "general_freq": 2.44e-06
+  },
+  "pixelated": {
+    "corpus_count": 2,
+    "general_freq": 2.82e-07
+  },
+  "environmentally": {
+    "corpus_count": 2,
+    "general_freq": 2.75e-06
+  },
+  "fwhm": {
+    "corpus_count": 2,
+    "general_freq": 5.89e-08
+  },
+  "arcsec": {
+    "corpus_count": 2,
+    "general_freq": 3.63e-08
+  },
+  "overpotentials": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "overpotential": {
+    "corpus_count": 2,
+    "general_freq": 1.95e-08
+  },
+  "magnetization-dependent": {
+    "corpus_count": 2,
+    "general_freq": 2.71e-07
+  },
+  "square-lattice": {
+    "corpus_count": 2,
+    "general_freq": 2.22e-06
+  },
+  "vhss": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "ultrasensitive": {
+    "corpus_count": 2,
+    "general_freq": 3.63e-08
+  },
+  "embeddings": {
+    "corpus_count": 2,
+    "general_freq": 6.61e-08
+  },
+  "permutation": {
+    "corpus_count": 2,
+    "general_freq": 4.37e-07
+  },
+  "slenderness": {
+    "corpus_count": 2,
+    "general_freq": 3.39e-08
+  },
+  "cavitation": {
+    "corpus_count": 2,
+    "general_freq": 2.4e-07
+  },
+  "heterobilayer": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "segmented": {
+    "corpus_count": 2,
+    "general_freq": 1e-06
+  },
+  "auditable": {
+    "corpus_count": 2,
+    "general_freq": 3.98e-08
+  },
+  "blinded": {
+    "corpus_count": 2,
+    "general_freq": 2.95e-06
+  },
+  "methyl": {
+    "corpus_count": 2,
+    "general_freq": 1.66e-06
+  },
+  "standalone": {
+    "corpus_count": 2,
+    "general_freq": 2.45e-06
+  },
+  "methylphenyl": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "obstructed": {
+    "corpus_count": 2,
+    "general_freq": 9.55e-07
+  },
+  "simulators": {
+    "corpus_count": 2,
+    "general_freq": 8.13e-07
+  },
+  "bioelectronics": {
+    "corpus_count": 2,
+    "general_freq": 2.29e-08
+  },
+  "complements": {
+    "corpus_count": 2,
+    "general_freq": 1.12e-06
+  },
+  "nanomechanical": {
+    "corpus_count": 2,
+    "general_freq": 1.23e-08
+  },
+  "compressional": {
+    "corpus_count": 2,
+    "general_freq": 5.62e-08
+  },
+  "wavelength-dependent": {
+    "corpus_count": 2,
+    "general_freq": 2.46e-06
+  },
+  "wavelengths": {
+    "corpus_count": 2,
+    "general_freq": 1.55e-06
+  },
+  "magnonics": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "magnons": {
+    "corpus_count": 2,
+    "general_freq": 3.98e-08
+  },
+  "deviate": {
+    "corpus_count": 2,
+    "general_freq": 1.15e-06
+  },
+  "sots": {
+    "corpus_count": 2,
+    "general_freq": 6.17e-08
+  },
+  "non-gaussian": {
+    "corpus_count": 2,
+    "general_freq": 8.67e-07
+  },
+  "compositionally": {
+    "corpus_count": 2,
+    "general_freq": 6.76e-08
+  },
+  "thermochemical": {
+    "corpus_count": 2,
+    "general_freq": 7.24e-08
+  },
+  "classify": {
+    "corpus_count": 2,
+    "general_freq": 2.45e-06
+  },
+  "polarization-sensitive": {
+    "corpus_count": 2,
+    "general_freq": 1.71e-06
+  },
+  "dichroic": {
+    "corpus_count": 2,
+    "general_freq": 1.2e-07
+  },
+  "narrowing": {
+    "corpus_count": 2,
+    "general_freq": 1.78e-06
+  },
+  "substituted": {
+    "corpus_count": 2,
+    "general_freq": 2.95e-06
+  },
+  "symmetry-lowering": {
+    "corpus_count": 2,
+    "general_freq": 2.11e-06
+  },
+  "magneto-infrared": {
+    "corpus_count": 2,
+    "general_freq": 9.03e-07
+  },
+  "oblique": {
+    "corpus_count": 2,
+    "general_freq": 1.58e-06
+  },
+  "wide-bandgap": {
+    "corpus_count": 2,
+    "general_freq": 1.23e-07
+  },
+  "emitter": {
+    "corpus_count": 2,
+    "general_freq": 7.94e-07
+  },
+  "delineate": {
+    "corpus_count": 2,
+    "general_freq": 3.63e-07
+  },
+  "conformal": {
+    "corpus_count": 2,
+    "general_freq": 3.55e-07
+  },
+  "comsol": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "elliptically": {
+    "corpus_count": 2,
+    "general_freq": 4.68e-08
+  },
+  "elliptical": {
+    "corpus_count": 2,
+    "general_freq": 1.62e-06
+  },
+  "isolator": {
+    "corpus_count": 2,
+    "general_freq": 1.15e-07
+  },
+  "underlies": {
+    "corpus_count": 2,
+    "general_freq": 4.79e-07
+  },
+  "electrodynamics": {
+    "corpus_count": 2,
+    "general_freq": 2.04e-07
+  },
+  "bogoliubov": {
+    "corpus_count": 2,
+    "general_freq": 1.48e-08
+  },
+  "gapless": {
+    "corpus_count": 2,
+    "general_freq": 3.63e-08
+  },
+  "supercurrent": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "clarifying": {
+    "corpus_count": 2,
+    "general_freq": 1.62e-06
+  },
+  "propto": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "divergent": {
+    "corpus_count": 2,
+    "general_freq": 2.4e-06
+  },
+  "fermi-energy": {
+    "corpus_count": 2,
+    "general_freq": 6.73e-07
+  },
+  "relaxations": {
+    "corpus_count": 2,
+    "general_freq": 7.41e-08
+  },
+  "rashba-split": {
+    "corpus_count": 2,
+    "general_freq": 1.55e-08
+  },
+  "multiple-scattering": {
+    "corpus_count": 2,
+    "general_freq": 2.44e-06
+  },
+  "coherent-potential-approximation": {
+    "corpus_count": 2,
+    "general_freq": 1.38e-06
+  },
+  "grounding": {
+    "corpus_count": 2,
+    "general_freq": 1.82e-06
+  },
+  "vacancy-mediated": {
+    "corpus_count": 2,
+    "general_freq": 1.88e-06
+  },
+  "fgat": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "neutron-scattering": {
+    "corpus_count": 2,
+    "general_freq": 1.31e-06
+  },
+  "cylindrical": {
+    "corpus_count": 2,
+    "general_freq": 2.19e-06
+  },
+  "annular": {
+    "corpus_count": 2,
+    "general_freq": 6.03e-07
+  },
+  "nano-scale": {
+    "corpus_count": 2,
+    "general_freq": 2.83e-06
+  },
+  "fibrous": {
+    "corpus_count": 2,
+    "general_freq": 8.71e-07
+  },
+  "completeness": {
+    "corpus_count": 2,
+    "general_freq": 1.35e-06
+  },
+  "pointwise": {
+    "corpus_count": 2,
+    "general_freq": 6.92e-08
+  },
+  "quadratically": {
+    "corpus_count": 2,
+    "general_freq": 3.02e-08
+  },
+  "substitutions": {
+    "corpus_count": 2,
+    "general_freq": 9.55e-07
+  },
+  "millisecond-scale": {
+    "corpus_count": 2,
+    "general_freq": 3.87e-07
+  },
+  "intercalant": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "intercalation-induced": {
+    "corpus_count": 2,
+    "general_freq": 7.89e-08
+  },
+  "varepsilon": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "quaternion": {
+    "corpus_count": 2,
+    "general_freq": 6.76e-08
+  },
+  "vectorial": {
+    "corpus_count": 2,
+    "general_freq": 3.98e-08
+  },
+  "unperturbed": {
+    "corpus_count": 2,
+    "general_freq": 2.24e-07
+  },
+  "folds": {
+    "corpus_count": 2,
+    "general_freq": 2.69e-06
+  },
+  "solvent": {
+    "corpus_count": 2,
+    "general_freq": 2.75e-06
+  },
+  "orchestration": {
+    "corpus_count": 2,
+    "general_freq": 5.5e-07
+  },
+  "summarize": {
+    "corpus_count": 2,
+    "general_freq": 1.7e-06
+  },
+  "realisable": {
+    "corpus_count": 2,
+    "general_freq": 3.09e-08
+  },
+  "achiral": {
+    "corpus_count": 2,
+    "general_freq": 2.14e-08
+  },
+  "slave-boson": {
+    "corpus_count": 2,
+    "general_freq": 5.6e-07
+  },
+  "computations": {
+    "corpus_count": 2,
+    "general_freq": 6.31e-07
+  },
+  "miniband": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "pces": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "carbide": {
+    "corpus_count": 2,
+    "general_freq": 9.55e-07
+  },
+  "nanoelectronics": {
+    "corpus_count": 2,
+    "general_freq": 4.57e-08
+  },
+  "inefficient": {
+    "corpus_count": 2,
+    "general_freq": 2.88e-06
+  },
+  "near-instantaneous": {
+    "corpus_count": 2,
+    "general_freq": 1.37e-06
+  },
+  "snapshots": {
+    "corpus_count": 2,
+    "general_freq": 1.26e-06
+  },
+  "biomedical": {
+    "corpus_count": 2,
+    "general_freq": 2.95e-06
+  },
+  "geotechnical": {
+    "corpus_count": 2,
+    "general_freq": 4.37e-07
+  },
+  "frictionless": {
+    "corpus_count": 2,
+    "general_freq": 2e-07
+  },
+  "reversals": {
+    "corpus_count": 2,
+    "general_freq": 4.37e-07
+  },
+  "powders": {
+    "corpus_count": 2,
+    "general_freq": 1.41e-06
+  },
+  "characterizations": {
+    "corpus_count": 2,
+    "general_freq": 3.89e-07
+  },
+  "vertices": {
+    "corpus_count": 2,
+    "general_freq": 9.12e-07
+  },
+  "reciprocal-space": {
+    "corpus_count": 2,
+    "general_freq": 1.64e-06
+  },
+  "disordering": {
+    "corpus_count": 2,
+    "general_freq": 1.35e-08
+  },
+  "oppositely": {
+    "corpus_count": 2,
+    "general_freq": 1.2e-07
+  },
+  "shorten": {
+    "corpus_count": 2,
+    "general_freq": 2.4e-06
+  },
+  "vickers": {
+    "corpus_count": 2,
+    "general_freq": 1.26e-06
+  },
+  "quantile": {
+    "corpus_count": 2,
+    "general_freq": 7.41e-08
+  },
+  "hrtem": {
+    "corpus_count": 2,
+    "general_freq": 1.51e-08
+  },
+  "generalizability": {
+    "corpus_count": 2,
+    "general_freq": 5.37e-08
+  },
+  "unattainable": {
+    "corpus_count": 2,
+    "general_freq": 7.59e-07
+  },
+  "controllability": {
+    "corpus_count": 2,
+    "general_freq": 9.55e-08
+  },
+  "chemisorption": {
+    "corpus_count": 2,
+    "general_freq": 2.45e-08
+  },
+  "metallization": {
+    "corpus_count": 2,
+    "general_freq": 6.31e-08
+  },
+  "concomitant": {
+    "corpus_count": 2,
+    "general_freq": 5.62e-07
+  },
+  "phonon-assisted": {
+    "corpus_count": 2,
+    "general_freq": 1.6e-07
+  },
+  "ferrite": {
+    "corpus_count": 2,
+    "general_freq": 2.04e-07
+  },
+  "github": {
+    "corpus_count": 2,
+    "general_freq": 1.51e-06
+  },
+  "implements": {
+    "corpus_count": 2,
+    "general_freq": 2.29e-06
+  },
+  "sidewalls": {
+    "corpus_count": 2,
+    "general_freq": 1.38e-07
+  },
+  "threading": {
+    "corpus_count": 2,
+    "general_freq": 8.13e-07
+  },
+  "twofold": {
+    "corpus_count": 2,
+    "general_freq": 6.92e-07
+  },
+  "passivated": {
+    "corpus_count": 2,
+    "general_freq": 2.75e-08
+  },
+  "melts": {
+    "corpus_count": 2,
+    "general_freq": 2.57e-06
+  },
+  "tiling": {
+    "corpus_count": 2,
+    "general_freq": 7.24e-07
+  },
+  "polarizations": {
+    "corpus_count": 2,
+    "general_freq": 6.31e-08
+  },
+  "austenitic": {
+    "corpus_count": 2,
+    "general_freq": 8.91e-08
+  },
+  "sweeps": {
+    "corpus_count": 2,
+    "general_freq": 2.19e-06
+  },
+  "lamellae": {
+    "corpus_count": 2,
+    "general_freq": 9.55e-08
+  },
+  "gap-on-insulator": {
+    "corpus_count": 2,
+    "general_freq": 5.39e-07
+  },
+  "nanometers": {
+    "corpus_count": 2,
+    "general_freq": 3.02e-07
+  },
+  "sixfold": {
+    "corpus_count": 2,
+    "general_freq": 1e-07
+  },
+  "renders": {
+    "corpus_count": 2,
+    "general_freq": 2e-06
+  },
+  "distinguishable": {
+    "corpus_count": 2,
+    "general_freq": 7.41e-07
+  },
+  "epitaxially": {
+    "corpus_count": 2,
+    "general_freq": 1.66e-08
+  },
+  "electron-polaron": {
+    "corpus_count": 2,
+    "general_freq": 4.24e-08
+  },
+  "proton-conducting": {
+    "corpus_count": 2,
+    "general_freq": 2.15e-06
+  },
+  "partitions": {
+    "corpus_count": 2,
+    "general_freq": 1.32e-06
+  },
+  "extremes": {
+    "corpus_count": 2,
+    "general_freq": 2.95e-06
+  },
+  "favours": {
+    "corpus_count": 2,
+    "general_freq": 2.09e-06
+  },
+  "inverts": {
+    "corpus_count": 2,
+    "general_freq": 1.58e-07
+  },
+  "polaritonic": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "forbids": {
+    "corpus_count": 2,
+    "general_freq": 1.35e-06
+  },
+  "kubo": {
+    "corpus_count": 2,
+    "general_freq": 4.9e-07
+  },
+  "antiunitary": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "antipodal": {
+    "corpus_count": 2,
+    "general_freq": 5.13e-08
+  },
+  "encapsulating": {
+    "corpus_count": 2,
+    "general_freq": 1.62e-07
+  },
+  "injects": {
+    "corpus_count": 2,
+    "general_freq": 4.57e-07
+  },
+  "epistemic": {
+    "corpus_count": 2,
+    "general_freq": 3.63e-07
+  },
+  "biases": {
+    "corpus_count": 2,
+    "general_freq": 2.09e-06
+  },
+  "axion": {
+    "corpus_count": 2,
+    "general_freq": 8.51e-08
+  },
+  "non-superconducting": {
+    "corpus_count": 2,
+    "general_freq": 5.12e-07
+  },
+  "diverges": {
+    "corpus_count": 2,
+    "general_freq": 2.34e-07
+  },
+  "isotherm": {
+    "corpus_count": 2,
+    "general_freq": 9.33e-08
+  },
+  "fluidity": {
+    "corpus_count": 2,
+    "general_freq": 7.94e-07
+  },
+  "self-doping": {
+    "corpus_count": 2,
+    "general_freq": 2.9e-06
+  },
+  "intermetallics": {
+    "corpus_count": 2,
+    "general_freq": 1.45e-08
+  },
+  "invoking": {
+    "corpus_count": 2,
+    "general_freq": 1.26e-06
+  },
+  "spearman": {
+    "corpus_count": 2,
+    "general_freq": 2.88e-07
+  },
+  "pytorch": {
+    "corpus_count": 2,
+    "general_freq": 1.82e-08
+  },
+  "equilibria": {
+    "corpus_count": 2,
+    "general_freq": 2.09e-07
+  },
+  "sf-mediated": {
+    "corpus_count": 2,
+    "general_freq": 2.27e-06
+  },
+  "insulator-to-metal": {
+    "corpus_count": 2,
+    "general_freq": 5.45e-07
+  },
+  "additively": {
+    "corpus_count": 2,
+    "general_freq": 6.17e-08
+  },
+  "martensite": {
+    "corpus_count": 2,
+    "general_freq": 4.27e-08
+  },
+  "interlayers": {
+    "corpus_count": 2,
+    "general_freq": 1.1e-08
+  },
+  "transmittance": {
+    "corpus_count": 2,
+    "general_freq": 1.26e-07
+  },
+  "beyond-dft": {
+    "corpus_count": 2,
+    "general_freq": 4.06e-07
+  },
+  "inverting": {
+    "corpus_count": 2,
+    "general_freq": 3.16e-07
+  },
+  "converge": {
+    "corpus_count": 2,
+    "general_freq": 1.7e-06
+  },
+  "debye-waller": {
+    "corpus_count": 2,
+    "general_freq": 9.71e-08
+  },
+  "triangular-lattice": {
+    "corpus_count": 2,
+    "general_freq": 1.22e-06
+  },
+  "toroidal": {
+    "corpus_count": 2,
+    "general_freq": 1.78e-07
+  },
+  "monopole": {
+    "corpus_count": 2,
+    "general_freq": 1.38e-07
+  },
+  "bovine": {
+    "corpus_count": 2,
+    "general_freq": 1.02e-06
+  },
+  "lippmann--schwinger": {
+    "corpus_count": 2,
+    "general_freq": 3.8e-08
+  },
+  "ambiguity": {
+    "corpus_count": 2,
+    "general_freq": 2.34e-06
+  },
+  "uncompensated": {
+    "corpus_count": 2,
+    "general_freq": 1.23e-07
+  },
+  "layer-parity": {
+    "corpus_count": 2,
+    "general_freq": 2.33e-06
+  },
+  "persisting": {
+    "corpus_count": 2,
+    "general_freq": 5.01e-07
+  },
+  "microsecond": {
+    "corpus_count": 2,
+    "general_freq": 1.48e-07
+  },
+  "pxrd": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "architected": {
+    "corpus_count": 2,
+    "general_freq": 3.47e-08
+  },
+  "brownian": {
+    "corpus_count": 2,
+    "general_freq": 2.14e-07
+  },
+  "tetralayer": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "piezoelectricity": {
+    "corpus_count": 2,
+    "general_freq": 3.02e-08
+  },
+  "dictated": {
+    "corpus_count": 2,
+    "general_freq": 2.45e-06
+  },
+  "microns": {
+    "corpus_count": 2,
+    "general_freq": 5.37e-07
+  },
+  "janus-induced": {
+    "corpus_count": 2,
+    "general_freq": 9.56e-07
+  },
+  "redirects": {
+    "corpus_count": 2,
+    "general_freq": 4.47e-07
+  },
+  "widths": {
+    "corpus_count": 2,
+    "general_freq": 6.46e-07
+  },
+  "dimerization": {
+    "corpus_count": 2,
+    "general_freq": 1e-07
+  },
+  "metamaterials": {
+    "corpus_count": 2,
+    "general_freq": 1.29e-07
+  },
+  "phonon-limited": {
+    "corpus_count": 2,
+    "general_freq": 1.62e-07
+  },
+  "counterintuitive": {
+    "corpus_count": 2,
+    "general_freq": 4.9e-07
+  },
+  "deployable": {
+    "corpus_count": 2,
+    "general_freq": 2.82e-07
+  },
+  "jastrow": {
+    "corpus_count": 2,
+    "general_freq": 6.76e-08
+  },
+  "residuals": {
+    "corpus_count": 2,
+    "general_freq": 3.24e-07
+  },
+  "falsifiable": {
+    "corpus_count": 2,
+    "general_freq": 7.08e-08
+  },
+  "intermolecular": {
+    "corpus_count": 2,
+    "general_freq": 1.74e-07
+  },
+  "amplify": {
+    "corpus_count": 2,
+    "general_freq": 1.45e-06
+  },
+  "photon-free": {
+    "corpus_count": 2,
+    "general_freq": 2.08e-06
+  },
+  "quantum-electrodynamics": {
+    "corpus_count": 2,
+    "general_freq": 2.01e-07
+  },
+  "condensed-phase": {
+    "corpus_count": 2,
+    "general_freq": 2.38e-06
+  },
+  "hartree-fock": {
+    "corpus_count": 2,
+    "general_freq": 5.91e-08
+  },
+  "multiplicity": {
+    "corpus_count": 2,
+    "general_freq": 6.31e-07
+  },
+  "embodies": {
+    "corpus_count": 2,
+    "general_freq": 1.55e-06
+  },
+  "topotactic": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "symmetry-driven": {
+    "corpus_count": 2,
+    "general_freq": 2.96e-06
+  },
+  "parity-time": {
+    "corpus_count": 2,
+    "general_freq": 2.57e-06
+  },
+  "condensation": {
+    "corpus_count": 2,
+    "general_freq": 1.32e-06
+  },
+  "nanowalls": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "dissociate": {
+    "corpus_count": 2,
+    "general_freq": 2.88e-07
+  },
+  "well-calibrated": {
+    "corpus_count": 2,
+    "general_freq": 1.48e-06
+  },
+  "sensitivities": {
+    "corpus_count": 2,
+    "general_freq": 8.51e-07
+  },
+  "voltages": {
+    "corpus_count": 2,
+    "general_freq": 9.12e-07
+  },
+  "autoencoder": {
+    "corpus_count": 2,
+    "general_freq": 1.17e-08
+  },
+  "milling": {
+    "corpus_count": 2,
+    "general_freq": 2.19e-06
+  },
+  "magnetostrictive": {
+    "corpus_count": 2,
+    "general_freq": 2e-08
+  },
+  "entangled": {
+    "corpus_count": 2,
+    "general_freq": 1.51e-06
+  },
+  "staggered": {
+    "corpus_count": 2,
+    "general_freq": 1.62e-06
+  },
+  "amplifier": {
+    "corpus_count": 2,
+    "general_freq": 2.82e-06
+  },
+  "elastomer": {
+    "corpus_count": 2,
+    "general_freq": 1.58e-07
+  },
+  "ebsd": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "destabilize": {
+    "corpus_count": 2,
+    "general_freq": 6.31e-07
+  },
+  "reinforcing": {
+    "corpus_count": 2,
+    "general_freq": 2.24e-06
+  },
+  "remnant": {
+    "corpus_count": 2,
+    "general_freq": 2e-06
+  },
+  "funnel": {
+    "corpus_count": 2,
+    "general_freq": 2.95e-06
+  },
+  "monochromatic": {
+    "corpus_count": 2,
+    "general_freq": 5.25e-07
+  },
+  "drift-diffusion": {
+    "corpus_count": 2,
+    "general_freq": 1.82e-06
+  },
+  "orbital-torque": {
+    "corpus_count": 2,
+    "general_freq": 2.08e-06
+  },
+  "synthesizability": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "isostatic": {
+    "corpus_count": 2,
+    "general_freq": 7.94e-08
+  },
+  "propagate": {
+    "corpus_count": 2,
+    "general_freq": 1.23e-06
+  },
+  "bistability": {
+    "corpus_count": 2,
+    "general_freq": 1.78e-08
+  },
+  "shape-morphing": {
+    "corpus_count": 2,
+    "general_freq": 4.85e-07
+  },
+  "traceless": {
+    "corpus_count": 2,
+    "general_freq": 2.14e-08
+  },
+  "corroborates": {
+    "corpus_count": 2,
+    "general_freq": 2.24e-07
+  },
+  "substituting": {
+    "corpus_count": 2,
+    "general_freq": 1.07e-06
+  },
+  "solitons": {
+    "corpus_count": 2,
+    "general_freq": 9.77e-08
+  },
+  "invert": {
+    "corpus_count": 2,
+    "general_freq": 5.5e-07
+  },
+  "neuron": {
+    "corpus_count": 2,
+    "general_freq": 1.45e-06
+  },
+  "trigonal": {
+    "corpus_count": 2,
+    "general_freq": 9.77e-08
+  },
+  "relaxor": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "wannier-based": {
+    "corpus_count": 2,
+    "general_freq": 1.91e-08
+  },
+  "polymorphic": {
+    "corpus_count": 2,
+    "general_freq": 2.69e-07
+  },
+  "multifractal": {
+    "corpus_count": 2,
+    "general_freq": 1.35e-08
+  },
+  "projectors": {
+    "corpus_count": 2,
+    "general_freq": 9.33e-07
+  },
+  "permittivity": {
+    "corpus_count": 2,
+    "general_freq": 1.38e-07
+  },
+  "heterobilayers": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "stacking-dependent": {
+    "corpus_count": 2,
+    "general_freq": 1.81e-06
+  },
+  "incipient": {
+    "corpus_count": 2,
+    "general_freq": 3.47e-07
+  },
+  "redshift": {
+    "corpus_count": 2,
+    "general_freq": 2.88e-07
+  },
+  "diffusion-based": {
+    "corpus_count": 2,
+    "general_freq": 2.49e-06
+  },
+  "polyhedral": {
+    "corpus_count": 2,
+    "general_freq": 1.32e-07
+  },
+  "accommodated": {
+    "corpus_count": 2,
+    "general_freq": 1.45e-06
+  },
+  "colloidal": {
+    "corpus_count": 2,
+    "general_freq": 3.89e-07
+  },
+  "salts": {
+    "corpus_count": 2,
+    "general_freq": 2.57e-06
+  },
+  "amorphous-crystalline": {
+    "corpus_count": 2,
+    "general_freq": 5.89e-07
+  },
+  "selectable": {
+    "corpus_count": 2,
+    "general_freq": 3.55e-07
+  },
+  "ultrasmall": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "reusable": {
+    "corpus_count": 2,
+    "general_freq": 1.62e-06
+  },
+  "unfolding": {
+    "corpus_count": 2,
+    "general_freq": 2.14e-06
+  },
+  "checkerboard": {
+    "corpus_count": 2,
+    "general_freq": 2.88e-07
+  },
+  "non-conserved": {
+    "corpus_count": 2,
+    "general_freq": 1.4e-06
+  },
+  "quasi-linear": {
+    "corpus_count": 2,
+    "general_freq": 2.5e-06
+  },
+  "evidencing": {
+    "corpus_count": 2,
+    "general_freq": 1.05e-07
+  },
+  "postprocessing": {
+    "corpus_count": 2,
+    "general_freq": 4.37e-08
+  },
+  "rheed": {
+    "corpus_count": 2,
+    "general_freq": 1.29e-08
+  },
+  "multiferroicity": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "cutoffs": {
+    "corpus_count": 2,
+    "general_freq": 1.78e-07
+  },
+  "symmorphic": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "visualizing": {
+    "corpus_count": 2,
+    "general_freq": 5.62e-07
+  },
+  "incompressible": {
+    "corpus_count": 2,
+    "general_freq": 1.48e-07
+  },
+  "hyperuniform": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "hyperuniformity": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "sinks": {
+    "corpus_count": 2,
+    "general_freq": 2.95e-06
+  },
+  "positron": {
+    "corpus_count": 2,
+    "general_freq": 4.37e-07
+  },
+  "generically": {
+    "corpus_count": 2,
+    "general_freq": 3.72e-07
+  },
+  "symmetry-dictated": {
+    "corpus_count": 2,
+    "general_freq": 1.4e-06
+  },
+  "adatoms": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "textual": {
+    "corpus_count": 2,
+    "general_freq": 2.19e-06
+  },
+  "multiphonon": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "dirac-like": {
+    "corpus_count": 2,
+    "general_freq": 3.89e-07
+  },
+  "uncoupled": {
+    "corpus_count": 2,
+    "general_freq": 1.41e-07
+  },
+  "monopoles": {
+    "corpus_count": 2,
+    "general_freq": 6.76e-08
+  },
+  "multiconfigurational": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "deuterium": {
+    "corpus_count": 2,
+    "general_freq": 4.57e-07
+  },
+  "neutron-irradiated": {
+    "corpus_count": 2,
+    "general_freq": 6.5e-07
+  },
+  "ceramics": {
+    "corpus_count": 2,
+    "general_freq": 2.75e-06
+  },
+  "curated": {
+    "corpus_count": 2,
+    "general_freq": 2.75e-06
+  },
+  "cross-validated": {
+    "corpus_count": 2,
+    "general_freq": 2.34e-06
+  },
+  "viscosities": {
+    "corpus_count": 2,
+    "general_freq": 5.13e-08
+  },
+  "minima": {
+    "corpus_count": 2,
+    "general_freq": 3.55e-07
+  },
+  "sulfur-related": {
+    "corpus_count": 2,
+    "general_freq": 2.64e-06
+  },
+  "apis": {
+    "corpus_count": 2,
+    "general_freq": 1.26e-06
+  },
+  "bravais": {
+    "corpus_count": 2,
+    "general_freq": 1.95e-08
+  },
+  "shockley": {
+    "corpus_count": 2,
+    "general_freq": 1.78e-07
+  },
+  "single-photon": {
+    "corpus_count": 2,
+    "general_freq": 2.07e-06
+  },
+  "josephson": {
+    "corpus_count": 2,
+    "general_freq": 2.69e-07
+  },
+  "jarvis-dft": {
+    "corpus_count": 2,
+    "general_freq": 3.47e-07
+  },
+  "photovoltage": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "nickelate": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "tempering": {
+    "corpus_count": 2,
+    "general_freq": 3.31e-07
+  },
+  "enriches": {
+    "corpus_count": 2,
+    "general_freq": 2.88e-07
+  },
+  "ceria-based": {
+    "corpus_count": 2,
+    "general_freq": 4.9e-08
+  },
+  "modulo": {
+    "corpus_count": 2,
+    "general_freq": 2.14e-07
+  },
+  "boldsymbol": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "reshaping": {
+    "corpus_count": 2,
+    "general_freq": 7.41e-07
+  },
+  "underscoring": {
+    "corpus_count": 2,
+    "general_freq": 2.63e-07
+  },
+  "cauchy": {
+    "corpus_count": 2,
+    "general_freq": 2.51e-07
+  },
+  "subsampling": {
+    "corpus_count": 2,
+    "general_freq": 3.89e-08
+  },
+  "quaternary": {
+    "corpus_count": 2,
+    "general_freq": 7.08e-07
+  },
+  "predominance": {
+    "corpus_count": 2,
+    "general_freq": 3.55e-07
+  },
+  "rheological": {
+    "corpus_count": 2,
+    "general_freq": 9.33e-08
+  },
+  "satisfies": {
+    "corpus_count": 2,
+    "general_freq": 1.58e-06
+  },
+  "fabry-": {
+    "corpus_count": 2,
+    "general_freq": 2e-07
+  },
+  "spin-polarization": {
+    "corpus_count": 2,
+    "general_freq": 1.69e-06
+  },
+  "waveguide": {
+    "corpus_count": 2,
+    "general_freq": 4.07e-07
+  },
+  "interferometer": {
+    "corpus_count": 2,
+    "general_freq": 3.16e-07
+  },
+  "mach-zehnder": {
+    "corpus_count": 2,
+    "general_freq": 6.81e-08
+  },
+  "cerium-substituted": {
+    "corpus_count": 2,
+    "general_freq": 1.41e-07
+  },
+  "manganites": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "ultrafine": {
+    "corpus_count": 2,
+    "general_freq": 8.51e-08
+  },
+  "sidebands": {
+    "corpus_count": 2,
+    "general_freq": 3.09e-08
+  },
+  "interpolate": {
+    "corpus_count": 2,
+    "general_freq": 1e-07
+  },
+  "hdnnp": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "recasts": {
+    "corpus_count": 2,
+    "general_freq": 7.94e-08
+  },
+  "mirroring": {
+    "corpus_count": 2,
+    "general_freq": 1.02e-06
+  },
+  "diverge": {
+    "corpus_count": 2,
+    "general_freq": 6.76e-07
+  },
+  "lossless": {
+    "corpus_count": 2,
+    "general_freq": 4.37e-07
+  },
+  "operatorial": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "off-resonant": {
+    "corpus_count": 2,
+    "general_freq": 1.35e-06
+  },
+  "projective": {
+    "corpus_count": 2,
+    "general_freq": 5.5e-07
+  },
+  "nonreciprocity": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "antiphase": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "spectrometer": {
+    "corpus_count": 2,
+    "general_freq": 7.76e-07
+  },
+  "absorber": {
+    "corpus_count": 2,
+    "general_freq": 5.13e-07
+  },
+  "uncontrolled": {
+    "corpus_count": 2,
+    "general_freq": 1.58e-06
+  },
+  "libs": {
+    "corpus_count": 2,
+    "general_freq": 1.48e-06
+  },
+  "dehydrogenation": {
+    "corpus_count": 2,
+    "general_freq": 4.79e-08
+  },
+  "lithography": {
+    "corpus_count": 2,
+    "general_freq": 5.13e-07
+  },
+  "tr-arpes": {
+    "corpus_count": 2,
+    "general_freq": 1.54e-08
+  },
+  "tribological": {
+    "corpus_count": 2,
+    "general_freq": 3.02e-08
+  },
+  "macroscale": {
+    "corpus_count": 2,
+    "general_freq": 3.89e-08
+  },
+  "asperity": {
+    "corpus_count": 2,
+    "general_freq": 2.4e-08
+  },
+  "generalizes": {
+    "corpus_count": 2,
+    "general_freq": 1.74e-07
+  },
+  "generalizing": {
+    "corpus_count": 2,
+    "general_freq": 4.17e-07
+  },
+  "pseudopotential": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "alchemical": {
+    "corpus_count": 2,
+    "general_freq": 3.16e-07
+  },
+  "selenium": {
+    "corpus_count": 2,
+    "general_freq": 8.32e-07
+  },
+  "photoelectrons": {
+    "corpus_count": 2,
+    "general_freq": 1.78e-08
+  },
+  "navigating": {
+    "corpus_count": 2,
+    "general_freq": 1.95e-06
+  },
+  "foundational": {
+    "corpus_count": 2,
+    "general_freq": 1.15e-06
+  },
+  "korringa--kohn--rostoker": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "kubo--greenwood": {
+    "corpus_count": 2,
+    "general_freq": 4.1e-07
+  },
+  "functionally": {
+    "corpus_count": 2,
+    "general_freq": 1.55e-06
+  },
+  "nv-center": {
+    "corpus_count": 2,
+    "general_freq": 2.77e-06
+  },
+  "symmetry-dependent": {
+    "corpus_count": 2,
+    "general_freq": 2.77e-06
+  },
+  "transmutation": {
+    "corpus_count": 2,
+    "general_freq": 3.72e-07
+  },
+  "isolating": {
+    "corpus_count": 2,
+    "general_freq": 1.7e-06
+  },
+  "hotspots": {
+    "corpus_count": 2,
+    "general_freq": 8.91e-07
+  },
+  "stimulated": {
+    "corpus_count": 2,
+    "general_freq": 2.34e-06
+  },
+  "thermodynamical": {
+    "corpus_count": 2,
+    "general_freq": 2.14e-08
+  },
+  "emit": {
+    "corpus_count": 2,
+    "general_freq": 1.78e-06
+  },
+  "interfacing": {
+    "corpus_count": 2,
+    "general_freq": 3.47e-07
+  },
+  "terraces": {
+    "corpus_count": 2,
+    "general_freq": 1.95e-06
+  },
+  "graded": {
+    "corpus_count": 2,
+    "general_freq": 2.82e-06
+  },
+  "incompatibility": {
+    "corpus_count": 2,
+    "general_freq": 5.62e-07
+  },
+  "recrystallization": {
+    "corpus_count": 2,
+    "general_freq": 8.13e-08
+  },
+  "multistate": {
+    "corpus_count": 2,
+    "general_freq": 9.33e-08
+  },
+  "thz-tds": {
+    "corpus_count": 2,
+    "general_freq": 1.35e-07
+  },
+  "favoring": {
+    "corpus_count": 2,
+    "general_freq": 1.45e-06
+  },
+  "superexchange": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "paramagnet": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "dispersionless": {
+    "corpus_count": 2,
+    "general_freq": 0.0
+  },
+  "quantization": {
+    "corpus_count": 2,
+    "general_freq": 3.47e-07
+  },
+  "reopens": {
+    "corpus_count": 2,
+    "general_freq": 3.89e-07
+  }
+}
