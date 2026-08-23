@@ -2,6 +2,31 @@ import feedparser
 import urllib.request
 import json
 import time
+import re
+
+
+def clean_latex(text):
+    # Convert common LaTeX Greek letters to actual unicode characters
+    greek_map = {
+        r'\alpha': 'α', r'\beta': 'β', r'\gamma': 'γ', r'\delta': 'δ',
+        r'\epsilon': 'ε', r'\theta': 'θ', r'\lambda': 'λ', r'\mu': 'μ',
+        r'\pi': 'π', r'\sigma': 'σ', r'\omega': 'ω'
+    }
+    for latex, unicode_char in greek_map.items():
+        text = text.replace(latex, unicode_char)
+
+    # Remove $ math delimiters but keep the content
+    text = text.replace('$', '')
+
+    # Convert LaTeX subscripts/superscripts like _2 -> 2, ^2 -> 2
+    text = re.sub(r'_(\d+)', r'\1', text)   # MnO_2 -> MnO2
+    text = re.sub(r'\^(\d+)', r'\1', text)  # x^2 -> x2
+
+    # Collapse extra whitespace
+    text = re.sub(r'\s+', ' ', text).strip()
+
+    return text
+
 
 def fetch_arxiv_abstracts(category="cond-mat.mtrl-sci", total=1000, batch_size=100):
     all_abstracts = []
@@ -26,8 +51,8 @@ def fetch_arxiv_abstracts(category="cond-mat.mtrl-sci", total=1000, batch_size=1
         for entry in feed.entries:
             all_abstracts.append({
                 "id": entry.id,
-                "title": entry.title.replace("\n", " ").strip(),
-                "abstract": entry.summary.replace("\n", " ").strip()
+                "title": clean_latex(entry.title.replace("\n", " ").strip()),
+                "abstract": clean_latex(entry.summary.replace("\n", " ").strip())
             })
 
         start += batch_size
