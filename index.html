@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Materials Science Jargon Simplifier</title>
+<style>
+  :root {
+    --bg: #fafafa;
+    --text: #1a1a1a;
+    --subtitle: #666;
+    --panel-bg: #ffffff;
+    --panel-border: #e0e0e0;
+    --panel-heading: #444;
+    --input-border: #ccc;
+    --input-bg: #ffffff;
+    --button-bg: #2b6cb0;
+    --button-text: #ffffff;
+    --button-disabled: #999;
+    --badge-bg: #f0f0f0;
+    --badge-text: #555;
+    --jargon-color: #d32f2f;
+    --notice-bg: #fff8e6;
+    --notice-border: #ffe0a3;
+    --notice-text: #a05a00;
+  }
+
+  [data-theme="dark"] {
+    --bg: #121212;
+    --text: #e8e8e8;
+    --subtitle: #a0a0a0;
+    --panel-bg: #1e1e1e;
+    --panel-border: #333;
+    --panel-heading: #ccc;
+    --input-border: #444;
+    --input-bg: #1e1e1e;
+    --button-bg: #4d8fd1;
+    --button-text: #0a0a0a;
+    --button-disabled: #555;
+    --badge-bg: #2a2a2a;
+    --badge-text: #bbb;
+    --jargon-color: #ff6b6b;
+    --notice-bg: #2b2410;
+    --notice-border: #5c4a12;
+    --notice-text: #e0b84d;
+  }
+
+  body {
+    font-family: -apple-system, Segoe UI, Roboto, sans-serif;
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 20px;
+    color: var(--text);
+    background: var(--bg);
+    transition: background 0.2s, color 0.2s;
+  }
+  .top-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  h1 { font-size: 1.5rem; margin-bottom: 4px; }
+  .subtitle { color: var(--subtitle); margin-bottom: 24px; font-size: 0.9rem; }
+  .theme-toggle {
+    background: var(--panel-bg);
+    border: 1px solid var(--panel-border);
+    color: var(--text);
+    border-radius: 20px;
+    padding: 6px 14px;
+    font-size: 0.85rem;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  textarea {
+    width: 100%;
+    height: 160px;
+    padding: 12px;
+    font-size: 1rem;
+    border: 1px solid var(--input-border);
+    border-radius: 8px;
+    box-sizing: border-box;
+    resize: vertical;
+    background: var(--input-bg);
+    color: var(--text);
+  }
+  button.primary {
+    margin-top: 12px;
+    padding: 10px 24px;
+    font-size: 1rem;
+    background: var(--button-bg);
+    color: var(--button-text);
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  button.primary:disabled { background: var(--button-disabled); cursor: not-allowed; }
+  .results {
+    display: none;
+    margin-top: 32px;
+    gap: 20px;
+  }
+  .results.visible {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  .panel {
+    background: var(--panel-bg);
+    border: 1px solid var(--panel-border);
+    border-radius: 8px;
+    padding: 16px;
+  }
+  .panel h2 {
+    font-size: 1rem;
+    margin-top: 0;
+    color: var(--panel-heading);
+  }
+  .panel p {
+    line-height: 1.6;
+    white-space: pre-wrap;
+  }
+  .jargon-word {
+    color: var(--jargon-color);
+    font-weight: 600;
+  }
+  .legend {
+    font-size: 0.8rem;
+    color: var(--subtitle);
+    margin-top: 6px;
+  }
+  .readability-badge {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 4px 10px;
+    background: var(--badge-bg);
+    color: var(--badge-text);
+    border-radius: 12px;
+    font-size: 0.8rem;
+  }
+  .loading-text {
+    display: none;
+    margin-top: 12px;
+    color: var(--subtitle);
+    font-size: 0.9rem;
+  }
+  .cold-start-note {
+    font-size: 0.85rem;
+    color: var(--notice-text);
+    background: var(--notice-bg);
+    border: 1px solid var(--notice-border);
+    border-radius: 6px;
+    padding: 10px 14px;
+    margin-bottom: 20px;
+  }
+
+  @media (max-width: 700px) {
+    body {
+      margin: 20px auto;
+      padding: 0 12px;
+    }
+    textarea {
+      height: 120px;
+    }
+    .results.visible {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+</head>
+<body>
+
+  <div class="top-row">
+    <div>
+      <h1>Materials Science Jargon Simplifier</h1>
+      <p class="subtitle">Paste a jargon-heavy materials science abstract to get a plain-language version.</p>
+    </div>
+    <button class="theme-toggle" id="themeToggle" onclick="toggleTheme()">🌙 Dark</button>
+  </div>
+
+  <div class="cold-start-note">
+     Note: this app is hosted on a free tier — the first request after inactivity may take 30-60 seconds to wake up the server. Subsequent requests will be fast.
+  </div>
+
+  <textarea id="inputText" placeholder="Paste your text here..."></textarea>
+  <br>
+  <button class="primary" id="simplifyBtn" onclick="simplify()">Simplify</button>
+  <div class="loading-text" id="loadingText">Simplifying... this may take a moment.</div>
+
+  <div class="results" id="results">
+    <div class="panel">
+      <h2>Original</h2>
+      <p id="originalText"></p>
+      <div class="legend">Jargon words are highlighted in <span style="color:#d32f2f; font-weight:600;">red</span>.</div>
+      <div class="readability-badge" id="originalReadability"></div>
+    </div>
+    <div class="panel">
+      <h2>Simplified</h2>
+      <p id="simplifiedText"></p>
+      <div class="readability-badge" id="simplifiedReadability"></div>
+    </div>
+  </div>
+
+<script>
+  // Change this to your deployed backend URL once hosted on Render
+  const API_URL = "http://127.0.0.1:8080/simplify";
+
+  // --- Theme handling ---
+  function applyTheme(theme) {
+    document.documentElement.setAttribute("data-theme", theme);
+    document.getElementById("themeToggle").textContent = theme === "dark" ? "☀️ Light" : "🌙 Dark";
+    localStorage.setItem("theme", theme);
+  }
+
+  function toggleTheme() {
+    const current = document.documentElement.getAttribute("data-theme");
+    applyTheme(current === "dark" ? "light" : "dark");
+  }
+
+  (function initTheme() {
+    const saved = localStorage.getItem("theme");
+    if (saved) {
+      applyTheme(saved);
+    } else {
+      const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+      applyTheme(prefersDark ? "dark" : "light");
+    }
+  })();
+
+  // --- Simplify logic ---
+  async function simplify() {
+    const text = document.getElementById("inputText").value.trim();
+    if (!text) return;
+
+    const btn = document.getElementById("simplifyBtn");
+    const loading = document.getElementById("loadingText");
+    const results = document.getElementById("results");
+
+    btn.disabled = true;
+    loading.style.display = "block";
+    results.classList.remove("visible");
+
+    try {
+      const response = await fetch(API_URL, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ text })
+      });
+
+      if (!response.ok) throw new Error("Request failed");
+
+      const data = await response.json();
+      renderResults(data);
+    } catch (err) {
+      alert("Something went wrong: " + err.message);
+    } finally {
+      btn.disabled = false;
+      loading.style.display = "none";
+    }
+  }
+
+  function renderResults(data) {
+    document.getElementById("originalText").innerHTML = highlightJargon(data.original, data.jargon_terms);
+    document.getElementById("simplifiedText").textContent = data.simplified;
+
+    document.getElementById("originalReadability").textContent =
+      `Readability: ${data.original_readability.toFixed(1)}`;
+    document.getElementById("simplifiedReadability").textContent =
+      `Readability: ${data.simplified_readability.toFixed(1)}`;
+
+    document.getElementById("results").classList.add("visible");
+  }
+
+  function highlightJargon(text, jargonList) {
+    if (!jargonList || jargonList.length === 0) return escapeHtml(text);
+
+    const escaped = jargonList.map(w => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"));
+    const pattern = new RegExp(`\\b(${escaped.join("|")})\\b`, "gi");
+
+    const safeText = escapeHtml(text);
+    return safeText.replace(pattern, match => `<span class="jargon-word">${match}</span>`);
+  }
+
+  function escapeHtml(str) {
+    const div = document.createElement("div");
+    div.textContent = str;
+    return div.innerHTML;
+  }
+</script>
+
+</body>
+</html>
