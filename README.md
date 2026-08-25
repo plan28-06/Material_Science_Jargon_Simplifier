@@ -72,5 +72,5 @@ uvicorn main:app --reload --port 8080
 
   ## Sample output
 
-  <img width="557" height="675" alt="image" src="https://github.com/user-attachments/assets/be284b89-be22-4013-9a8e-361987ef50d4" />
+<img width="644" height="691" alt="image" src="https://github.com/user-attachments/assets/0ac9e6d7-5d5a-4e37-afa7-a43258f85bb0" />
 
