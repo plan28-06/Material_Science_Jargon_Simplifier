@@ -1,5 +1,4 @@
 bart-simplifier-checkpoints/
-bart-simplifier-final/
 *.safetensors
 *.bin
 __pycache__
