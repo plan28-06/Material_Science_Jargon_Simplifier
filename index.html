@@ -263,9 +263,9 @@
     document.getElementById("simplifiedText").textContent = data.simplified;
 
     document.getElementById("originalReadability").textContent =
-      `Readability: ${data.original_readability.toFixed(1)}`;
+      `Flesch-Kincaid Readability: ${data.original_readability.toFixed(1)}`;
     document.getElementById("simplifiedReadability").textContent =
-      `Readability: ${data.simplified_readability.toFixed(1)}`;
+      `Flesch-Kincaid Readability: ${data.simplified_readability.toFixed(1)}`;
 
     document.getElementById("results").classList.add("visible");
   }
