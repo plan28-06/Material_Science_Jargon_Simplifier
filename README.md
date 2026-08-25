@@ -69,3 +69,8 @@ uvicorn main:app --reload --port 8080
 - **BART over T5:** BART's denoising-autoencoder pretraining objective is a closer match to simplification (corrupted→clean text) than T5's general text-to-text framing.
 - **Local generation over paid APIs:** synthetic training pairs were generated entirely with a locally-run open model, keeping the pipeline reproducible without API costs.
 - **Frequency-based jargon detection over a classifier:** avoids the need for labeled jargon data by reusing the complex/simple pairs already produced during training data generation.
+
+  ## Sample output
+
+  <img width="557" height="675" alt="image" src="https://github.com/user-attachments/assets/be284b89-be22-4013-9a8e-361987ef50d4" />
+
